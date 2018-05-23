@@ -1,0 +1,17 @@
+{
+  "name": "aliemcards_cards",
+  "version": "0.1.0",
+  "main": "index.ts",
+  "author": "Jeremy Voros",
+  "license": "CC-BY-NC-3.0",
+  "scripts": {
+    "test": "ts-node index.ts"
+  },
+  "dependencies": {
+    "@types/js-yaml": "^3.10.1",
+    "@types/node": "^9.4.7",
+    "ts-node": "^5.0.1",
+    "tslint": "^5.9.1",
+    "typescript": "^2.7.2"
+  }
+}

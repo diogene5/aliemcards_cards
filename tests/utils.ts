@@ -7,7 +7,7 @@ export function extract_frontmatter(contents: string): Card {
   const matches = contents.match(regex);
   const frontmatter = (matches[2] !== undefined) ? yaml.safeLoad(matches[2]) : null;
   const body = (matches[3] !== undefined) ? matches[3] : null;
-  return { ...frontmatter, body }
+  if (frontmatter) return { ...<CardSummary>frontmatter, body }
 }
 
 export function slugify(string: string): string {

@@ -15,27 +15,25 @@ const fuse = new Fuse(cards, {
   keys: [{ name: 'title', weight: 0.8 }, { name: 'body', weight: 0.2 }],
 });
 
-function runQuery(event) {
+module.exports.search = (event, context, callback) => {
   if (event.pathParameters && event.pathParameters.query) {
     const query = event.pathParameters.query;
     const result = fuse.search(decodeURIComponent(query)).slice(0,8);
-    return {
+    const response = {
       statusCode: 200,
-      body: {
+      body: JSON.stringify({
         message: 'Search complete.',
         cards: result
-      }
+      })
     };
+    callback(null, response);
+  } else {
+    const response = {
+      statusCode: 200,
+      body: JSON.stringify({
+        message: 'You must provide a search term',
+      })
+    };
+    callback(null, response);
   }
-  return {
-    statusCode: 200,
-    body: {
-      message: 'You must provide a search term',
-    }
-  };
-}
-
-module.exports.search = (event, context, callback) => {
-  const response = runQuery(event);
-  callback(null, response);
 };

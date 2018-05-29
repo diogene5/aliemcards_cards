@@ -1,0 +1,13 @@
+{
+	"slug": "pediatric-fever-over-three-months",
+	"title": "Pediatric Fever Without a Source - 3 months to 3 years",
+	"authors": [
+		"Christine Cho, MD"
+	],
+	"created": "2012/02/09",
+	"updates": null,
+	"categories": [
+		"Pediatrics"
+	],
+	"body": "\n\n\n- Fever that should prompt workup in this age group: T &ge;39.0&deg;C / 102.2&deg;F\n- Fever still defined as T &ge; 38&deg;C / 100.4&deg;F\n- Named viral infections DO count as a source, such as: HSV gingivostomatitis, Coxsackie hand-foot-mouth, RSV bronchiolitis (although UTI may present concurrently with RSV)\n- Unnamed, nonspecific viral infections MAY be considered a source for vaccinated, well-appearing child (especially with sick contacts)\n\n## Background\n\nSerious bacterial infection (SBI) includes:\n\n- **Occult bacteremia**: Most commonly Strep pneumoniae\n- **Meningitis**: &lt;0.03% risk in post-PCV7 vaccination era. Clinical exam is helpful.\n- **UTI**: 60-65% of febrile UTI patients have pyelonephritis\n- **Pneumonia**: Most common pathogens are viruses in post-PCV7 era\n- Also: Gastroenteritis, osteomyelitis, septic arthritis, soft tissue infection\n\n## Workup Guidelines (if nontoxic appearing)\n\n### Girls\n\n| Age                 | Diagnostic Testing                |\n| :-----------------: | :-------------------------------: |\n| ≤ 24 months         | Urinalysis, urine culture         |\n| > 24 months         | No urine studies                  |\n\n### Boys\n\n| Age            | Circumcised                             | Uncircumcised                           |\n| -------------- | --------------------------------------- | --------------------------------------- |\n| &le; 6 months  | _Consider_ urinalysis and urine culture | Urinalysis, urine culture               |\n| 6-12 months    | No urine studies                        | _Consider_ urinalysis and urine culture |\n| &gt; 12 months | No urine studies                        | No urine studies                        |\n\n### Urinary Tract Infection (UTI) Diagnosis\n\nAny of the following findings on UA:\n\n- Positive LE\n- Positive nitrites\n- ≥10 WBC/hpf\n\n### Additional Workup Beyond Urine Studies Based on Number of Pneumococcal Conjugate Vaccines (PCV)\n\n![Workup relative to number of pneumococcal conjugate vaccines](https://raw.githubusercontent.com/aliemteam/aliemcards_cards/master/cards/pediatric-fever-over-three-months/image-1.png)\n\n## References\n\n- Christine Cho, lecture presentation. Availabe at: http://lecture.ucsf.edu/ets/Play/b1d49de0f7f4407994c44a791b2223321d\n"
+}

@@ -1,5 +1,5 @@
 language: node_js
 node_js:
     - node 
-script: cd tests && yarn install && yarn test
+script: cd api && yarn install && yarn test
     

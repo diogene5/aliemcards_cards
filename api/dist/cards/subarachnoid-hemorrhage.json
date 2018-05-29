@@ -1,0 +1,13 @@
+{
+	"slug": "subarachnoid-hemorrhage",
+	"title": "Management of Aneurysmal Subarachnoid Hemorrhage",
+	"authors": [
+		"Michelle Lin, MD"
+	],
+	"created": "2010/12/17",
+	"updates": null,
+	"categories": [
+		"Neurology"
+	],
+	"body": "\n\n\n1. Control rebleeding: 4% incidence in first 24 hrs of bleed\n2. Blood pressure (BP) control:\n\n- No evidence for a target BP\n\n3. “Triple H therapy” to treat vasospasm: Hypervolemia, hypertension, hemodilution\n4. Ventriculostomy, if hydrocephalus (occurs in 33-50% of SAH patients) \n5. <span class=\"drug\">Nimodipine</span>: Vasospasm and delayed cerebral ischemia: Usually occurs 7-10 days after bleed. \n6. Definitive treatment: Microvascular aneurysm clipping or endovascular coil embolization\n\n## Grading Scales\n\n**Hunt-Hess Scale** (subjective and poor inter-rater variability) \n\n|  **Grade**  | **Description**                                                         |\n| :---------: | ----------------------------------------------------------------------- |\n|      0      | Unruptured                                                              |\n|      1      | Asymptomatic, or mild H/A and slight nuchal rigidity                    |\n|      1a     | Acute meningeal/brain reaction, but with fixed neuro deficit            |\n|      2      | Cranial nerve palsy, moderate to severe headache, or nuchal rigidity    |\n|      3      | Mild focal deficit, lethargy, or confusion                              |\n|      4      | Stupor, moderate to severe hemiparesis, or clearly decerebrate rigidity |\n|      5      | Deep coma, decerebrate rigidity, moribund appearance                    |\n\nIncrease by 1 grade for serious system disease, or severe vasospasm on arteriography\n\n**World Federation of Neurosurgical Societies** (WFNS) \n\n|  **WFNS Grade** | **Glasgow Coma Score**  |  **Major Focal Deficit** |\n| :-------------: | :---------------------: | :----------------------: |\n|  0 (unruptured) |          -----          |          ------          |\n|        1        |            15           |          Absent          |\n|        2        |          13-14          |          Absent          |\n|        3        |          13-14          |          Present         |\n|        4        |           7-12          |      Present/absent      |\n|        5        |           3-6           |      Present/absent      |\n\n## References\n\n- Edlow JA, Malek AM, Ogilvy CS. Aneurysmal subarachnoid hemorrhage: update for emergency physicians. J Emerg Med. 2008 Apr;34(3):237-51. Epub 2007 Dec 26. [[PubMed](http://www.ncbi.nlm.nih.gov/pubmed/?term=18155383)]\n"
+}

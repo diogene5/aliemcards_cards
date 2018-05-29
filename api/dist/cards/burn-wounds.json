@@ -1,0 +1,16 @@
+{
+	"slug": "burn-wounds",
+	"title": "Burn Wounds",
+	"authors": [
+		"Michelle Lin, MD",
+		"Christian Rose, MD"
+	],
+	"created": "2010/07/02",
+	"updates": [
+		"2016/04/22"
+	],
+	"categories": [
+		"Trauma"
+	],
+	"body": "\n\n\n## American Burn Association Classification (2009)\n\n**Superficial**: EPIDERMIS depth only; painful\n\n**Partial-Thickness:** Involves dermis\n\n- **Superficial**\n  - EPIDERMIS + SHALLOW DERMIS\n  - Moist, blistering; skin blanches, very painful\n  - Heals within 3 weeks\n- **Deep**\n  - EPIDERMIS + DEEP DERMIS\n  - Looks between superficial partial-thickness and 3<sup>rd</sup> degree burn\n  - May need skin graft\n  - Heals in >3 weeks\n\n**Full-Thickness:** \n\n- EPIDERMIS + ENTIRE DERMIS\n- Dark brown, charred, skin does not blanch\n- Site insensate because burned nerve fibers\n- Needs skin graft\n\n![Epidermis, dermis, and subcutaneous layers of skin](https://raw.githubusercontent.com/aliemteam/aliemcards_cards/master/cards/burn-wounds/image-1.png)\n\n## Total body surface area (TBSA)\n\n- Rule of 9’s\n- Patient’s palm and fingers = 1% TBSA\n- In calculating TBSA % burn, do not include 1<sup>st</sup> degree burns\n\n![Body surface area chart for an adult and child](https://raw.githubusercontent.com/aliemteam/aliemcards_cards/master/cards/burn-wounds/image-2.png)\n\n## Burn unit referral\n\n- Partial thickness >10% TBSA\n- Burns of face, hands, feet, genitalia, perineum, major joints\n- Full thickness burn\n- Electrical or chemical burn\n- Inhalational injury\n- Patient with co-morbidities\n- Special considerations: Social, emotional, or long-term rehab intervention\n\n**Fluid resuscitation** = 4 cc/kg/% TBSA of Lactated Ringers over 24 hrs with half given in first 8 hrs\n\n- Titrate to urine output\n\n| Age           | Target urine output |\n| ------------- | ------------------- |\n| Adults        | 30-50 cc/hr         |\n| Age > 2 yr    | 0.5-1 cc/kg/hr      |\n| Age &lt; 2 yr | 1-2 cc/kg/hr        |\n\n- Start if &gt;20% TBSA involvement\n\n## Burn Management\n\n**Minor burns**\n\n- Tetanus update\n- Pain medications\n- Debride dead skin, +/- unroof blisters >2 cm diameter\n- Apply topical antimicrobial/dressing\n- 24 hr follow-up\n\n**Large burns**\n\n- Apply topical antimicrobial agent such as **bacitracin**, **neomycin**, **mupirocin**, or **honey**. Membrane-based dressings can be used alternatively.\n\n**Practice Change:** **Silver sulfadiazine** has fallen out favor for burn prophylaxis in partial-thickness burns. May slow wound healing, increases frequency of dressing changes, and more painful\n\n**What is high voltage injury?** &gt;1000 volts\n\n## References\n\n- Gomez R et. al. Management of burn wounds in the emergency department.Emerg Med Clin North Am. 2007 Feb;25(1):135-46. [[PubMed](http://www.ncbi.nlm.nih.gov/pubmed/?term=Gomez+Cancio+Emerg+Med+Clin+of+N+Am+2007)]\n- Int Wound J. 2010 [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=20649832)]\n- Cochrane Database Syst Rev 2015 [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=25742878)] \n"
+}

@@ -1,8 +1,10 @@
 import * as path from 'path';
 
 export default {
-  CARD_DIR: path.resolve(__dirname, '../cards'),
+  API_DIR: path.resolve(__dirname, '../dist'),
+  CARD_DIR: path.resolve(__dirname, '../../cards'),
   IGNORED_FILES: ['.DS_Store', 'announcements.yml'],
+  IMG_URL_PREFIX: 'https://raw.githubusercontent.com/aliemteam/aliemcards_cards/master/cards',
   REGEX: {
     image_url: new RegExp(/[\w-]+\.(?:png|jpg|jpeg|gif)/, 'gi'),
     markdownH1: new RegExp(/^#(?!#).+/, 'm'),

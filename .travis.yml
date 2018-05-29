@@ -1,5 +1,11 @@
 language: node_js
 node_js:
     - node 
-script: cd tests && yarn install && yarn test
+script: cd api && yarn install && yarn test
+deploy:
+    on:
+        branch: 'master'
+    skip_cleanup: true
+    provider: script
+    script: npm install -g serverless && cd api && yarn build && serverless deploy
     

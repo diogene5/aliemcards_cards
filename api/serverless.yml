@@ -1,0 +1,26 @@
+service: aliemcards-search
+
+plugins:
+  - serverless-offline
+
+provider:
+  name: aws
+  runtime: nodejs8.10
+  memorySize: 1024
+
+package:
+  exclude:
+    - node_modules/**
+    - build/**
+    - dist/**
+  include:
+    - node_modules/fuse.js/**
+    - dist/cards.json
+
+functions:
+  search:
+    handler: lambda/handler.search
+    events:
+      - http:
+          path: /{query}
+          method: get

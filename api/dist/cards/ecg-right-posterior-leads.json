@@ -1,0 +1,14 @@
+{
+	"slug": "ecg-right-posterior-leads",
+	"title": "ECG Right and Posterior Leads",
+	"authors": [
+		"Michelle Lin, MD"
+	],
+	"created": "2011/03/11",
+	"updates": null,
+	"categories": [
+		"Cardiovascular",
+		"ECG"
+	],
+	"body": "\n\n\n## Right Sided ECG Leads\n\n![Right sided ECG lead placement diagram](https://raw.githubusercontent.com/aliemteam/aliemcards_cards/master/cards/ecg-right-posterior-leads/image-1.png)\n\nRight sided ECG leads (V1R-V6R) are positioned in a mirror image fashion to the standard 12-lead precordial leads.\n\n- **Purpose:** To detect right ventricular (RV) infarcts\n- RV infarcts usually associated with inferior wall AMI\n- **Indications**: 2004 ACC/AHA guidelines state to get a **right-sided ECG** in setting of **inferior AMI** (ST elevation in II, III, AVF)\n\n![Example ECG showing an inferior wall MI](https://raw.githubusercontent.com/aliemteam/aliemcards_cards/master/cards/ecg-right-posterior-leads/image-2.png)\n\nHints of an associated RV infarct:\n\n1. Hypotension (RV infarcts are extremely preload dependent) \n2. STE in III is taller than ST elevation in II\n3. STE in V1\n4. ST depression (STD) in V2 or V3 relative to V1 \n\n## Posterior ECG leads\n\n![Posterior ECG lead placement diagram](https://raw.githubusercontent.com/aliemteam/aliemcards_cards/master/cards/ecg-right-posterior-leads/image-3.png)\n\n**Posterior ECG leads (V7-V9)** are applied by moving V4-V6 to under the left scapula.\n\n**Purpose:** To detect posterior infarcts, which are often associated with inferior or lateral wall AMI\n\n**Indications:** \n\n- STD in V1-V3, or \n- R/S amplitude ratio in V1 or V2 is >1 \n\n![ST depression in leads V1-V3](https://raw.githubusercontent.com/aliemteam/aliemcards_cards/master/cards/ecg-right-posterior-leads/image-4.png)\n\nHints of an associated posterior infarct:\n\n1. Deep T wave inversion in V1 or V2 (in hyperacute stage) \n2. Upright T wave waves (in later stage)\n\n## References\n\n- Edhouse J, Brady WJ, Morris F. ABC of clinical electrocardiography: Acute myocardial infarction-Part II. BMJ. 2002; 324: 963-6. [[Source](https://doi.org/10.1136/bmj.324.7343.963)]\n- Van Gorselen EO, Verheugt FW, Meursing BT, Oude Ophuis AJ. Posterior myocardial infarction: the dark side of the moon. Neth Heart J. 2007; 15: 16-21. [[PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1847720/)]\n"
+}

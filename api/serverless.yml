@@ -6,6 +6,7 @@ plugins:
 provider:
   name: aws
   runtime: nodejs8.10
+  memorySize: 1024
 
 package:
   exclude:

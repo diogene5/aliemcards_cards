@@ -1,11 +1,14 @@
 language: node_js
 node_js:
-    - node 
+- node
 script: cd api && yarn install && yarn test
 deploy:
-    on:
-        branch: 'master'
-    skip_cleanup: true
-    provider: script
-    script: pwd && npm install -g serverless && yarn build && serverless deploy
-    
+  on:
+    branch: master
+  skip_cleanup: true
+  provider: script
+  script: pwd && npm install -g serverless && yarn build && serverless deploy
+  access_key_id:
+    secure: pd+i4v9zud9jWGGPs7hE6lct8i1EktSgwOJmXYV3S3/WzpkZhTWRSuNZ3D1WeZQjtfnroTFUdi+kcOwprQQhl+XZ3SLWjsLNDdCvUWhvm3lffoYY8SCFZiN/dNgffD7Elr2Ola3BoH3sgpO1peGEGp846mByymuUCdNkfWQflMq/PukDKd+uq6w340GoZykmD+0CIo4rXIZYjmnXy2TNg6vjy6J11CBQr66smY0k5loRjjrMhQUSNG52uzUhUKxa4G65bfHZYFl4+dQ9qXCiVHfhnMSztf0mEmfH1QXPbtVNxTvSJcnskEF+QERhhu8eN1Odxa81BUj1aYY+pD05FM5mTLh0W74ns5ipRrMuAeDkaeg5sLugOxTUTf0KkwL00B3APR1xpTWUKJSve/U0hvlVO6ooxAYR2K25/JtUl9+gQXt2TzLR2cqNndd2XZDSvRT3eM7iYLH7EjmUslLk2l0XgtiAR6UyQ3/2xC+tDkx7eGXraotSphYi7DnkINaBb/jpV4K+2WVpAv2E/kul9lf1DZ4SwhenB9K9r0Bbcfs/87jZ5w9Sj1nHhYzLaqxoSX+fGQd0za6bat0x9oigkvhX1/OlKHP5EMDelYW/ldFzpLTM332g8oAALBRsMWE/Ib5o6qDoaab0KvFexQOyt/u+Gkag1+NUppvZO/9ZZ5s=
+  secret_access_key:
+    secure: vIiXAa6aQN+qA3C796+HhSfXg12QrzDXrPM5QxOvHqz/Mf4OMp82IzfxkPlQzepg/vb03q/u4o4dfs4P0ptgiBUeoE7OuE2uil6h7RHcfr8PfopguvbVHwbbTqsj7WABue8s713aCKTRZbekkot6zb/fMkAw9kpcJ/v9ssBeOM8NT7Oj3lEhJJv8LAXvw6Io35byzTwawGa0NDyrR01Z8yJTU0pcMVTDfyOVmqUR+Dqjoy8iitKKBt6v/jJ6btg5GSXqu41nv1/X/WztuF4N5p09823QaoUfsNJNmEdYfJvJtbtDP9OR+0XSt6vNHjWSzJ6VG9a2Sz+TnhLEg9oRCXTaPVY/FAnvTaHJZFS0xOZb9TkeYtqVH0L6ot+6DSJeY10GnxZsF2nNr0TilmAjT2ohTXvLeHlLYPN1uvgptvbJatiEqRQDEBlNo+0kWaPfYBvFcqkE0rtcGfJl5GIlj8ifWM3ibkpO5l8IMmcJqYPR94xL1chf2Y9IwP57/FpQ7n90tIx+4Qm9N7U7n8D2ALB9xX/1+k00aU9sniG92a9rQObJntbhKRZtkY45QKWW4HAD2qmUphJG5wz1w4eHLHFnuH4K4L6Jq1PGIaWQS4oVnW+vYbtbKQH0y2CCUALDBoXI83CPT/DRkhFMjtFolNwfGdW7O/Sl1sHipn3tEYQ=

@@ -7,5 +7,5 @@ deploy:
         branch: 'master'
     skip_cleanup: true
     provider: script
-    script: npm install -g serverless && cd api && yarn build && serverless deploy
+    script: pwd && npm install -g serverless && yarn build && serverless deploy
     

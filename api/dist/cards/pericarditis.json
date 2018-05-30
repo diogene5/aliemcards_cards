@@ -1,0 +1,13 @@
+{
+	"slug": "pericarditis",
+	"title": "Pericarditis",
+	"authors": [
+		"Chris Bond, MD"
+	],
+	"created": "2015/01/06",
+	"updates": null,
+	"categories": [
+		"Cardiology"
+	],
+	"body": "\n\n\n## Diagnosis\n\n**2 of 4 Criteria Required**\n\n1. Classic chest pain history – Sharp, pleuritic, and positional (improved by sitting up and leaning forward) and pain radiating to trapezius ridge\n2. Pericardial friction rub\n3. Pericardial effusion on echocardiogram or ED bedside ultrasound\n4. Characteristic ECG changes\n\n## 3-Part Treatment\n\n1. <span class=\"drug\">NSAID</span> or <span class=\"drug\">Aspirin</span>\n- Taper dose over 3-4 weeks\n- No definite correct medication or dosing regimen has been established.\n \n2. <span class=\"drug\">Colchicine</span>\n- If >70 kg, 0.6 mg orally twice daily for 3 months \n- If <70 kg, 0.6 mg orally daily for 3 months\n- If diarrhea intractable, decrease dose to once daily for >70 kg or stop for <70 kg\n- Note: Some countries have 0.5 mg tabs only\n    \n3. <span class=\"drug\">Proton pump inhibitor</span> once daily for 3 months\n\n**Note**: _Steroids should be avoided_ in all cases except refractory cases and neoplastic/autoimmune causes. Steroids are an independent risk for increased recurrence of pericarditis. Expert consultation strongly recommended if prescribing.\n\n## Contraindications to Colchicine\n\n- Tuberculous, purulent or neoplastic pericarditis\n- Severe liver disease or aminotransferase levels ≥1.5x upper limits of normal\n- Serum creatinine >2.5 mg/dL (>221 umol/L)\n- Skeletal myopathy or CK > upper limits of normal\n- Blood dyscrasia\n- Inflammatory bowel disease\n- Life expectancy ≤18 months\n- Pregnancy or lactation\n- Women of childbearing potential not using contraception\n- Hypersensitivity to colchicine or other contraindication to its use\n\n## Cost of Colchicine per Pill\n\n- Canada/ Europe: ~ $0.50-1.00\n- USA: Up to $5 per pill\n\n## References\n\n- Imazio M, Brucato A, Cemin R, et al. A randomized trial of colchicine for acute pericarditis. N Engl J Med. 2013;369(16):1522-8. [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=23992557)]\n- Imazio M, Bobbio M, Cecchi E, et al. Colchicine as first-choice therapy for recurrent pericarditis: results of the CORE (COlchicine for REcurrent pericarditis) trial. Arch Intern Med. 2005;165(17):1987-91. [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=16186468)]\n- Imazio M, Cecchi E, Demichelis B, et al. Indicators of poor prognosis of acute pericarditis. Circulation. 2007;115(21):2739-44. [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=17502574)]\n"
+}

@@ -1,0 +1,15 @@
+{
+	"slug": "acute-bronchiolitis",
+	"title": "Acute Bronchiolitis Management",
+	"authors": [
+		"Michelle Lin, MD"
+	],
+	"created": "2016/11/07",
+	"updates": null,
+	"categories": [
+		"Pediatrics",
+		"Pulmonology",
+		"Infectious Disease"
+	],
+	"body": "\n\n\n## How to Use Algorithm\n\n### Scope\n\nDoes not apply if severe or atypical presentation\n\n### Inclusion Criteria\n\nChildren, 1‐12 months of age, presenting with symptoms and signs suggestive of a clinical diagnosis of bronchiolitis, such as upper respiratory tract infection such as rhinitis and coughing, progressing to lower respiratory symptoms including wheezing, crackles, and/or tachypnea that may result in difficulty breathing and/or difficulty feeding\n\n### Exclusion Criteria\n\n- Full‐term infants that are &lt;28 days old\n- Premature infants that are &lt;48 weeks post‐conception\n- Patients with hemodynamically significant cardiac or significant pulmonary disease (such as bronchopulmonary dysplasia or asthma) or other major chronic conditions (such as immunodeficiency and neuromuscular disease)\n\n## History & Physical\n\n1. Obtain patient's medical history\n2. Complete physical exam with vital signs and pulse oximetry\n3. Assess hydration status\n\n## Assess Severity\n\nAssess severity by considering:\n\n- Any history of apnea\n- Respiratory rate\n- Work of breathing\n- Mental status\n- Pulse oximetry\n- Ability to feed/drink\n\n> Routine chest xray, viral testing, and blood or urine testing are **NOT** recommended\n> The above diagnostic testing **MAY** be considered in the case of severe or atypical presentation or if concern for congenital or acquired heart disease\n\n## First Line Therapies\n\n- May consider supplemental oxygen to maintain SpO<sub>2</sub> > 90%\n- Consider nasal suctioning (if signs of nasal congestion)\n- Maintain hydration status (if needed via IV or nasogastric feedings)\n\n## If Patient is stable and/or improving\n\nDischarge home if patient meets following criteria.\n\n### Discharge Criteria (must meet all requirements)\n\n1. O<sub>2</sub> saturation &ge; 90% while awake\n2. No more than mild/moderate respiratory distress\n3. Ability to maintain hydration\n4. Ability to obtain reliable follow-up care\n\nIf patient does not meet all criteria, continue to observe and reassess.\n\n## If Patient NOT stable or improving\n\nConsider the following adjunct therapies\n\n- High flow nasal canula\n- Nebulized epinepherine\n- Manage as appropriate to clinical findings\n\n![Acute bronchiolitis workup pathway](https://raw.githubusercontent.com/aliemteam/aliemcards_cards/master/cards/acute-bronchiolitis/image-1.png)\n\n## References\n\n1. Ralston S, Lieberthal A, Meissner H, et al. Clinical practice guideline: the diagnosis, management, and prevention of bronchiolitis. Pediatrics. 2014;134(5):e1474-502. [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/25349312)]\n"
+}

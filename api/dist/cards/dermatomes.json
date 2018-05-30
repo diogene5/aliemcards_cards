@@ -1,0 +1,13 @@
+{
+	"slug": "dermatomes",
+	"title": "Dermatomes and Myotomal Maps",
+	"authors": [
+		"Michelle Lin, MD"
+	],
+	"created": "2013/05/26",
+	"updates": null,
+	"categories": [
+		"Orthopedics"
+	],
+	"body": "\n\n\n![Dermatome map diagram](https://raw.githubusercontent.com/aliemteam/aliemcards_cards/master/cards/dermatomes/image-1.png)\n\n## Testing Motor Function by Level\n\n\\| Nerve Level \\|  Motor Function \\|\n\\| _---_ \\| --- \\|\n| C1-C4 | Spontaneous breathing |\n| C5 | Shoulder abduction (deltoid) |\n| C6 | Wrist extension (carpi radialis longus and brevis) |\n| C7 | Elbow extension (triceps) |\n| C8 | Finger flexion (flexor digitorum superficialis/profundis, lumbricals) |\n| T1 |  Finger adduction & abduction (dorsal/palmar interossei, abductor digiti quinti) |\n| T1-T12 | Intercostal and abdominal muscles |\n| T12-L3 | Hip flexion (iliopsoas) |\n| L2-L4 | Hip flexion, knee extension (quadriceps), hip adduction\n| L4 | Ankle dorsiflexion and inversion (anterior tibialis) |\n| L5 | Big toe extension (ext hallucis longus), heel walk (ext digitorum), hip abduction (gluteus medius) |\n| S1 | Ankle plantarflexion and eversion (peroneus longus), toe walk (peroneus brevis), hip extension (gluteus maximus) |\n| S2-S4 | Rectal sphincter tone |\n\n## References\n\n1. \"Dermatomes Anatomy: Overview, Gross Anatomy, Natural Variants\". Emedicine.medscape.com. N.p., 2017. Web. 24 Mar. 2017. [[Source](http://emedicine.medscape.com/article/1878388-overview)]\n"
+}

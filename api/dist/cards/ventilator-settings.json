@@ -1,0 +1,14 @@
+{
+	"slug": "ventilator-settings",
+	"title": "Ventilator Setting for Lung Protection",
+	"authors": [
+		"Jenny Wilson, MD"
+	],
+	"created": "2011/10/14",
+	"updates": null,
+	"categories": [
+		"Pulmonology",
+		"Critical Care"
+	],
+	"body": "\n\n\n**Lung protection:** Strategy for patients with lung injury and those prone to lung injury. This applies to every intubated patient **except** those with acute asthma/COPD.\n\nInitial ventilator setting for patient with predicted body wt = 70 kg (5'9\" male; 5'11\" female)\n\n<table>\n<colgroup>\n<col width=\"50%\" />\n<col width=\"50%\" />\n</colgroup>\n<tbody>\n<tr class=\"odd\">\n<td><ul>\n<li>Mode = Volume Assist Control (AC)<br />\n</li>\n<li>Tidal volume = 350-560 mL<br />\n</li>\n<li>Inspiratory flow rate = 60 L/min<br />\n</li>\n<li>Respiratory rate = 16<br />\n</li>\n</ul></td>\n<td><ul>\n<li>FiO2 = 100%<br />\n</li>\n<li>PEEP = 5<br />\n</li>\n<li>Goal plateau P &lt;30 cmH2O<br />\n</li>\n</ul></td>\n</tr>\n</tbody>\n</table>\n\n## Ventilator Mode\n\nVolume Assist Control (AC)\n\n## Tidal Volume (Vt)\n\n6-8 mL/kg (LUNG PROTECTION)\n\n- Based on predicted body weight (kg)\n- If acute lung injury (ALI) or ARDS present, goal is to bring down to 6 mL/kg\n- Do NOT alter to fix ventilation, but may need to alter if plateau pressure is > 30 cmH2O, see below). Only protects lung by preventing barotrauma.\n\n## Inspiratory Flow Rate (IFR)\n\n60-80 L/min (PATIENT COMFORT)\n\n- Increase IFR and ensure adequate sedation if patient uncomfortable or sucking on tube\n\n## Respiratory rate (RR)\n\nStart at 16-18, then adjust based on pCO2 (VENTILATION)\n\n- Goal pH = 7.30 - 7.45\n- Goal pCO2 = mild hypercarbia\n\n## FiO2 & PEEP\n\nStart at FiO2 100% and PEEP 5 (OXYGENATION)\n\n- Goal PaO2=55-80 or SpO2=88-95%\n- Wait 5-15 min, then draw an ABG\n- If ABG and SpO2 show adequate oxygenation, drop FiO2 to 30-40% and begin titrating FiO2 and PEEP per the chart below to achieve oxygenation goal.\n\n![FiO2 and PEEP chart](https://raw.githubusercontent.com/aliemteam/aliemcards_cards/master/cards/ventilator-settings/image-1.png)\n\n[EMCrit.org](http://www.EMCrit.org)\n\n## Plateau Pressure (Pplt)\n\n- Goal Pplt &lt;30 cmH2O\n- Check after initial settings, and at regular intervals thereafter\n- Technique: Press inspiratory hold button for 0.5 sec and look at pressure gauge\n- If Pplt >30 cmH2O, lower Vt until you acheive your goal\n- May need to go as low as 4 mL/kg of predicted body weight\n\n## References\n\n- NHLBI ARDS Network, \"Ventilator Protocol Card\" [[Source](http://www.ardsnet.org/node/77791)]\n- Ventilation with lower tidal volumes as compared with traditional tidal volumes for acute lung injury and the acute respiratory distress syndrome. The Acute Respiratory Distress Syndrome Network. N Engl J Med. 2000 May 4;342(18):1301-8. [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/10793162)]\n"
+}

@@ -1,6 +1,7 @@
 'use strict';
 
 const cards = require('../dist/cards.json').cards;
+const summaries = require('../dist/cardsummaries.json').card_summaries;
 const Fuse = require('fuse.js');
 
 const fuse = new Fuse(cards, {
@@ -15,25 +16,26 @@ const fuse = new Fuse(cards, {
   keys: [{ name: 'title', weight: 0.8 }, { name: 'body', weight: 0.2 }],
 });
 
+function respond(obj) {
+  return {
+    statusCode:200,
+    body: JSON.stringify(obj)
+  }
+}
+
 module.exports.search = (event, context, callback) => {
   if (event.pathParameters && event.pathParameters.query) {
     const query = event.pathParameters.query;
     const result = fuse.search(decodeURIComponent(query)).slice(0,8);
-    const response = {
-      statusCode: 200,
-      body: JSON.stringify({
-        message: 'Search complete.',
-        cards: result
-      })
-    };
-    callback(null, response);
+    callback(null, respond({
+      message: 'Search complete.',
+      cards: result
+    }));
   } else {
-    const response = {
-      statusCode: 200,
-      body: JSON.stringify({
-        message: 'You must provide a search term',
-      })
-    };
-    callback(null, response);
+    callback(null, respond({ message: 'You must provide a search term' }));
   }
+};
+
+module.exports.summaries = (event, context, callback) => {
+  callback(null, respond(summaries));
 };

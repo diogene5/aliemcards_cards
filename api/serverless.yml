@@ -16,11 +16,18 @@ package:
   include:
     - node_modules/fuse.js/**
     - dist/cards.json
+    - dist/cardsummaries.json
 
 functions:
   search:
     handler: lambda/handler.search
     events:
       - http:
-          path: /{query}
+          path: search/{query}
+          method: get
+  summaries:
+    handler: lambda/handler.summaries
+    events:
+      - http:
+          path: /summaries
           method: get

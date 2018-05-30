@@ -3,12 +3,10 @@ node_js:
 - node
 script: cd api && yarn install && yarn test
 deploy:
-  skip_cleanup: true
-  provider: script
-  script: pwd && npm install -g serverless && yarn build && serverless deploy
-  provider: pages
-  skip-cleanup: true
-  local-dir: api/dist
-  github-token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
+  - provider: script
+    script: pwd && npm install -g serverless && yarn build && serverless deploy
+  - provider: pages
+    local-dir: api/dist
+    github-token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
   on:
     branch: master

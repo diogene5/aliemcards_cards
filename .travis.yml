@@ -8,7 +8,7 @@ deploy:
   script: pwd && npm install -g serverless && yarn build && serverless deploy
   provider: pages
   skip-cleanup: true
-  local-dir: dist
+  local-dir: api/dist
   github-token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
   on:
     branch: master

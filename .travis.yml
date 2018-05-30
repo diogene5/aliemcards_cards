@@ -7,7 +7,7 @@ after_success:
 deploy:
   - provider: script
     skip_cleanup: true
-    script: pwd && npm install -g serverless && yarn build && serverless deploy
+    script: npm install -g serverless && serverless deploy
     on:
       branch: master
   - provider: pages

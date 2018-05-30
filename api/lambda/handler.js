@@ -1,7 +1,6 @@
 'use strict';
 
 const cards = require('../dist/cards.json').cards;
-const summaries = require('../dist/cardsummaries.json').card_summaries;
 const Fuse = require('fuse.js');
 
 const fuse = new Fuse(cards, {
@@ -34,8 +33,4 @@ module.exports.search = (event, context, callback) => {
   } else {
     callback(null, respond({ message: 'You must provide a search term' }));
   }
-};
-
-module.exports.summaries = (event, context, callback) => {
-  callback(null, respond(summaries));
 };

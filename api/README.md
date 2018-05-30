@@ -1,12 +1,16 @@
 # ALIEM Cards API
 
-Node app to build an API. All of the JSON files that make up the API are static and served via GitHub. The JSON files are built by the scripts in the `build` directory. JSON files acting as api endpoints are found in the `dist` directory.
+Node app to build an API. All of the JSON files that make up the API are static and served via GitHub Pages. The JSON files are built by the scripts in the `build` directory. JSON files acting as api endpoints are found in the `dist` directory.
 
 The API also uses an AWS Lambda to handle search. This script is located in the `lambda` directory. AWS provisioning is handled using the [Serverless framework](https://serverless.com/).
 
+## API GitHub Pages Endpoints
+
+### Base URL: https://aliemteam.github.io/aliemcards_cards/
+
 ## API Search Endpoint
 
-### GET - https://mexv6u9ex2.execute-api.us-east-1.amazonaws.com/dev/:query
+### GET - https://mexv6u9ex2.execute-api.us-east-1.amazonaws.com/dev/search/:query
 
 Replace `:query` with a URL encoded search term/phrase. Returns JSON response:
 

@@ -25,9 +25,3 @@ functions:
       - http:
           path: search/{query}
           method: get
-  summaries:
-    handler: lambda/handler.summaries
-    events:
-      - http:
-          path: /summaries
-          method: get

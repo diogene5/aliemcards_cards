@@ -2,12 +2,16 @@ language: node_js
 node_js:
 - node
 script: cd api && yarn install && yarn test
+after_success:
+- yarn build
 deploy:
   - provider: script
+    skip_cleanup: true
     script: pwd && npm install -g serverless && yarn build && serverless deploy
     on:
       branch: master
   - provider: pages
+    skip_cleanup: true
     local-dir: api/dist
     github-token: $GITHUB_TOKEN
     on:

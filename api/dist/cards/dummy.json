@@ -1,5 +1,5 @@
 {
-	"slug": "__dummy",
+	"slug": "dummy",
 	"title": "Abdominal Pain - Diagnostic Studies",
 	"authors": [
 		"Michelle Lin, MD"
@@ -13,5 +13,5 @@
 		"Surgery",
 		"EBM"
 	],
-	"body": "\n\n\ntesting webhook secret check\n\n## References \n\n- here is a reference"
+	"body": "\n\n\ntesting travis after_success script.\n\n## References \n\n- here is a reference"
 }

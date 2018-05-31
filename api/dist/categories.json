@@ -5,22 +5,6 @@
 			"name": "Gastroenterology",
 			"cards": [
 				{
-					"slug": "__dummy",
-					"title": "Abdominal Pain - Diagnostic Studies",
-					"authors": [
-						"Michelle Lin, MD"
-					],
-					"created": "2011/07/22",
-					"updates": [
-						"2017/02/21"
-					],
-					"categories": [
-						"Gastroenterology",
-						"Surgery",
-						"EBM"
-					]
-				},
-				{
 					"slug": "abdominal-pain-diagnostics",
 					"title": "Abdominal Pain - Diagnostic Studies",
 					"authors": [
@@ -59,6 +43,22 @@
 					"updates": null,
 					"categories": [
 						"Gastroenterology",
+						"EBM"
+					]
+				},
+				{
+					"slug": "dummy",
+					"title": "Abdominal Pain - Diagnostic Studies",
+					"authors": [
+						"Michelle Lin, MD"
+					],
+					"created": "2011/07/22",
+					"updates": [
+						"2017/02/21"
+					],
+					"categories": [
+						"Gastroenterology",
+						"Surgery",
 						"EBM"
 					]
 				},
@@ -134,22 +134,6 @@
 			"name": "Surgery",
 			"cards": [
 				{
-					"slug": "__dummy",
-					"title": "Abdominal Pain - Diagnostic Studies",
-					"authors": [
-						"Michelle Lin, MD"
-					],
-					"created": "2011/07/22",
-					"updates": [
-						"2017/02/21"
-					],
-					"categories": [
-						"Gastroenterology",
-						"Surgery",
-						"EBM"
-					]
-				},
-				{
 					"slug": "abdominal-pain-diagnostics",
 					"title": "Abdominal Pain - Diagnostic Studies",
 					"authors": [
@@ -192,6 +176,22 @@
 					]
 				},
 				{
+					"slug": "dummy",
+					"title": "Abdominal Pain - Diagnostic Studies",
+					"authors": [
+						"Michelle Lin, MD"
+					],
+					"created": "2011/07/22",
+					"updates": [
+						"2017/02/21"
+					],
+					"categories": [
+						"Gastroenterology",
+						"Surgery",
+						"EBM"
+					]
+				},
+				{
 					"slug": "suture-materials",
 					"title": "Suture Materials",
 					"authors": [
@@ -209,22 +209,6 @@
 			"slug": "ebm",
 			"name": "EBM",
 			"cards": [
-				{
-					"slug": "__dummy",
-					"title": "Abdominal Pain - Diagnostic Studies",
-					"authors": [
-						"Michelle Lin, MD"
-					],
-					"created": "2011/07/22",
-					"updates": [
-						"2017/02/21"
-					],
-					"categories": [
-						"Gastroenterology",
-						"Surgery",
-						"EBM"
-					]
-				},
 				{
 					"slug": "abdominal-pain-diagnostics",
 					"title": "Abdominal Pain - Diagnostic Studies",
@@ -329,6 +313,22 @@
 					"updates": null,
 					"categories": [
 						"Cardiovascular",
+						"EBM"
+					]
+				},
+				{
+					"slug": "dummy",
+					"title": "Abdominal Pain - Diagnostic Studies",
+					"authors": [
+						"Michelle Lin, MD"
+					],
+					"created": "2011/07/22",
+					"updates": [
+						"2017/02/21"
+					],
+					"categories": [
+						"Gastroenterology",
+						"Surgery",
 						"EBM"
 					]
 				},

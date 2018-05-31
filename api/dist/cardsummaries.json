@@ -1,22 +1,6 @@
 {
-	"hash": "44998537eab0f72cd727379b2b26353f",
+	"hash": "b744c64e7dce9396f4ebba7722d8fe36",
 	"card_summaries": [
-		{
-			"slug": "__dummy",
-			"title": "Abdominal Pain - Diagnostic Studies",
-			"authors": [
-				"Michelle Lin, MD"
-			],
-			"created": "2011/07/22",
-			"updates": [
-				"2017/02/21"
-			],
-			"categories": [
-				"Gastroenterology",
-				"Surgery",
-				"EBM"
-			]
-		},
 		{
 			"slug": "abdominal-pain-diagnostics",
 			"title": "Abdominal Pain - Diagnostic Studies",
@@ -637,6 +621,22 @@
 			"updates": null,
 			"categories": [
 				"Cardiovascular",
+				"EBM"
+			]
+		},
+		{
+			"slug": "dummy",
+			"title": "Abdominal Pain - Diagnostic Studies",
+			"authors": [
+				"Michelle Lin, MD"
+			],
+			"created": "2011/07/22",
+			"updates": [
+				"2017/02/21"
+			],
+			"categories": [
+				"Gastroenterology",
+				"Surgery",
 				"EBM"
 			]
 		},

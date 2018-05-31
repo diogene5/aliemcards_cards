@@ -67,18 +67,17 @@
 			]
 		},
 		{
-			"slug": "benzo-metabolism",
-			"title": "Benzodiazepines Metabolism by the Liver",
+			"slug": "brugada",
+			"title": "Brugada Syndrome",
 			"authors": [
-				"Bryan Hayes, PharmD"
+				"Michelle Lin, MD"
 			],
-			"created": "2013/11/13",
+			"created": "2011/05/06",
 			"updates": [
 				"2017/05/10"
 			],
 			"categories": [
-				"Pharmacology",
-				"Toxicology"
+				"Cardiovascular"
 			]
 		},
 		{
@@ -96,17 +95,18 @@
 			]
 		},
 		{
-			"slug": "brugada",
-			"title": "Brugada Syndrome",
+			"slug": "benzo-metabolism",
+			"title": "Benzodiazepines Metabolism by the Liver",
 			"authors": [
-				"Michelle Lin, MD"
+				"Bryan Hayes, PharmD"
 			],
-			"created": "2011/05/06",
+			"created": "2013/11/13",
 			"updates": [
 				"2017/05/10"
 			],
 			"categories": [
-				"Cardiovascular"
+				"Pharmacology",
+				"Toxicology"
 			]
 		}
 	]

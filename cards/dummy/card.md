@@ -13,7 +13,7 @@ categories:
 
 # Dummy
 
-testing travis api build
+testing travis after_success script.
 
 ## References 
 

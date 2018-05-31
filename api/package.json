@@ -10,7 +10,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "cd api && yarn build && git add dist/"
+      "pre-commit": "yarn build && git add dist/"
     }
   },
   "dependencies": {

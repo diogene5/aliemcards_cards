@@ -2,6 +2,8 @@
 
 Node app to build an API. All of the JSON files that make up the API are static and served via GitHub Pages. The JSON files are built by the scripts in the `build` directory. JSON files acting as api endpoints are found in the `dist` directory.
 
+The JSON endpoints are build by Travis with each commit, and then pushed to the `gh-pages` branch. The `build` script is run by Travis prior to pushing to the `gh-pages` branch, so it is always up to date with the most current changes. The `dist` directory in the `master` branch therefore, might be one commit behind the `gh-pages` branch if the `build` script was not run prior to commiting and pushing to `master`.
+
 The API also uses an AWS Lambda to handle search. This script is located in the `lambda` directory. AWS provisioning is handled using the [Serverless framework](https://serverless.com/).
 
 ## API GitHub Pages Endpoints

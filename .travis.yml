@@ -1,13 +1,13 @@
 language: node_js
 node_js:
 - node
-script: cd api && yarn install && yarn test
+script: yarn install && yarn test
 after_success:
 - yarn build
 deploy:
   - provider: script
     skip_cleanup: true
-    script: npm install -g serverless && serverless deploy
+    script: npm install -g serverless && cd api && serverless deploy
     on:
       branch: master
   - provider: pages

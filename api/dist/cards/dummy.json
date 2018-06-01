@@ -13,5 +13,5 @@
 		"Surgery",
 		"EBM"
 	],
-	"body": "\n\n\nBreak\n* linter\n* should\n* alert\n\n# Some Markdown #\n\n_emphasis_\n\nA list:\n  * one\n  * two\n  * three\n\n\n\n_testing travis aftersuccess script._\n\n| table | fences |\n|----|----|\n|a|b|\n\n## References \n\n- here is a reference"
+	"body": "\n\n\n_emphasis_\n\n_testing travis aftersuccess script._\n\n| table | fences |\n|-------|--------|\n| a     | b      |\n\n## References \n\n- here is a reference\n"
 }

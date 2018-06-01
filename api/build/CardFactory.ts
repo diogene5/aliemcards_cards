@@ -25,6 +25,9 @@ export default class CardFactory {
   writeEndpoints(): void {
     // api directory emptied by build script, make necessary sub directory
     fs.mkdirSync(`${this.api_dir}/cards`);
+    fs.mkdirSync(`${this.api_dir}/images`);
+    // move images
+    this.copyImages();
     // master list
     fs.writeFileSync(`${this.api_dir}/cards.json`, stringify({ hash: this.hash, cards: this.cards }));
     // summary list
@@ -46,6 +49,22 @@ export default class CardFactory {
       updates: this.buildRecent('updates').slice(0,4),
     }
     fs.writeFileSync(`${this.api_dir}/recent.json`, stringify(recent));
+  }
+
+  // images
+  copyImages(): void {
+    const card_paths = fs.readdirSync(this.card_dir).filter(x => config.IGNORED_FILES.indexOf(x) === -1);
+    card_paths.forEach(slug => {
+      const images = fs.readdirSync(`${this.card_dir}/${slug}`).filter(x => x.match(config.REGEX.image_file) !== null);
+      if (images.length > 0) this.moveImages(slug, images);
+    });
+  }
+
+  moveImages(slug: string, images: string[]): void {
+    fs.mkdirSync(`${this.api_dir}/images/${slug}`);
+    images.forEach(image => {
+      fs.writeFileSync(`${this.api_dir}/images/${slug}/${image}`, fs.readFileSync(`${this.card_dir}/${slug}/${image}`));
+    });
   }
 
   // cards

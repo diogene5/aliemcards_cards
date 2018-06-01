@@ -4,36 +4,22 @@ authors:
     - Michelle Lin, MD
 created: 2011/07/22
 updates: 
-  - 2017/02/21
+    - 2017/02/21
 categories:
     - Gastroenterology
     - Surgery
     - EBM
 ---
 
-# Dummy #
-
-Break
-* linter
-* should
-* alert
-
-# Some Markdown #
+# Dummy
 
 _emphasis_
-
-A list:
-  * one
-  * two
-  * three
-
-
 
 _testing travis aftersuccess script._
 
 | table | fences |
-|----|----|
-|a|b|
+|-------|--------|
+| a     | b      |
 
 ## References 
 

@@ -1,12 +1,11 @@
 {
   "name": "aliemcards_cards",
   "version": "0.1.0",
-  "main": "v1_build/index.ts",
+  "main": "api/build/index.ts",
   "author": "Jeremy Voros",
   "license": "CC-BY-NC-3.0",
   "scripts": {
-    "test": "ts-node ./api/build/card-linter.ts",
-    "mdlint": "remark ./cards",
+    "test": "remark ./cards -q && ts-node ./api/build/card-linter.ts",
     "build": "rm -rf ./api/dist/*; ts-node ./api/build/index.ts"
   },
   "dependencies": {

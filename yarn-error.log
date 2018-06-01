@@ -1,5 +1,5 @@
 Arguments: 
-  /usr/local/Cellar/node/9.8.0/bin/node /usr/local/Cellar/yarn/1.5.1_1/libexec/bin/yarn.js mdlint
+  /usr/local/Cellar/node/9.8.0/bin/node /usr/local/Cellar/yarn/1.5.1_1/libexec/bin/yarn.js test
 
 PATH: 
   /Users/jeremy/.rvm/gems/ruby-2.4.1/bin:/Users/jeremy/.rvm/gems/ruby-2.4.1@global/bin:/Users/jeremy/.rvm/rubies/ruby-2.4.1/bin:/usr/local/bin:/usr/local/bin:/Users/jeremy/.config/yarn/global/node_modules/.bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/jeremy/.rvm/bin
@@ -17,12 +17,11 @@ npm manifest:
   {
     "name": "aliemcards_cards",
     "version": "0.1.0",
-    "main": "v1_build/index.ts",
+    "main": "api/build/index.ts",
     "author": "Jeremy Voros",
     "license": "CC-BY-NC-3.0",
     "scripts": {
-      "test": "ts-node ./api/build/card-linter.ts",
-      "mdlint": "remark ./cards",
+      "test": "remark ./cards -q && ts-node ./api/build/card-linter.ts",
       "build": "rm -rf ./api/dist/*; ts-node ./api/build/index.ts"
     },
     "dependencies": {
@@ -2243,7 +2242,7 @@ Trace:
   Error: Command failed.
   Exit code: 1
   Command: sh
-  Arguments: -c remark ./cards
+  Arguments: -c remark ./cards -q && ts-node ./api/build/card-linter.ts
   Directory: /Users/jeremy/Sites/ALiEM/aliemcards_cards
   Output:
   

@@ -10,13 +10,11 @@ provider:
 
 package:
   exclude:
-    - node_modules/**
     - build/**
     - dist/**
   include:
-    - node_modules/fuse.js/**
+    - ../node_modules/fuse.js/**
     - dist/cards.json
-    - dist/cardsummaries.json
 
 functions:
   search:

@@ -1,8 +1,8 @@
 import * as fs from 'fs';
 import * as path from 'path';
 
-import config from './config';
-import { extract_frontmatter } from './utils';
+import config from '../build/config';
+import { extract_frontmatter } from '../build/utils';
 
 interface FilePaths {
   base: string,

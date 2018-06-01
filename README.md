@@ -4,7 +4,7 @@ This repository contains the markdown source files of the ALiEM Cards. They are 
 
 The `api` file contains a Node JS app that error checks the cards and builds a static JSON backend and AWS Lambda search service.
 
-# ALIEM Cards API
+# ALiEM Cards API
 
 All of the JSON files that make up the API are static and served via GitHub Pages. The JSON files are built by the scripts in the `/api/build` directory. JSON files acting as api endpoints are built in an untracked `/api/dist` directory.
 

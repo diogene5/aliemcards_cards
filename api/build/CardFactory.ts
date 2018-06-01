@@ -14,9 +14,9 @@ export default class CardFactory {
   summaries: CardSummary[];
   hash: string;
 
-  constructor() {
-    this.card_dir = config.CARD_DIR;
-    this.api_dir = config.API_DIR;
+  constructor(card_dir: string, out_dir: string) {
+    this.card_dir = card_dir;
+    this.api_dir = out_dir;
     this.cards = this.buildCards();
     this.summaries = this.buildSummaries();
     this.hash = crypto.createHash('md5').update(JSON.stringify(this.cards)).digest('hex');

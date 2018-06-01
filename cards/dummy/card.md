@@ -11,9 +11,29 @@ categories:
     - EBM
 ---
 
-# Dummy
+# Dummy #
 
-testing travis after_success script.
+Break
+* linter
+* should
+* alert
+
+# Some Markdown #
+
+_emphasis_
+
+A list:
+  * one
+  * two
+  * three
+
+
+
+_testing travis aftersuccess script._
+
+| table | fences |
+|----|----|
+|a|b|
 
 ## References 
 

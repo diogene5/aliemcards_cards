@@ -6,8 +6,7 @@
   "license": "CC-BY-NC-3.0",
   "scripts": {
     "test": "remark ./cards -q && ts-node ./api/build/card-linter.ts",
-    "build": "mkdir ./api/dist; ts-node ./api/build/index.ts",
-    "rebuild": "rm -rf ./api/dist/*; ts-node ./api/build/index.ts"
+    "build": "rm -rf ./api/dist && mkdir ./api/dist && ts-node ./api/build/index.ts"
   },
   "dependencies": {
     "@types/js-yaml": "^3.10.1",

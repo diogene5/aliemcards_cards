@@ -1,0 +1,132 @@
+{
+	"hash": "550ad9402eba6e949e9ea8ae92f08058",
+	"card_summaries": [
+		{
+			"slug": "adenosine",
+			"title": "Adenosine 6-12-12 Approach",
+			"authors": [
+				"Bryan Hayes, PharmD"
+			],
+			"created": "2012/12/06",
+			"updates": null,
+			"categories": [
+				"Cardiovascular",
+				"Pharmacology",
+				"Critical Care"
+			]
+		},
+		{
+			"slug": "brugada",
+			"title": "Brugada Syndrome",
+			"authors": [
+				"Michelle Lin, MD"
+			],
+			"created": "2011/05/06",
+			"updates": [
+				"2017/05/10"
+			],
+			"categories": [
+				"Cardiovascular"
+			]
+		},
+		{
+			"slug": "croup",
+			"title": "Croup",
+			"authors": [
+				"Michelle Lin, MD"
+			],
+			"created": "2010/08/20",
+			"updates": null,
+			"categories": [
+				"Pediatrics",
+				"ENT"
+			]
+		},
+		{
+			"slug": "dental-infections",
+			"title": "Dental Infections",
+			"authors": [
+				"Hans Rosenberg, MD"
+			],
+			"created": "2011/04/22",
+			"updates": null,
+			"categories": [
+				"ENT"
+			]
+		},
+		{
+			"slug": "emtala-rules",
+			"title": "EMTALA Transfer Rules",
+			"authors": [
+				"Michelle Lin, MD"
+			],
+			"created": "2012/09/14",
+			"updates": null,
+			"categories": [
+				"EMS"
+			]
+		},
+		{
+			"slug": "ketofol",
+			"title": "Ketofol",
+			"authors": [
+				"Salim Rezaie, MD"
+			],
+			"created": "2013/03/20",
+			"updates": null,
+			"categories": [
+				"Pharmacology"
+			]
+		},
+		{
+			"slug": "paracentesis",
+			"title": "Paracentesis for Ascites",
+			"authors": [
+				"Michelle Lin, MD"
+			],
+			"created": "2010/06/25",
+			"updates": null,
+			"categories": [
+				"Gastroenterology"
+			]
+		},
+		{
+			"slug": "radial-head-fracture",
+			"title": "Elbow Injuries - Radial Head Fracture",
+			"authors": [
+				"Melody Glenn, MD",
+				"Andrew Little, DO",
+				"Mary Haas, MD"
+			],
+			"created": "2016/12/12",
+			"updates": null,
+			"categories": [
+				"Orthopedics"
+			]
+		},
+		{
+			"slug": "subarachnoid-hemorrhage",
+			"title": "Management of Aneurysmal Subarachnoid Hemorrhage",
+			"authors": [
+				"Michelle Lin, MD"
+			],
+			"created": "2010/12/17",
+			"updates": null,
+			"categories": [
+				"Neurology"
+			]
+		},
+		{
+			"slug": "tpa-code-dose",
+			"title": "TPA Code Dose",
+			"authors": [
+				"Bryan D. Hayes, PharmD"
+			],
+			"created": "2013/05/14",
+			"updates": null,
+			"categories": [
+				"Critical Care"
+			]
+		}
+	]
+}

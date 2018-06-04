@@ -25,3 +25,14 @@ export function slugify(string: string): string {
 export function stringify(x: any): string {
   return JSON.stringify(x, null, '\t');
 }
+
+export function errorHandler(errorbin: Error[], successmsg: string, failmsg: string) {
+  if (errorbin.length > 0) {
+    errorbin.forEach(err => {
+      console.error('❌ ', err.message);
+    });
+    throw Error(failmsg);
+  } else {
+    console.log(successmsg);
+  }
+}

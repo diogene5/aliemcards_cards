@@ -7,7 +7,7 @@
   "scripts": {
     "test": "yarn test:cards && yarn test:api",
     "test:cards": "remark ./cards -q && ts-node ./api/tests/card-linter.ts",
-    "test:api": "rm -rf ./api/tests/dist/* && ts-node ./api/tests/api-test.ts",
+    "test:api": "ts-node ./api/tests/api-test.ts",
     "build": "rm -rf ./api/dist && mkdir ./api/dist && ts-node ./api/build/index.ts",
     "build:snaps": "rm -rf ./api/tests/snapshots/* && ts-node ./api/tests/build-snaps.ts"
   },
@@ -45,6 +45,7 @@
     "remark-lint-table-cell-padding": "^1.0.1",
     "remark-lint-table-pipe-alignment": "^1.0.1",
     "remark-lint-unordered-list-marker-style": "^1.0.1",
+    "rimraf": "^2.6.2",
     "serverless-offline": "^3.24.3",
     "ts-node": "^5.0.1",
     "tslint": "^5.9.1",

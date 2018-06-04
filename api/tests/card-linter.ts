@@ -2,42 +2,42 @@ import * as fs from 'fs';
 import * as path from 'path';
 
 import config from '../build/config';
-import { extract_frontmatter } from '../build/utils';
+import { extract_frontmatter, errorHandler } from '../build/utils';
 
 interface FilePaths {
   base: string,
   path: string
 }
 
-function checkCardsDirShape(d: FilePaths[]): void {
+function checkCardsDirShape(d: FilePaths[], errorbin: Error[]): void {
   d.forEach(dir => {
     // check top level directories
     if(!fs.statSync(dir.path).isDirectory()) {
-      throw Error('No files should be located in the first level of the "cards" directory.');
+      errorbin.push(Error('No files should be located in the first level of the "cards" directory.'));
     }
     // check for card.md file
     if(fs.readdirSync(dir.path).indexOf('card.md') === -1) {
-      throw Error(`No "card.md" file found in directory: ${dir}`);
+      errorbin.push(Error(`No "card.md" file found in directory: ${dir}`));
     }
   });
 }
 
-function checkFrontmatter(dir: string) {
+function checkFrontmatter(dir: string, errorbin: Error[]) {
   const keys = ['authors', 'categories', 'created', 'title', 'updates'];
   const contents = fs.readFileSync(`${dir}/card.md`, 'utf8');
   const { body, ...fm } = extract_frontmatter(contents);
   const attributeKeys = Object.keys(fm);
 
   if (attributeKeys.length < keys.length) {
-    throw Error(`${dir} is missing yaml attributes`);
+    errorbin.push(Error(`${dir} is missing yaml attributes`));
   }
 
   ['authors', 'categories'].forEach(arr => {
     if (!Array.isArray(fm[arr])) {
-      throw Error (`Invalid "${arr}" in yaml of ${dir}`);
+      errorbin.push(Error (`Invalid "${arr}" in yaml of ${dir}`));
     }
     if (fm[arr].length === 0) {
-      throw Error (`No "${arr}" listed in yaml of ${dir}`);
+      errorbin.push(Error (`No "${arr}" listed in yaml of ${dir}`));
     }
   });
 
@@ -46,34 +46,34 @@ function checkFrontmatter(dir: string) {
     fm.created === '' ||
     !config.REGEX.dateStringFormat.test(fm.created)
   ) {
-    throw Error(`Invalid "created" property in yaml of ${dir}`);
+    errorbin.push(Error(`Invalid "created" property in yaml of ${dir}`));
   }
 
   if (
     typeof fm.title !== 'string' || fm.title === ''
   ) {
-    throw Error(`Invalid "title" property in yaml of ${dir}`);
+    errorbin.push(Error(`Invalid "title" property in yaml of ${dir}`));
   }
 
   if (fm.updates !== null && !Array.isArray(fm.updates)) {
-    throw Error(`Invalid "updates" property in yaml of ${dir}`);
+    errorbin.push(Error(`Invalid "updates" property in yaml of ${dir}`));
   }
 }
 
-function checkYAML(dir: string) {
+function checkYAML(dir: string, errorbin: Error[]) {
   const contents = fs.readFileSync(`${dir}/card.md`, 'utf8');
   const { body, ...frontmatter } = extract_frontmatter(contents);
   // Does frontmatter exist?
   if (Object.keys(frontmatter).length === 0) {
-    throw Error(`Frontmatter not found for ${dir}`);
+    errorbin.push(Error(`Frontmatter not found for ${dir}`));
   }
   // Does the card have an H1 title?
   if (!config.REGEX.markdownH1.test(body)) {
-    throw Error(`H1 title not set for ${dir}`);
+    errorbin.push(Error(`H1 title not set for ${dir}`));
   }
   // Does the card have a reference header?
   if (!config.REGEX.hasReferenceHeading.test(body)) {
-    throw Error(`Improper reference format found in ${dir}`);
+    errorbin.push(Error(`Improper reference format found in ${dir}`));
   }
   // Are their images w/o alt text?
   if (config.REGEX.imagesWithoutAltText.test(body)) {
@@ -88,8 +88,12 @@ const cards_dir = fs.readdirSync(config.CARD_DIR)
   .filter(x => config.IGNORED_FILES.indexOf(x) === -1)
   .map(x => ({ base: x, path: `${config.CARD_DIR}/${x}` }));
 
-checkCardsDirShape(cards_dir);
+// run tests
+const errorbin = [];
+checkCardsDirShape(cards_dir, errorbin);
 cards_dir.forEach(dir => {
-  checkYAML(dir.path);
-  checkFrontmatter(dir.path);
+  checkYAML(dir.path, errorbin);
+  checkFrontmatter(dir.path, errorbin);
 });
+
+errorHandler(errorbin, '✅  Card linter passed', 'Card Linter Errors present');

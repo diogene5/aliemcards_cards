@@ -1,8 +1,8 @@
 import * as path from 'path';
 
 export default {
-  API_DIR: path.resolve(__dirname, '../dist'),
-  CARD_DIR: path.resolve(__dirname, '../../cards'),
+  API_DIR: path.resolve(__dirname, './dist'),
+  CARD_DIR: path.resolve(__dirname, '../cards'),
   IGNORED_FILES: ['.DS_Store', 'announcements.yml'],
   IMG_URL_PREFIX: 'https://aliemteam.github.io/aliemcards_cards/images',
   REGEX: {

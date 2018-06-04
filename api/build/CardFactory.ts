@@ -3,8 +3,8 @@ import * as fs from 'fs';
 import * as path from 'path';
 import * as util from 'util';
 
-import config from './config';
-import { extract_frontmatter, slugify, stringify } from './utils'
+import config from '../config';
+import { extract_frontmatter, slugify, stringify } from '../utils'
 
 export default class CardFactory {
 

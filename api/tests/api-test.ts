@@ -2,9 +2,9 @@ import { readdirSync, readFileSync } from 'fs';
 import * as path from 'path';
 import * as rimraf from 'rimraf';
 
-import config from '../build/config';
+import config from '../config';
 import CardFactory from '../build/CardFactory';
-import { errorHandler } from '../build/utils';
+import { errorHandler } from '../utils';
 
 // build test files
 export function buildTest() {

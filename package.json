@@ -5,9 +5,7 @@
   "author": "Jeremy Voros",
   "license": "CC-BY-NC-3.0",
   "scripts": {
-    "test": "yarn test:cards && yarn test:api",
-    "test:cards": "remark ./cards -q && ts-node ./api/tests/card-linter.ts",
-    "test:api": "ts-node ./api/tests/api-test.ts",
+    "test": "remark ./cards -q && ts-node ./api/tests/index.ts",
     "build": "ts-node ./api/build/index.ts",
     "build:snaps": "rm -rf ./api/tests/snapshots/* && ts-node ./api/tests/build-snaps.ts"
   },

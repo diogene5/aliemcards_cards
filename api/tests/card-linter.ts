@@ -1,5 +1,4 @@
-import * as fs from 'fs';
-import * as path from 'path';
+import { readdirSync,readFileSync, statSync } from 'fs';
 
 import config from '../config';
 import { extract_frontmatter, errorHandler } from '../utils';
@@ -12,11 +11,11 @@ interface FilePaths {
 function checkCardsDirShape(d: FilePaths[], errorbin: Error[]): void {
   d.forEach(dir => {
     // check top level directories
-    if(!fs.statSync(dir.path).isDirectory()) {
+    if(!statSync(dir.path).isDirectory()) {
       errorbin.push(Error('No files should be located in the first level of the "cards" directory.'));
     }
     // check for card.md file
-    if(fs.readdirSync(dir.path).indexOf('card.md') === -1) {
+    if(readdirSync(dir.path).indexOf('card.md') === -1) {
       errorbin.push(Error(`No "card.md" file found in directory: ${dir}`));
     }
   });
@@ -24,7 +23,7 @@ function checkCardsDirShape(d: FilePaths[], errorbin: Error[]): void {
 
 function checkFrontmatter(dir: string, errorbin: Error[]) {
   const keys = ['authors', 'categories', 'created', 'title', 'updates'];
-  const contents = fs.readFileSync(`${dir}/card.md`, 'utf8');
+  const contents = readFileSync(`${dir}/card.md`, 'utf8');
   const { body, ...fm } = extract_frontmatter(contents);
   const attributeKeys = Object.keys(fm);
 
@@ -61,7 +60,7 @@ function checkFrontmatter(dir: string, errorbin: Error[]) {
 }
 
 function checkYAML(dir: string, errorbin: Error[]) {
-  const contents = fs.readFileSync(`${dir}/card.md`, 'utf8');
+  const contents = readFileSync(`${dir}/card.md`, 'utf8');
   const { body, ...frontmatter } = extract_frontmatter(contents);
   // Does frontmatter exist?
   if (Object.keys(frontmatter).length === 0) {
@@ -83,17 +82,19 @@ function checkYAML(dir: string, errorbin: Error[]) {
   }
 }
 
-// read cards dir, filter out ignored files
-const cards_dir = fs.readdirSync(config.CARD_DIR)
-  .filter(x => config.IGNORED_FILES.indexOf(x) === -1)
-  .map(x => ({ base: x, path: `${config.CARD_DIR}/${x}` }));
+export default function(card_dir: string): void {
+  // read cards dir, filter out ignored files
+  const cards = readdirSync(card_dir)
+    .filter(x => config.IGNORED_FILES.indexOf(x) === -1)
+    .map(x => ({ base: x, path: `${card_dir}/${x}` }));
 
-// run tests
-const errorbin = [];
-checkCardsDirShape(cards_dir, errorbin);
-cards_dir.forEach(dir => {
-  checkYAML(dir.path, errorbin);
-  checkFrontmatter(dir.path, errorbin);
-});
+  // run tests
+  const errorbin = [];
+  checkCardsDirShape(cards, errorbin);
+  cards.forEach(dir => {
+    checkYAML(dir.path, errorbin);
+    checkFrontmatter(dir.path, errorbin);
+  });
 
-errorHandler(errorbin, '✅  Card linter passed', 'Card Linter Errors present');
+  errorHandler(errorbin, 'Card linter passed', 'Card Linter Errors present');
+}

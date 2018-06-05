@@ -1,35 +1,28 @@
 import { readdirSync, readFileSync } from 'fs';
-import * as path from 'path';
 
 import config from '../config';
 import buildEndpoints from '../build/buildEndpoints';
 import { errorHandler } from '../utils';
 
-// build test files
-function buildTest() {
-  buildEndpoints(path.join(__dirname, './cards'), path.join(__dirname, './dist'));
-}
-
 // compare built endpoints to snapshots
-function checkEndpoints(errorbin: Error[]) {
-  const slugs = readdirSync(path.join(__dirname, './snapshots/cards'));
-  const append_cards = slugs.map(slug => `cards/${slug}`);
+function checkEndpoints(dist_dir: string, snap_dir: string, errorbin: Error[]): void {
+  const cards_json = readdirSync(`${snap_dir}/cards`);
+  const append_dir = cards_json.map(slug => `cards/${slug}`);
   const endpoints = [
     'authors.json',
     'cards.json',
     'cardsummaries.json',
     'categories.json',
     'recent.json',
-    ...append_cards
+    ...append_dir
   ];
 
   endpoints.forEach(ep => {
-    const snap = readFileSync(path.join(__dirname, `./snapshots/${ep}`));
-    const test = readFileSync(path.join(__dirname, `./dist/${ep}`));
+    const snap = readFileSync(`${snap_dir}/${ep}`);
+    const test = readFileSync(`${dist_dir}/${ep}`);
     if (snap.compare(test) !== 0) errorbin.push(Error(`Error in  builds: ${ep}`));
   });
 }
-
 
 // compare built image directories to snapshop image directory
 interface imageTree {
@@ -38,24 +31,25 @@ interface imageTree {
 
 function buildTree(dir: string): imageTree {
   const tree = {};
-  const slugs = readdirSync(path.join(__dirname, dir));
+  const slugs = readdirSync(dir);
   slugs.forEach(slug => {
-    const images = readdirSync(path.join(__dirname, `${dir}/${slug}`)).filter(x => x.match(config.REGEX.image_file) !== null);
+    const images = readdirSync(`${dir}/${slug}`).filter(x => x.match(config.REGEX.image_file) !== null);
     if (images.length > 0) tree[slug] = images;
   });
   return tree;
 }
 
-function checkImageDirs(errorbin: Error[]) {
-  const a = JSON.stringify(buildTree('./snapshots/images'));
-  const b = JSON.stringify(buildTree('./dist/images'));
-  if ( a !== b) errorbin.push(Error(`Error in builds: images`));
+function checkImageDirs(dist_dir: string, snap_dir: string, errorbin: Error[]) {
+  const a = JSON.stringify(buildTree(`${snap_dir}/images`));
+  const b = JSON.stringify(buildTree(`${dist_dir}/images`));
+  if (a !== b) errorbin.push(Error(`Error in builds: images`));
 }
 
-// run the tests
-const errorbin= [];
-buildTest();
-checkEndpoints(errorbin);
-checkImageDirs(errorbin);
-
-errorHandler(errorbin, '✅  API Build Tests passed', 'API Build Errors present');
+// full test
+export default function(card_dir: string, dist_dir: string, snap_dir: string): void {
+  const errorbin= [];
+  buildEndpoints(card_dir, dist_dir);
+  checkEndpoints(dist_dir, snap_dir, errorbin);
+  checkImageDirs(dist_dir, snap_dir, errorbin);
+  errorHandler(errorbin, 'API Build Tests passed', 'API Build Errors present');
+}

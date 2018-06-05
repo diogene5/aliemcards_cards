@@ -6,11 +6,13 @@ This repository contains the markdown source files of the ALiEM Cards. They are 
 
 The [api](https://github.com/aliemteam/aliemcards_cards/tree/master/api) file contains a Node JS app that error checks the cards and builds a static JSON backend and AWS Lambda search service.
 
-# ALiEM Cards
+## ALiEM Cards
 
 See the [wiki](https://github.com/aliemteam/aliemcards_cards/wiki) for details on card style, content, structure and workflow.
 
-# ALiEM Cards API
+---
+
+## ALiEM Cards API
 
 All of the JSON files that make up the API are static and served via GitHub Pages. The JSON files are built by the scripts in the `/api/build` directory. JSON files acting as api endpoints are built in an untracked `/api/dist` directory.
 
@@ -18,17 +20,17 @@ An AWS Lambda service handles the search endpoint. The AWS script is located in 
 
 The site is automatically deployed by the [Travis CI](https://travis-ci.org/aliemteam/aliemcards_cards) service with every `push` to the `master` branch. 
 
-## API GitHub Pages Endpoints
+### API GitHub Pages Endpoints
 
-### Base URL: https://aliemteam.github.io/aliemcards_cards/
+**Base URL: https://aliemteam.github.io/aliemcards_cards/**
 
 See the [gh-pages branch](https://github.com/aliemteam/aliemcards_cards/tree/gh-pages) for JSON endpoints.
 
 If you want to build the endpoints locally, run: `yarn build`.
 
-## API Search Endpoint
+### API Search Endpoint
 
-### GET - https://mexv6u9ex2.execute-api.us-east-1.amazonaws.com/dev/search/:query
+**GET - https://mexv6u9ex2.execute-api.us-east-1.amazonaws.com/dev/search/:query**
 
 Replace `:query` with a URL encoded search term/phrase. Returns JSON response:
 

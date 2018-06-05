@@ -1,20 +1,17 @@
 import { readdirSync, readFileSync } from 'fs';
 import * as path from 'path';
-import * as rimraf from 'rimraf';
 
 import config from '../config';
-import CardFactory from '../build/CardFactory';
+import buildEndpoints from '../build/buildEndpoints';
 import { errorHandler } from '../utils';
 
 // build test files
-export function buildTest() {
-  rimraf.sync(path.join(__dirname, './dist/*'));
-  const cf = new CardFactory(path.join(__dirname, './cards'), path.join(__dirname, './dist'));
-  cf.writeEndpoints();
+function buildTest() {
+  buildEndpoints(path.join(__dirname, './cards'), path.join(__dirname, './dist'));
 }
 
 // compare built endpoints to snapshots
-export function checkEndpoints(errorbin: Error[]) {
+function checkEndpoints(errorbin: Error[]) {
   const slugs = readdirSync(path.join(__dirname, './snapshots/cards'));
   const append_cards = slugs.map(slug => `cards/${slug}`);
   const endpoints = [
@@ -49,7 +46,7 @@ function buildTree(dir: string): imageTree {
   return tree;
 }
 
-export function checkImageDirs(errorbin: Error[]) {
+function checkImageDirs(errorbin: Error[]) {
   const a = JSON.stringify(buildTree('./snapshots/images'));
   const b = JSON.stringify(buildTree('./dist/images'));
   if ( a !== b) errorbin.push(Error(`Error in builds: images`));

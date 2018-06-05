@@ -8,7 +8,7 @@
     "test": "yarn test:cards && yarn test:api",
     "test:cards": "remark ./cards -q && ts-node ./api/tests/card-linter.ts",
     "test:api": "ts-node ./api/tests/api-test.ts",
-    "build": "rm -rf ./api/dist && mkdir ./api/dist && ts-node ./api/build/index.ts",
+    "build": "ts-node ./api/build/index.ts",
     "build:snaps": "rm -rf ./api/tests/snapshots/* && ts-node ./api/tests/build-snaps.ts"
   },
   "dependencies": {

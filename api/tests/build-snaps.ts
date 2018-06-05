@@ -1,6 +1,4 @@
 import * as path from 'path';
+import buildEndpoints from '../build/buildEndpoints';
 
-import CardFactory from '../build/CardFactory';
-
-const cf = new CardFactory(path.join(__dirname, './cards'), path.join(__dirname, './snapshots'));
-cf.writeEndpoints();
+buildEndpoints(path.join(__dirname, './cards'), path.join(__dirname, './snapshots'));

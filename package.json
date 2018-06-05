@@ -7,7 +7,7 @@
   "scripts": {
     "test": "remark ./cards -q && ts-node ./api/tests/index.ts",
     "build": "ts-node ./api/build/index.ts",
-    "build:snaps": "rm -rf ./api/tests/snapshots/* && ts-node ./api/tests/build-snaps.ts"
+    "build:snaps": "ts-node ./api/tests/build-snaps.ts"
   },
   "dependencies": {
     "@types/js-yaml": "^3.10.1",

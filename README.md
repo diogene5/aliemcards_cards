@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/aliemteam/aliemcards_cards.svg?branch=master)](https://travis-ci.org/aliemteam/aliemcards_cards)
+
 # ALiEM Cards
 
 This repository contains the markdown source files of the ALiEM Cards. They are in the `cards` folder. Go figure.

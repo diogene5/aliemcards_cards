@@ -12,6 +12,7 @@ package:
   exclude:
     - build/**
     - dist/**
+    - tests/**
   include:
     - ../node_modules/fuse.js/**
     - dist/cards.json

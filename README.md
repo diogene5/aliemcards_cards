@@ -1,24 +1,30 @@
 [![Build Status](https://travis-ci.org/aliemteam/aliemcards_cards.svg?branch=master)](https://travis-ci.org/aliemteam/aliemcards_cards)
 
+# ALiEM Cards Repository
+
+This repository contains the markdown source files of the ALiEM Cards. They are in the [cards](https://github.com/aliemteam/aliemcards_cards/tree/master/cards) folder. Go figure.
+
+The [api](https://github.com/aliemteam/aliemcards_cards/tree/master/api) file contains a Node JS app that error checks the cards and builds a static JSON backend and AWS Lambda search service.
+
 # ALiEM Cards
 
-This repository contains the markdown source files of the ALiEM Cards. They are in the `cards` folder. Go figure.
-
-The `api` file contains a Node JS app that error checks the cards and builds a static JSON backend and AWS Lambda search service.
+See the [wiki](https://github.com/aliemteam/aliemcards_cards/wiki) for details on card style, content, structure and workflow.
 
 # ALiEM Cards API
 
 All of the JSON files that make up the API are static and served via GitHub Pages. The JSON files are built by the scripts in the `/api/build` directory. JSON files acting as api endpoints are built in an untracked `/api/dist` directory.
 
-If you want to build the endpoints locally, run: `yarn build`.
+An AWS Lambda service handles the search endpoint. The AWS script is located in the `/api/lambda` directory. AWS provisioning is handled using the [Serverless framework](https://serverless.com/).
 
-If you want to see the JSON endpoints, navigate to the [gh-pages branch](https://github.com/aliemteam/aliemcards_cards/tree/gh-pages).
-
-The API also uses an AWS Lambda to handle search. This script is located in the `/api/lambda` directory. AWS provisioning is handled using the [Serverless framework](https://serverless.com/).
+The site is automatically deployed by the [Travis CI](https://travis-ci.org/aliemteam/aliemcards_cards) service with every `push` to the `master` branch. 
 
 ## API GitHub Pages Endpoints
 
 ### Base URL: https://aliemteam.github.io/aliemcards_cards/
+
+See the [gh-pages branch](https://github.com/aliemteam/aliemcards_cards/tree/gh-pages) for JSON endpoints.
+
+If you want to build the endpoints locally, run: `yarn build`.
 
 ## API Search Endpoint
 

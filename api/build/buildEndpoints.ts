@@ -12,8 +12,7 @@ import { extract_frontmatter, slugify, stringify } from '../utils'
 function parseCard(slug: string, contents: string): Card {
   const { body, ...frontmatter } = extract_frontmatter(contents);
   const formatted_body = body
-    .replace(config.REGEX.image_url, `${config.IMG_URL_PREFIX}/${slug}/$&`)
-    .replace(config.REGEX.markdownH1, '');
+    .replace(config.REGEX.image_url, `${config.IMG_URL_PREFIX}/${slug}/$&`);
   return { slug, ...frontmatter, body: formatted_body }
 }
 

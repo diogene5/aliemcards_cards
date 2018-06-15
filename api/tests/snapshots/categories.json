@@ -1,58 +1,9 @@
 {
 	"categories": [
 		{
-			"slug": "object-object",
-			"name": {
-				"slug": "cardiovascular",
-				"name": "Cardiovascular"
-			},
+			"slug": "cardiovascular",
+			"name": "Cardiovascular",
 			"cards": [
-				{
-					"slug": "adenosine",
-					"title": "Adenosine 6-12-12 Approach",
-					"authors": [
-						"Bryan Hayes, PharmD"
-					],
-					"categories": [
-						{
-							"slug": "cardiovascular",
-							"name": "Cardiovascular"
-						},
-						{
-							"slug": "pharmacology",
-							"name": "Pharmacology"
-						},
-						{
-							"slug": "critical-care",
-							"name": "Critical Care"
-						}
-					],
-					"created": "2012/12/06",
-					"updates": null
-				},
-				{
-					"slug": "adenosine",
-					"title": "Adenosine 6-12-12 Approach",
-					"authors": [
-						"Bryan Hayes, PharmD"
-					],
-					"categories": [
-						{
-							"slug": "cardiovascular",
-							"name": "Cardiovascular"
-						},
-						{
-							"slug": "pharmacology",
-							"name": "Pharmacology"
-						},
-						{
-							"slug": "critical-care",
-							"name": "Critical Care"
-						}
-					],
-					"created": "2012/12/06",
-					"updates": null
-				},
 				{
 					"slug": "adenosine",
 					"title": "Adenosine 6-12-12 Approach",
@@ -92,7 +43,101 @@
 					"updates": [
 						"2017/05/10"
 					]
+				}
+			]
+		},
+		{
+			"slug": "pharmacology",
+			"name": "Pharmacology",
+			"cards": [
+				{
+					"slug": "adenosine",
+					"title": "Adenosine 6-12-12 Approach",
+					"authors": [
+						"Bryan Hayes, PharmD"
+					],
+					"categories": [
+						{
+							"slug": "cardiovascular",
+							"name": "Cardiovascular"
+						},
+						{
+							"slug": "pharmacology",
+							"name": "Pharmacology"
+						},
+						{
+							"slug": "critical-care",
+							"name": "Critical Care"
+						}
+					],
+					"created": "2012/12/06",
+					"updates": null
 				},
+				{
+					"slug": "ketofol",
+					"title": "Ketofol",
+					"authors": [
+						"Salim Rezaie, MD"
+					],
+					"categories": [
+						{
+							"slug": "pharmacology",
+							"name": "Pharmacology"
+						}
+					],
+					"created": "2013/03/20",
+					"updates": null
+				}
+			]
+		},
+		{
+			"slug": "critical-care",
+			"name": "Critical Care",
+			"cards": [
+				{
+					"slug": "adenosine",
+					"title": "Adenosine 6-12-12 Approach",
+					"authors": [
+						"Bryan Hayes, PharmD"
+					],
+					"categories": [
+						{
+							"slug": "cardiovascular",
+							"name": "Cardiovascular"
+						},
+						{
+							"slug": "pharmacology",
+							"name": "Pharmacology"
+						},
+						{
+							"slug": "critical-care",
+							"name": "Critical Care"
+						}
+					],
+					"created": "2012/12/06",
+					"updates": null
+				},
+				{
+					"slug": "tpa-code-dose",
+					"title": "TPA Code Dose",
+					"authors": [
+						"Bryan D. Hayes, PharmD"
+					],
+					"categories": [
+						{
+							"slug": "critical-care",
+							"name": "Critical Care"
+						}
+					],
+					"created": "2013/05/14",
+					"updates": null
+				}
+			]
+		},
+		{
+			"slug": "pediatrics",
+			"name": "Pediatrics",
+			"cards": [
 				{
 					"slug": "croup",
 					"title": "Croup",
@@ -111,7 +156,13 @@
 					],
 					"created": "2010/08/20",
 					"updates": null
-				},
+				}
+			]
+		},
+		{
+			"slug": "ent",
+			"name": "ENT",
+			"cards": [
 				{
 					"slug": "croup",
 					"title": "Croup",
@@ -145,7 +196,13 @@
 					],
 					"created": "2011/04/22",
 					"updates": null
-				},
+				}
+			]
+		},
+		{
+			"slug": "ems",
+			"name": "EMS",
+			"cards": [
 				{
 					"slug": "emtala-rules",
 					"title": "EMTALA Transfer Rules",
@@ -160,22 +217,13 @@
 					],
 					"created": "2012/09/14",
 					"updates": null
-				},
-				{
-					"slug": "ketofol",
-					"title": "Ketofol",
-					"authors": [
-						"Salim Rezaie, MD"
-					],
-					"categories": [
-						{
-							"slug": "pharmacology",
-							"name": "Pharmacology"
-						}
-					],
-					"created": "2013/03/20",
-					"updates": null
-				},
+				}
+			]
+		},
+		{
+			"slug": "gastroenterology",
+			"name": "Gastroenterology",
+			"cards": [
 				{
 					"slug": "paracentesis",
 					"title": "Paracentesis for Ascites",
@@ -190,7 +238,13 @@
 					],
 					"created": "2010/06/25",
 					"updates": null
-				},
+				}
+			]
+		},
+		{
+			"slug": "orthopedics",
+			"name": "Orthopedics",
+			"cards": [
 				{
 					"slug": "radial-head-fracture",
 					"title": "Elbow Injuries - Radial Head Fracture",
@@ -207,7 +261,13 @@
 					],
 					"created": "2016/12/12",
 					"updates": null
-				},
+				}
+			]
+		},
+		{
+			"slug": "neurology",
+			"name": "Neurology",
+			"cards": [
 				{
 					"slug": "subarachnoid-hemorrhage",
 					"title": "Management of Aneurysmal Subarachnoid Hemorrhage",
@@ -221,21 +281,6 @@
 						}
 					],
 					"created": "2010/12/17",
-					"updates": null
-				},
-				{
-					"slug": "tpa-code-dose",
-					"title": "TPA Code Dose",
-					"authors": [
-						"Bryan D. Hayes, PharmD"
-					],
-					"categories": [
-						{
-							"slug": "critical-care",
-							"name": "Critical Care"
-						}
-					],
-					"created": "2013/05/14",
 					"updates": null
 				}
 			]

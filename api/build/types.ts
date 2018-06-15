@@ -1,10 +1,18 @@
-interface CardSummary {
-  slug?: string,
+interface RawFrontMatter {
   title: string,
-  authors: [string],
+  authors: string[],
   created: string,
-  updates: [string],
-  categories: [string]
+  updates: string[],
+  categories: string[]
+}
+
+interface CardSummary {
+  slug?: string
+  title: string,
+  authors: string[],
+  created: string,
+  updates: string[],
+  categories: Taxonomy[]
 }
 
 interface Card extends CardSummary {
@@ -14,5 +22,5 @@ interface Card extends CardSummary {
 interface Taxonomy {
   slug?: string,
   name: string,
-  cards: [Card]
+  cards?: Card[]
 }

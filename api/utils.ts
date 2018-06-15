@@ -5,9 +5,18 @@ import config from './config';
 export function extract_frontmatter(contents: string): Card {
   const regex = config.REGEX.frontmatter;
   const matches = contents.match(regex);
-  const frontmatter = (matches[2] !== undefined) ? yaml.safeLoad(matches[2]) : null;
+  let frontmatter = (matches[2] !== undefined) ? <RawFrontMatter>yaml.safeLoad(matches[2]) : null;
   const body = (matches[3] !== undefined) ? matches[3] : null;
-  if (frontmatter) return { ...<CardSummary>frontmatter, body }
+  if (frontmatter) {
+    return { 
+      title: frontmatter.title,
+      authors: frontmatter.authors,
+      categories: frontmatter.categories.map(cat => ({ slug: slugify(cat), name: cat })),
+      created: frontmatter.created,
+      updates: frontmatter.updates,
+      body: body 
+    }
+  }
 }
 
 export function slugify(string: string): string {

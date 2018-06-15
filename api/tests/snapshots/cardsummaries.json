@@ -1,5 +1,5 @@
 {
-	"hash": "935df12c03d54f93f540cbef444bb1d9",
+	"hash": "71e814f6b098976acb96d0b1b7de89a2",
 	"card_summaries": [
 		{
 			"slug": "adenosine",
@@ -7,13 +7,22 @@
 			"authors": [
 				"Bryan Hayes, PharmD"
 			],
-			"created": "2012/12/06",
-			"updates": null,
 			"categories": [
-				"Cardiovascular",
-				"Pharmacology",
-				"Critical Care"
-			]
+				{
+					"slug": "cardiovascular",
+					"name": "Cardiovascular"
+				},
+				{
+					"slug": "pharmacology",
+					"name": "Pharmacology"
+				},
+				{
+					"slug": "critical-care",
+					"name": "Critical Care"
+				}
+			],
+			"created": "2012/12/06",
+			"updates": null
 		},
 		{
 			"slug": "brugada",
@@ -21,12 +30,15 @@
 			"authors": [
 				"Michelle Lin, MD"
 			],
+			"categories": [
+				{
+					"slug": "cardiovascular",
+					"name": "Cardiovascular"
+				}
+			],
 			"created": "2011/05/06",
 			"updates": [
 				"2017/05/10"
-			],
-			"categories": [
-				"Cardiovascular"
 			]
 		},
 		{
@@ -35,12 +47,18 @@
 			"authors": [
 				"Michelle Lin, MD"
 			],
-			"created": "2010/08/20",
-			"updates": null,
 			"categories": [
-				"Pediatrics",
-				"ENT"
-			]
+				{
+					"slug": "pediatrics",
+					"name": "Pediatrics"
+				},
+				{
+					"slug": "ent",
+					"name": "ENT"
+				}
+			],
+			"created": "2010/08/20",
+			"updates": null
 		},
 		{
 			"slug": "dental-infections",
@@ -48,11 +66,14 @@
 			"authors": [
 				"Hans Rosenberg, MD"
 			],
-			"created": "2011/04/22",
-			"updates": null,
 			"categories": [
-				"ENT"
-			]
+				{
+					"slug": "ent",
+					"name": "ENT"
+				}
+			],
+			"created": "2011/04/22",
+			"updates": null
 		},
 		{
 			"slug": "emtala-rules",
@@ -60,11 +81,14 @@
 			"authors": [
 				"Michelle Lin, MD"
 			],
-			"created": "2012/09/14",
-			"updates": null,
 			"categories": [
-				"EMS"
-			]
+				{
+					"slug": "ems",
+					"name": "EMS"
+				}
+			],
+			"created": "2012/09/14",
+			"updates": null
 		},
 		{
 			"slug": "ketofol",
@@ -72,11 +96,14 @@
 			"authors": [
 				"Salim Rezaie, MD"
 			],
-			"created": "2013/03/20",
-			"updates": null,
 			"categories": [
-				"Pharmacology"
-			]
+				{
+					"slug": "pharmacology",
+					"name": "Pharmacology"
+				}
+			],
+			"created": "2013/03/20",
+			"updates": null
 		},
 		{
 			"slug": "paracentesis",
@@ -84,11 +111,14 @@
 			"authors": [
 				"Michelle Lin, MD"
 			],
-			"created": "2010/06/25",
-			"updates": null,
 			"categories": [
-				"Gastroenterology"
-			]
+				{
+					"slug": "gastroenterology",
+					"name": "Gastroenterology"
+				}
+			],
+			"created": "2010/06/25",
+			"updates": null
 		},
 		{
 			"slug": "radial-head-fracture",
@@ -98,11 +128,14 @@
 				"Andrew Little, DO",
 				"Mary Haas, MD"
 			],
-			"created": "2016/12/12",
-			"updates": null,
 			"categories": [
-				"Orthopedics"
-			]
+				{
+					"slug": "orthopedics",
+					"name": "Orthopedics"
+				}
+			],
+			"created": "2016/12/12",
+			"updates": null
 		},
 		{
 			"slug": "subarachnoid-hemorrhage",
@@ -110,11 +143,14 @@
 			"authors": [
 				"Michelle Lin, MD"
 			],
-			"created": "2010/12/17",
-			"updates": null,
 			"categories": [
-				"Neurology"
-			]
+				{
+					"slug": "neurology",
+					"name": "Neurology"
+				}
+			],
+			"created": "2010/12/17",
+			"updates": null
 		},
 		{
 			"slug": "tpa-code-dose",
@@ -122,11 +158,14 @@
 			"authors": [
 				"Bryan D. Hayes, PharmD"
 			],
-			"created": "2013/05/14",
-			"updates": null,
 			"categories": [
-				"Critical Care"
-			]
+				{
+					"slug": "critical-care",
+					"name": "Critical Care"
+				}
+			],
+			"created": "2013/05/14",
+			"updates": null
 		}
 	]
 }

@@ -4,10 +4,13 @@
 	"authors": [
 		"Hans Rosenberg, MD"
 	],
+	"categories": [
+		{
+			"slug": "ent",
+			"name": "ENT"
+		}
+	],
 	"created": "2011/04/22",
 	"updates": null,
-	"categories": [
-		"ENT"
-	],
 	"body": "\n# Dental Infections\n\n- **Dental caries** - demineralization of protective enamel and subsequent tooth decay\n- **Pulpitis** - inflammation of pulp secondary to caries\n- **Periodontitis** - loss of supportive bone structure caused by chronic gingivitis\n\n![Cellulitis, necrotic pulp, and periapical abscess diagram](https://aliemteam.github.io/aliemcards_cards/images/dental-infections/image-1.png)\n\n![Impaction of food and bacteria diagram](https://aliemteam.github.io/aliemcards_cards/images/dental-infections/image-2.png)\n\n## Periapical Abscess\n\nCollection of purulent material at apex of tooth\n\n- Secondary to bacterial invasion from carious destruction of enamel\n- History: Progressive pain, thermal sensitivity\n- Exam: Caries, decayed tooth, pain with percussion, palpation of apex, gingival swelling, erythema, parulis present, mobile tooth\n- Treatment:\n\n- Antibiotics\n\n  - Uncomplicated: <span class=\"drug\">Penicillin</span> or <span class=\"drug\">Clindamycin</span>\n  - Complicated: <span class=\"drug\">Penicillin</span> + <span class=\"drug\">Metronidazole</span>, Piperacillin/Tazobactam, **or** <span class=\"drug\">Clindamycin</span> + <span class=\"drug\">Ceftriaxone</span>\n\n- Pain control\n- I+D if abscess present: probe with 18g needle → purulent → 11 blade stab incision → hemostat blunt dissection +/- packing\n- <span class=\"drug\">Chlorhexidine</span> 0.1% rinses q2-3h if I & D\n- Surgical referral, if complicated infection (Ludwig's, Lemierre's Syndrome)\n\n- Dentist followup:\n\n- Uncomplicated: Generalist in 1-2 days\n- Complicated: Oral Surgery as soon as possible\n\n## Periodontal Abscess\n\n- Localized purulent infection within the gingival wall of the periodontal pocket\n- History: Swelling, pain, loose tooth\n- Exam: Purulent discharge, erythema, fluctuant mass, dental extrusion\n- Treatment:\n\n- Pain Control: Dental block, NSAID’s +/- opioids\n- I & D abscess as needed: 11 blade stab incision → hemostat blunt dissection +/- packing\n- Antibiotics:\n\n  - <span class=\"drug\">Penicillin</span> or <span class=\"drug\">Clindamycin</span>\n  - <span class=\"drug\">Chlorhexidine</span> 0.1% rinses q2-3h\n\n- Dentist followup\n- Generalist in 1-2 days\n\n## Pericoronitis\n\n- Inflammation +/- infection surrounding impacted or partially erupted tooth\n- History: Usually 3rd molar (wisdom tooth), erupting teeth, pain, swelling, halitosis\n- Exam: Erythema, swelling, +/- abscess\n- Treatment: Same as for Periodontal Abscess\n\n  - Pain Control: Dental block, NSAID’s +/- opioids\n  - I & D abscess as needed: 11 blade stab incision → hemostat blunt dissection +/- packing\n  - Antibiotics:\n\n    - <span class=\"drug\">Penicillin</span> or <span class=\"drug\">Clindamycin</span>\n    - <span class=\"drug\">Chlorhexidine</span> 0.1% rinses q2-3h\n\n- Dentist followup: \n- Generalist in 1-2 days\n\n- Definitive treatment: Oral Surgery\n\n## References\n\n- Nguyen DH, Martin JT. Common dental infections in the primary care setting. Am Fam Physician. 2008 Mar 15;77(6):797-802. [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=18386594)]\n"
 }

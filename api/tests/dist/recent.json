@@ -8,11 +8,14 @@
 				"Andrew Little, DO",
 				"Mary Haas, MD"
 			],
-			"created": "2016/12/12",
-			"updates": null,
 			"categories": [
-				"Orthopedics"
-			]
+				{
+					"slug": "orthopedics",
+					"name": "Orthopedics"
+				}
+			],
+			"created": "2016/12/12",
+			"updates": null
 		},
 		{
 			"slug": "tpa-code-dose",
@@ -20,11 +23,14 @@
 			"authors": [
 				"Bryan D. Hayes, PharmD"
 			],
-			"created": "2013/05/14",
-			"updates": null,
 			"categories": [
-				"Critical Care"
-			]
+				{
+					"slug": "critical-care",
+					"name": "Critical Care"
+				}
+			],
+			"created": "2013/05/14",
+			"updates": null
 		},
 		{
 			"slug": "ketofol",
@@ -32,11 +38,14 @@
 			"authors": [
 				"Salim Rezaie, MD"
 			],
-			"created": "2013/03/20",
-			"updates": null,
 			"categories": [
-				"Pharmacology"
-			]
+				{
+					"slug": "pharmacology",
+					"name": "Pharmacology"
+				}
+			],
+			"created": "2013/03/20",
+			"updates": null
 		},
 		{
 			"slug": "adenosine",
@@ -44,13 +53,22 @@
 			"authors": [
 				"Bryan Hayes, PharmD"
 			],
-			"created": "2012/12/06",
-			"updates": null,
 			"categories": [
-				"Cardiovascular",
-				"Pharmacology",
-				"Critical Care"
-			]
+				{
+					"slug": "cardiovascular",
+					"name": "Cardiovascular"
+				},
+				{
+					"slug": "pharmacology",
+					"name": "Pharmacology"
+				},
+				{
+					"slug": "critical-care",
+					"name": "Critical Care"
+				}
+			],
+			"created": "2012/12/06",
+			"updates": null
 		}
 	],
 	"updates": [
@@ -60,12 +78,15 @@
 			"authors": [
 				"Michelle Lin, MD"
 			],
+			"categories": [
+				{
+					"slug": "cardiovascular",
+					"name": "Cardiovascular"
+				}
+			],
 			"created": "2011/05/06",
 			"updates": [
 				"2017/05/10"
-			],
-			"categories": [
-				"Cardiovascular"
 			]
 		}
 	]

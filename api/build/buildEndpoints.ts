@@ -51,11 +51,12 @@ function moveImages(slug: string, images: string[], src: string, dest: string): 
 // categories, authors taxonomies
 function unpackCardProp(card: CardSummary, property: string, container: {}): void {
   card[property].forEach(item => {
-    const slug = slugify(item);
+    const slug = item.slug ? item.slug : slugify(item);
+    const name = item.name? item.name : item;
     if (container[slug]) {
       container[slug].cards.push(card);
     } else {
-      container[slug] = { name: item, cards: [card] }
+      container[slug] = { name, cards: [card] }
     }
   });
 }

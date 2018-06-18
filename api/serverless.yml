@@ -24,3 +24,4 @@ functions:
       - http:
           path: search/{query}
           method: get
+          cors: true

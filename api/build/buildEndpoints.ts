@@ -66,7 +66,7 @@ function buildTaxonomy(taxonomy: string, summaries: CardSummary[]): Taxonomy[] {
   summaries.forEach(card => {
     unpackCardProp(card, taxonomy, container)
   });
-  // flatten object into array instead of object with properties
+  // flatten object into alphabetized array instead of object with properties
   return Object.keys(container).sort().map(key => ({ slug: key, ...container[key] }));
 }
 

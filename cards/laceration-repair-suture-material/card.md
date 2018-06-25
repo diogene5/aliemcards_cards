@@ -11,7 +11,7 @@ categories:
 
 # Laceration Repair and Sutures – A cheat sheet guide
 
-![Suture removal timing diagram](image-1.png)
+![](image-1.png)
 
 | **SUTURE TYPE**     | **Time of Effective Tensile Strength**  |  **Time to Absorption** | **Reactivity**  |
 |---------------------|-----------------------------------------|-------------------------|-----------------|

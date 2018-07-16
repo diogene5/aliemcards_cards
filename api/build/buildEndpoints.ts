@@ -118,8 +118,8 @@ export default function(src: string, dest: string): void {
 
   // recent
   const recent = {
-    created: buildRecent('created', summ).slice(0, 4),
-    updates: buildRecent('updates', summ).slice(0,4),
+    created: buildRecent('created', summ).slice(0,5),
+    updates: buildRecent('updates', summ).slice(0,5),
   }
   fs.writeFileSync(`${dest}/recent.json`, stringify(recent));
 }

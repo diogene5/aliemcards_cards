@@ -20,11 +20,11 @@ categories:
 
 ## ECG findings
 
-- 3 types
+- 2 types (Type 3 no longer recognized as Brugada pattern)
 - Type 1 – Most specific for Brugada Syndrome
 - Highest risk for symptoms of syncope and sudden death
 
-![Examples of type 1, type 2, and type 3 Brugada ECG patterns](image-1.png)
+![Examples of type 1, type 2 Brugada ECG patterns](image-2.png)
 
 ## Differential diagnosis
 

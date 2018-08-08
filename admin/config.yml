@@ -2,7 +2,7 @@ backend:
   name: github
   repo: aliemteam/aliemcards_cards
   branch: master
-publish_mode: editorial_workflow
+#publish_mode: editorial_workflow
 media_folder: "media"
 slug:
   encoding: "ascii"

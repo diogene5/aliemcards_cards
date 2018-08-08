@@ -90,7 +90,7 @@ export default function(card_dir: string): void {
 
   // run tests
   const errorbin = [];
-  //checkCardsDirShape(cards, errorbin);
+  checkCardsDirShape(cards, errorbin);
   cards.forEach(dir => {
     checkYAML(dir.path, errorbin);
     checkFrontmatter(dir.path, errorbin);

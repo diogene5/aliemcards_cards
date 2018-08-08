@@ -13,7 +13,7 @@ categories:
 
 **Rumack Matthew Nomogram**
 
-![Rumack Matthew Nomogram](./media/acetaminophen-toxicity_image-1.png)
+![Rumack Matthew Nomogram](media/acetaminophen-toxicity_image-1.png)
 
 Note: Use for single time-point ingestion only. Does not predict toxicity in chronic ingestion.
 

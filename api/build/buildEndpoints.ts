@@ -17,9 +17,9 @@ function parseCard(slug: string, contents: string): Card {
 function buildCards(src: string): Card[] {
   const card_paths = fs.readdirSync(src).filter(x => config.IGNORED_FILES.indexOf(x) === -1);
   const cards = [];
-  card_paths.forEach(slug => {
-    const contents = fs.readFileSync(`${src}/${slug}`, 'utf8');
-    cards.push(parseCard(slug, contents));
+  card_paths.forEach(filename => {
+    const contents = fs.readFileSync(`${src}/${filename}`, 'utf8');
+    cards.push(parseCard(filename.slice(0, -3), contents));
   });
   return cards;
 }
@@ -117,7 +117,7 @@ export default function(src: string, dest: string, version: string): void {
 
   // individual cards
   cards.forEach(card => {
-    fs.writeFileSync(`${dest_versioned}/cards/${card.slug.slice(0, -3)}.json`, stringify(card));
+    fs.writeFileSync(`${dest_versioned}/cards/${card.slug}.json`, stringify(card));
   });
 
   // taxonomies

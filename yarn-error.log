@@ -1,5 +1,5 @@
 Arguments: 
-  /usr/local/Cellar/node/9.8.0/bin/node /usr/local/Cellar/yarn/1.5.1_1/libexec/bin/yarn.js test
+  /usr/local/Cellar/node/9.8.0/bin/node /usr/local/Cellar/yarn/1.5.1_1/libexec/bin/yarn.js build
 
 PATH: 
   /Users/jeremy/.rvm/gems/ruby-2.4.1/bin:/Users/jeremy/.rvm/gems/ruby-2.4.1@global/bin:/Users/jeremy/.rvm/rubies/ruby-2.4.1/bin:/usr/local/bin:/usr/local/bin:/Users/jeremy/.config/yarn/global/node_modules/.bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/jeremy/.rvm/gems/ruby-2.4.1/bin:/Users/jeremy/.rvm/gems/ruby-2.4.1@global/bin:/Users/jeremy/.rvm/rubies/ruby-2.4.1/bin:/Users/jeremy/.config/yarn/global/node_modules/.bin:/Users/jeremy/.rvm/bin
@@ -23,9 +23,9 @@ npm manifest:
     "scripts": {
       "test": "ts-node ./api/tests/index.ts",
       "test:remark": "remark ./cards -q",
-      "build": "ts-node ./api/build/index.ts",
-      "build:snaps": "ts-node ./api/tests/build-snaps.ts",
-      "deploy": "yarn build && cp -a ./admin ./api/dist"
+      "build": "rm -rf ./dist && mkdir ./dist && cp -a ./static/* ./dist && yarn build:api",
+      "build:api": "ts-node ./api/build/index.ts",
+      "build:snaps": "ts-node ./api/tests/build-snaps.ts"
     },
     "dependencies": {
       "@types/js-yaml": "^3.10.1",
@@ -2246,7 +2246,7 @@ Trace:
   Error: Command failed.
   Exit code: 1
   Command: sh
-  Arguments: -c ts-node ./api/tests/index.ts
+  Arguments: -c rm -rf ./dist && mkdir ./dist && cp -a ./static/* ./dist && yarn build:api
   Directory: /Users/jeremy/Sites/ALiEM/aliemcards_cards
   Output:
   

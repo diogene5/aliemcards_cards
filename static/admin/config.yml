@@ -4,6 +4,7 @@ backend:
   branch: netlifycms
 publish_mode: editorial_workflow
 media_folder: "/cards/media"
+public_folder: "/media"
 slug:
   encoding: "ascii"
   clean_accents: true
@@ -17,6 +18,6 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Authors", name: "authors", widget: "list"}
       - {label: "Created", name: "created", widget: "string"}
-      - {label: "Updated", name: "updated", widget: "string"}
+      - {label: "Updated", name: "updated", widget: "string", default: "", required: false}
       - {label: "Categories", name: "categories", widget: "list"}
       - {label: "Body", name: "body", widget: "markdown"}

@@ -117,7 +117,7 @@ export default function(src: string, dest: string, version: string): void {
 
   // individual cards
   cards.forEach(card => {
-    fs.writeFileSync(`${dest_versioned}/cards/${card.slug}.json`, stringify(card));
+    fs.writeFileSync(`${dest_versioned}/cards/${card.slug.slice(0, -3)}.json`, stringify(card));
   });
 
   // taxonomies

@@ -7,9 +7,9 @@
   "scripts": {
     "test": "ts-node ./api/tests/index.ts",
     "test:remark": "remark ./cards -q",
-    "build": "ts-node ./api/build/index.ts",
-    "build:snaps": "ts-node ./api/tests/build-snaps.ts",
-    "deploy": "yarn build && cp -a ./static ./dist"
+    "build": "rm -rf ./dist && mkdir ./dist && cp -a ./static/* ./dist && yarn build:api",
+    "build:api": "ts-node ./api/build/index.ts",
+    "build:snaps": "ts-node ./api/tests/build-snaps.ts"
   },
   "dependencies": {
     "@types/js-yaml": "^3.10.1",

@@ -16,7 +16,7 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Authors", name: "authors", widget: "list"}
-      - {label: "Created", name: "created", widget: "datetime"}
-      - {label: "Updated", name: "updated", widget: "datetime"}
+      - {label: "Created", name: "created", widget: "string"}
+      - {label: "Updated", name: "updated", widget: "string"}
       - {label: "Categories", name: "categories", widget: "list"}
       - {label: "Body", name: "body", widget: "markdown"}

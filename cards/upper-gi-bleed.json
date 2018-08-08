@@ -1,0 +1,20 @@
+{
+	"slug": "upper-gi-bleed",
+	"title": "Does Your Patient have a Severe Upper GI Bleed (UGIB)?",
+	"authors": [
+		"Michelle Lin, MD"
+	],
+	"categories": [
+		{
+			"slug": "gastroenterology",
+			"name": "Gastroenterology"
+		},
+		{
+			"slug": "ebm",
+			"name": "EBM"
+		}
+	],
+	"created": "2011/06/17",
+	"updates": null,
+	"body": "\n# Does Your Patient have a Severe Upper GI Bleed (UGIB)?\n\n[JAMA Rational Clinical Examination Series (2012)](http://www.ncbi.nlm.nih.gov/pubmed/?term=22416103)\n\n## Signs\n\n| Finding                                |           (+) LR |           (-) LR |\n| -------------------------------------- | ---------------: | ---------------: |\n| Melena on exam                         |       25 (4-174) | 0.52 (0.42-0.64) |\n| NG lavage with blood or coffee grounds |       9.6 (4-23) | 0.58 (.049-0.70) |\n| Clots in stool                         | 0.05 (0.01-0.38) |    1.2 (1.1-1.2) |\n\n### Labs\n\n| Finding             |       (+) LR |           (-) LR |\n| ------------------- | -----------: | ---------------: |\n| BUN/Cr ratio &gt;30 | 7.5 (2.8-12) | 0.53 (0.28-0.78) |\n\n## Likelihood of Severe Bleeding Requiring intervention\n\n### History\n\n| Finding                    |           (+) LR |           (-) LR |\n| -------------------------- | ---------------: | ---------------: |\n| Cirrhosis or malignancy hx |    3.7 (1.6-8.8) | 0.83 (0.72-0.97) |\n| Syncope                    |    3.0 (1.7-5.4) | 0.95 (0.91-0.98) |\n| Using analgesics           |    2.6 (1.3-5.2) | 0.92 (0.84-0.99) |\n| Coffee ground emesis       | 0.41 (0.26-0.64) |    1.1 (1.1-1.2) |\n\n### Signs\n\n| Finding                                    |        (+) LR |           (-) LR |\n| ------------------------------------------ | ------------: | ---------------: |\n| Pulse &gt;100/min                          | 4.9 (3.2-7.6) | 0.34 (0.22-0.53) |\n| NG lavage with red blood                   |  3.1 (1.2-14) | 0.32 (0.17-0.57) |\n| NG lavage with red blood or coffee grounds | 2.0 (1.0-4.0) | 0.40 (0.20-0.81) |\n| Hypotension                                |       1.2-4.8 |        0.51-0.78 |\n\n### Labs\n\n| Finding           |        (+) LR |           (-) LR |\n| ----------------- | ------------: | ---------------: |\n| HgB &lt;8 g/dL    |       4.5-6.2 |        0.36-0.41 |\n| BUN &gt;90 mg/dL  | 3.6 (2.4-5.5) | 0.45 (0.31-0.65) |\n| WBC &gt;12        | 3.4 (2.2-5.1) | 0.48 (0.34-0.68) |\n\n## Blatchford Score\n\nValidated decision tool to identify UGIB patients who DON'T need urgent intervention\n\n**Serum BUN (mg/dL)**\n\n|   Finding | Score |\n| --------: | ----: |\n|  &lt;18.2 |     0 |\n|   18-22.4 |     2 |\n| 22.4-28.0 |     3 |\n|   28-70.0 |     4 |\n|  &ge;70.0 |     6 |\n\n**Hemoglobin (men, g/dL)**\n\n| Finding | Score |\n| ------: | ----: |\n|  &gt;13 |     0 |\n| 12-12.9 |     1 |\n| 10-11.9 |     3 |\n|  &lt;10 |     6 |\n\n**Hemoglobin (women, d/gL)**\n\n|   Finding | Score |\n| --------: | ----: |\n|    &gt;12 |     0 |\n| 10 - 11.9 |     1 |\n|    &lt;10 |     6 |\n\n**SBP (mmHg)**\n\n| Finding | Score |\n| ------: | ----: |\n| &gt;109 |     0 |\n| 100-109 |     1 |\n|   90-99 |     2 |\n|  &lt;90 |     3 |\n\n**Others**\n\n| Finding            | Score |\n| ------------------ | ----: |\n| Pulse &gt;100/min  |     1 |\n| Melena on Exam     |     1 |\n| Syncope            |     2 |\n| Hepatic disease    |     2 |\n| Heart failure      |     2 |\n\n### Likelihood Ratio of Need for Urgent Evaluation by Score\n\n| Blatchford Score |        (+) LR |           (-) LR |\n| ---------------: | ------------: | ---------------: |\n|                0 | 1.2 (1.0-1.3) |     0.2 (0-0.05) |\n|            &le;2 | 1.4 (1.1-1.8) | 0.08 (0.01-0.41) |\n\n## References\n\n- Kumar R, Mills AM. GI Bleeding. EM Clin N Am. 2011; 29:239-52. [[PubMed](http://www.ncbi.nlm.nih.gov/pubmed/?term=21515178)]\n- Srygley FD et al. Does this patient have a severe UGIB? JAMA. Mar 14, 2012; 307(10):1072-9. [[PubMed](http://www.ncbi.nlm.nih.gov/pubmed/?term=22416103)]\n"
+}

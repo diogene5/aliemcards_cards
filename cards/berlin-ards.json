@@ -1,0 +1,20 @@
+{
+	"slug": "berlin-ards",
+	"title": "Acute Respiratory Distress Syndrome (ARDS) - Berlin Definition",
+	"authors": [
+		"Michelle Lin, MD"
+	],
+	"categories": [
+		{
+			"slug": "critical-care",
+			"name": "Critical Care"
+		},
+		{
+			"slug": "pulmonology",
+			"name": "Pulmonology"
+		}
+	],
+	"created": "2018/05/30",
+	"updates": null,
+	"body": "\n# Acute Respiratory Distress Syndrome (ARDS): Berlin Definition\n\nIn 2011 an initiative of the European Society of Intensive Care Medicine endorsed by the American Thoracic Society and the Society of Critical Care Medicine, developed the Berlin Definition of ARDS. It was subsequently empirically evaluated using patient-level meta-analysis of over 4,000 patients.\n\n| **Clinial Feature**                          | ARDS Definition                                                                   |\n| -------------------------------------------- | ----------------------------------------------------------------------------------|\n| **Timing**                                   | Within 1 week of inciting event or symptom onset                                  |\n| **Imaging**                                  | Bilateral opacities not fully explained by effusions, atelectasis, or nodules     |\n| **Origin of edema**                          | Respiratory failure not fully explained by cardiac failure or fluid overload      |\n| **Oxygenation** (PaO2/FiO2)*                 | **MILD**: 201-300 mmHg<br>**MODERATE**: 101-200 mmHg<br>**SEVERE**: ≤ 100 mmHg    |\n\n*With PEEP (or CPAP) ≥ 5 cmH2O\n\n## Clinical Impacts\n| **ARDS Severity** | **Median duration of mechanical ventilation** | **Mortality** |\n| ----------------- | --------------------------------------------- | ------------- |\n| Mild              | 5 days                                        | 27%           |\n| Moderate          | 7 days                                        | 32%           |\n| Severe            | 9 days                                        | 45%           |\n\n## References\n\n- ARDS Definition Task Force, Ranieri VM, Rubenfeld GD, Thompson BT, Ferguson ND, Caldwell E, Fan E, Camporota L, Slutsky AS. Acute respiratory distress syndrome: the Berlin Definition. JAMA. 2012 Jun 20;307(23):2526-33. [[PubMed]](https://www.ncbi.nlm.nih.gov/pubmed/22797452).\n"
+}

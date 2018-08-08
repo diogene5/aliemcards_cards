@@ -1,0 +1,28 @@
+{
+	"slug": "head-ct-and-lp",
+	"title": "Head CT Before LP for Meningitis",
+	"authors": [
+		"Michelle Lin, MD"
+	],
+	"categories": [
+		{
+			"slug": "neurology",
+			"name": "Neurology"
+		},
+		{
+			"slug": "procedures",
+			"name": "Procedures"
+		},
+		{
+			"slug": "ebm",
+			"name": "EBM"
+		},
+		{
+			"slug": "radiology",
+			"name": "Radiology"
+		}
+	],
+	"created": "2010/04/23",
+	"updates": null,
+	"body": "\n# Head CT: When unnecessary before LP for meningitis\n\n**Caveat**: This review only applies to those patients in whom you suspect meningitis. This does not apply to those being worked up for subarachnoid hemorrhage.\n\nIf **ZERO** of the following high risk features, it is safe to do LP without a Head CT.\n\n| **High Risk Features Associated With An Abnormal CT**      |\n|------------------------------------------------------------|\n| Age &ge;60 yr                                              |\n| Immunocompromise (HIV, transplant, immunosuppression)      |\n| History of CNS disease (mass lesion, CVA, focal infection) |\n| Seizure &lt; 1 week prior to arrival                       |\n| Altered level of consciousness                             |\n| Unable to answer 2 questions correctly                     |\n| Unable to follow 2 commands correctly                      |\n| Gaze palsy                                                 |\n| Abnormal visual fields                                     |\n| Facial palsy                                               |\n| Arm or leg drift                                           |\n| Abnormal language / speech                                 |\n\n## Study: [Hasbun et al. NEMJ, 2001](https://www.ncbi.nlm.nih.gov/pubmed/?term=11742046)\n\n**Design:** Prospective observational single-site study (n = 301)\n\n**Observed results**: \n\n- 235/301 underwent head CT\n  - 56/235 (24%) had abnormal CT\n    - 11/56 had mass effect\n\n**Validation arm: Applying the “high risk” criteria back to the enrollment group:**\n\n- 235/301 underwent head  \n  - 96/235 (41%) had no “high risk” features \n    - 93/96 (97%) had a normal CT\n      - 3/96 (3%) had 2 non-herniations and 1 mild herniation on CT\n      - All 3 patients underwent LP without complications.\n\n**Results: Time savings for who did not undergo CT imaging (CT-)**\n\n- Time to antibiotics (3.8 hr for CT+ vs 2.9 hr for CT-) \n- Time to LP (5.3 hr for CT+ vs 3.0 hr for CT-)\n\n**Limitations**\n\n- Study requires validation on a separate population, different from the derivation group \n\n**Conclusion**\n\n- If there are no abnormal “high risk” clinical features, you can safely perform a LP without a CT to assess for meningitis (NPV = 97%) \n- Skipping the head CT prior to LP decreases time-to-antibiotics and time-to-LP \n\n## References\n\n- Hasbun et al. CT of head before LP in adults with suspected meningitis. NEJM. 2001;345(24): 1727-33. [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=11742046)]\n"
+}

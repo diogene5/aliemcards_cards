@@ -1,0 +1,24 @@
+{
+	"slug": "peripheral-vertigo-vs-stroke",
+	"title": "Acute Vestibular Syndrome vs Stroke",
+	"authors": [
+		"Michelle Lin, MD"
+	],
+	"categories": [
+		{
+			"slug": "neurology",
+			"name": "Neurology"
+		},
+		{
+			"slug": "ent",
+			"name": "ENT"
+		},
+		{
+			"slug": "ebm",
+			"name": "EBM"
+		}
+	],
+	"created": "2011/12/02",
+	"updates": null,
+	"body": "\n# Acute Vestibular Syndrome vs. Stroke\n\n## Acute Vestibular Syndrome (AVS) Symptoms\n\n- Acute dizziness with nausea/vomiting\n- Unsteady gait\n- Nystagmus\n- Intolerance to head motion\n- Lasts &ge;24 hrs\n- No focal neurologic signs\n\n**Most Common Causes**\n\n- Vestibular neuritis (labyrinthitis)\n- Vertebrobasilar CVA \n\n**Central Causes**\n\n- Vertebrobasilar CVA (83%)\n- Multiple sclerosis (11%)\n- Other (6%) \n\n**Caution**\n\n- Over 50% of patients with a vertebrobasilar CVA have no focal neurologic deficit.\n\n## Which Bedside Tests Help Differentiate Peripheral from Central Causes of AVS? \n\n### NOT helpful\n\n- Differentiating characteristic of dizziness (vertigo, presyncope, unsteadiness)\n- Onset of dizziness (sudden vs gradual)\n- Provocative head movement (e.g. Hallpike-Dix)\n- Proportionality of symptoms such as severity of dizziness, vomiting, gait impairment (e.g. severe gait impairment with mild dizziness does not mean central cause)\n- Hearing loss\n- Patterns and vectors of nystagmus\n- Noncontrast head CT has sensitivity of only 16% for acute ischemic CVA\n\n### Helpful\n\n- **Multiple episodes of dizziness**: Predictive of central cause (CVA)\n- **Headache or neck pain**: Predictive of central cause (CVA, vertebral artery dissection)\n\n  - Positive LR = 3.2\n  - Absence of pain not predictive\n\n- **Any neurologic signs**, especially truncal ataxia (unable to sit upright with arms crossed) and severe gait instability \n\n  - Strongly predictive of central cause\n\n- **Horizontal head impulse test** (vestibular-ocular reflex)\n\n  - If abnormal, suggests peripheral vestibular cause\n  - If normal, predictive of central cause (positive LR 18.4, negative LR 0.16)\n\n- **Gaze-evoked nystagmus** (right-beating nystagmus on right gaze and left-beating nystagmus on left gaze)\n\n  - Means dysfunction of gaze-holding structures in brainstem and cerebellum\n  - If abnormal, predictive of central cause (specificity 92%, sensitivity 38%) \n\n- **Vertical ocular misalignment on alternate cover test**\n\n  - If abnormal skew deviation, predictive of central cause (sensitivity 30%, specificity 98%)\n\n- **Diffusion-weighted MRI**\n\n  - Good but not perfect (sensitivity 83% for ischemic CVA)\n\n## Composite HINTS Exam\n\n**HINTS** = **H**ead **I**mpulse test, **N**ystagmus, **T**est of **S**kew exam\n\nAbnormal findings summarized using **INFARCTs** acronym:\n\n- **I**mpulse **N**ormal \n- **F**ast-phase **A**lternating \n- **R**efixation on **C**over **T**est \n- If any 1 of 3 abnormal, sensitivity 100% and specificity 96% for central cause after HINT training ([Kattah et al. Stroke, 2009](https://www.ncbi.nlm.nih.gov/pubmed/?term=19762709))\n\nHINTS test seems as good as diffusion-weighted MRI to r/o CVA in AVS. \n\n## References\n\n- Kattah JC, Talkad AV, Wang DZ, Hsieh YH, Newman-Toker DE. HINTS to diagnose stroke in the acute vestibular syndrome: three-step bedside oculomotor examination more sensitive than early MRI diffusion-weighted imaging. _Stroke_. 2009 Nov;40(11):3504-10. [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=19762709)]\n- Tarnutzer AA et al. Does my dizzy patient have a stroke? A systematic review of bedside diagnosis in acute vestibular syndrome. _CMAJ_. 2011; 183(9): E571-592. [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=21576300)]\n"
+}

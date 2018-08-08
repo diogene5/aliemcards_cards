@@ -1,0 +1,189 @@
+{
+	"created": [
+		{
+			"slug": "berlin-ards",
+			"title": "Acute Respiratory Distress Syndrome (ARDS) - Berlin Definition",
+			"authors": [
+				"Michelle Lin, MD"
+			],
+			"categories": [
+				{
+					"slug": "critical-care",
+					"name": "Critical Care"
+				},
+				{
+					"slug": "pulmonology",
+					"name": "Pulmonology"
+				}
+			],
+			"created": "2018/05/30",
+			"updates": null
+		},
+		{
+			"slug": "tumor-lysis-syndrome",
+			"title": "Tumor Lysis Syndrome",
+			"authors": [
+				"Christopher Nash, MD",
+				"Derek Monette, MD"
+			],
+			"categories": [
+				{
+					"slug": "oncolology",
+					"name": "Oncolology"
+				}
+			],
+			"created": "2018/05/09",
+			"updates": null
+		},
+		{
+			"slug": "txa",
+			"title": "Tranexamic Acid",
+			"authors": [
+				"Sam Ashoo, MD"
+			],
+			"categories": [
+				{
+					"slug": "trauma",
+					"name": "Trauma"
+				},
+				{
+					"slug": "obgyn",
+					"name": "OBGYN"
+				},
+				{
+					"slug": "ent",
+					"name": "ENT"
+				},
+				{
+					"slug": "surgery",
+					"name": "Surgery"
+				}
+			],
+			"created": "2018/04/27",
+			"updates": null
+		},
+		{
+			"slug": "preeclampsia",
+			"title": "Preeclampsia",
+			"authors": [
+				"Sam Ashoo, MD"
+			],
+			"categories": [
+				{
+					"slug": "obgyn",
+					"name": "OBGYN"
+				}
+			],
+			"created": "2018/03/01",
+			"updates": [
+				"2018/05/14"
+			]
+		},
+		{
+			"slug": "sepsis-definitions",
+			"title": "Sepsis Definitions",
+			"authors": [
+				"Jeremy Voros, MD"
+			],
+			"categories": [
+				{
+					"slug": "critical-care",
+					"name": "Critical Care"
+				}
+			],
+			"created": "2017/12/01",
+			"updates": null
+		}
+	],
+	"updates": [
+		{
+			"slug": "preeclampsia",
+			"title": "Preeclampsia",
+			"authors": [
+				"Sam Ashoo, MD"
+			],
+			"categories": [
+				{
+					"slug": "obgyn",
+					"name": "OBGYN"
+				}
+			],
+			"created": "2018/03/01",
+			"updates": [
+				"2018/05/14"
+			]
+		},
+		{
+			"slug": "angioedema",
+			"title": "Angioedema",
+			"authors": [
+				"Michelle Lin, MD"
+			],
+			"categories": [
+				{
+					"slug": "allergy-immunology",
+					"name": "Allergy-Immunology"
+				}
+			],
+			"created": "2010/03/26",
+			"updates": [
+				"2017/2/24"
+			]
+		},
+		{
+			"slug": "brugada",
+			"title": "Brugada Syndrome",
+			"authors": [
+				"Michelle Lin, MD"
+			],
+			"categories": [
+				{
+					"slug": "cardiovascular",
+					"name": "Cardiovascular"
+				}
+			],
+			"created": "2011/05/06",
+			"updates": [
+				"2017/05/10"
+			]
+		},
+		{
+			"slug": "cancer-neutropenic-fever",
+			"title": "Neutropenic Fever and Cancer",
+			"authors": [
+				"Michelle Lin, MD"
+			],
+			"categories": [
+				{
+					"slug": "hematology-and-oncology",
+					"name": "Hematology and Oncology"
+				}
+			],
+			"created": "2011/10/07",
+			"updates": [
+				"2017/05/10"
+			]
+		},
+		{
+			"slug": "benzo-metabolism",
+			"title": "Benzodiazepines Metabolism by the Liver",
+			"authors": [
+				"Bryan Hayes, PharmD"
+			],
+			"categories": [
+				{
+					"slug": "pharmacology",
+					"name": "Pharmacology"
+				},
+				{
+					"slug": "toxicology",
+					"name": "Toxicology"
+				}
+			],
+			"created": "2013/11/13",
+			"updates": [
+				"2017/05/10"
+			]
+		}
+	]
+}

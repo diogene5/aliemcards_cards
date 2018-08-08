@@ -1,0 +1,20 @@
+{
+	"slug": "blunt-cardiac-injury",
+	"title": "Blunt Cardiac Injury",
+	"authors": [
+		"Michelle Lin, MD"
+	],
+	"categories": [
+		{
+			"slug": "trauma",
+			"name": "Trauma"
+		},
+		{
+			"slug": "cardiovascular",
+			"name": "Cardiovascular"
+		}
+	],
+	"created": "2012/06/29",
+	"updates": null,
+	"body": "\n# Blunt Cardiac Injury\n\n_Definition:_ Encompasses wide spectrum of clinical injuries, ranging from asymptomatic myocardial bruise to cardiac rupture/death \n\nNo gold standard \n\n**Pearls:**\n\n- Causes 20% of all deaths due to motor vehicle collisions\n- Most commonly injured chamber: Right ventricle (most anterior in chest) \n\n**Clinical tips:**\n\n- Suspect in anyone with significant blunt, deceleration, or crush trauma to chest\n- Consider BCI in hemodynamically unstable patients without alternative cause\n- Troponin I and T lack adequate sensitivity as screening test  \n\n## Suggested algorithm, based on available evidence\n\n![Blunt cardiac injury algorithm](https://aliemteam.github.io/aliemcards_cards/images/blunt-cardiac-injury/image-1.png)\n\n## References\n\n- Bernardin B, Troquet JM. Initial management and resuscitation of severe chest trauma. EM Clinics of North Am. 2012;30:377-400. [[PubMed](http://www.ncbi.nlm.nih.gov/pubmed/?term=22487111)]\n"
+}

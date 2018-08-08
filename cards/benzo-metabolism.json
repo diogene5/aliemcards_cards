@@ -1,0 +1,22 @@
+{
+	"slug": "benzo-metabolism",
+	"title": "Benzodiazepines Metabolism by the Liver",
+	"authors": [
+		"Bryan Hayes, PharmD"
+	],
+	"categories": [
+		{
+			"slug": "pharmacology",
+			"name": "Pharmacology"
+		},
+		{
+			"slug": "toxicology",
+			"name": "Toxicology"
+		}
+	],
+	"created": "2013/11/13",
+	"updates": [
+		"2017/05/10"
+	],
+	"body": "\n# Benzodiazepine Metabolism by the Liver\n\n## Take Home Points\n\n- **ALL benzodiazepines are metabolized by the liver.** Some are just metabolized by different pathways that are less dependent on global liver function.\n- **The ‘LOT’ drugs are those metabolized mostly by conjugation.**\n\n  - L – <span class=\"drug\">Lorazepam</span>\n  - O – <span class=\"drug\">Oxazepam</span>\n  - T – <span class=\"drug\">Temazepam</span>\n\n- The ‘LOT’ drugs do not have active metabolites after hepatic conjugation, and therefore have minimally affected half-lives in patients with liver disease. \n\n## Non-LOT Benzodiazepine Medications\nThese benzodiazepines may have prolonged effects in patients with marked liver disease.\n- Primarily metabolized via hepatic CYP-mediated oxidation. \n- Examples: Drugs with active metabolites include - \n  - <span class=\"drug\">Diazepam</span>\n  - <span class=\"drug\">Clonazepam</span>\n  - <span class=\"drug\">Midazolam</span>\n\nSome practitioners like to take advantage of the longer duration of action and active metabolites.\n\n**Click [here](https://www.aliem.com/2013/all-benzodiazepines-are-metabolized-by-the-liver/) for full ALiEM blog post**\n\n## References\n\n- Mihic SJ, Harris RA. Chapter 17. Hypnotics and Sedatives. In: Chabner BA, Knollmann BC, eds. Goodman & Gilman’s The Pharmacological Basis of Therapeutics. 12nd ed. New York: McGraw-Hill; 2011. Accessed November 7, 2013. \n- Lee DC, Ferguson KL. Chapter 74. Sedative-Hypnotics. In: Lee DC, Ferguson KL, eds.Goldfrank’s Toxicologic Emergencies. 9th ed. New York: McGraw-Hill; 2011. Accessed November 7, 2013.\n"
+}

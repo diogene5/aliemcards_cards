@@ -1,0 +1,22 @@
+{
+	"slug": "skin-soft-tissue-ultrasound",
+	"title": "Skin and Soft Tissue Ultrasound",
+	"authors": [
+		"Alissa Genthon, MD",
+		"Patricia Henwood, MD",
+		"Mike Stone, MD"
+	],
+	"categories": [
+		{
+			"slug": "ultrasound",
+			"name": "Ultrasound"
+		},
+		{
+			"slug": "radiology",
+			"name": "Radiology"
+		}
+	],
+	"created": "2015/01/07",
+	"updates": null,
+	"body": "\n# Ultrasound: Skin and Soft Tissue\n\n**Goals:** Use ultrasound to evaluate the skin or soft tissue to identify and differentiate various types of pathology.\n\n**Transducer:** High frequency linear transducer. Consider low frequency curvilinear transducer for deeper structures. Use a “superficial” or similar preset.\n\n**Windows:** Image the area of interest in both longitudinal and transverse planes.\nScan completely through the affected area to define borders.\nUse an adjacent or contralateral (unaffected) area as a comparison.\n\n## Normal Skin and Soft Tissue\n\n**Hypodermis:** Varying thickness, less echogenic (epidermis/dermis can be difficult to distinguish)\n\n**Muscle:** Hypoechoic with hyperechoic fibro-fatty septae and surrounding fascia\n\n**Lymph nodes**: Hypoechoic oval/kidney bean shape cortex with fatty echogenic hilum (vascular)\n\n**Subcutaneous fat**: Hypoechoic with thin echogenic septations\n\n**Fascia:** Hyperechoic linear stripes\n\n**Bone**: Hyperechoic linear structure parallel to skin surface with posterior shadowing\n\n## Abscess\n\n- Can vary in appearance but typically hypo- or anechoic areas with a regular or irregular border.\n- Contents may be seen to \"swirl” or “squish” when purulent material moves with compression by the transducer.\n- If anechoic and regular circular border, may be difficult to distinguish from a cyst.\n\n![Subcutaneous abscess characterized by a mixed echogenicity fluid collection with irregular borders](https://aliemteam.github.io/aliemcards_cards/images/skin-soft-tissue-ultrasound/image-1.png)\n\nFigure 1: Subcutaneous abscess characterized by a mixed echogenicity **fluid collection with irregular borders** (yellow arrows)\n\n## Cellulitis\n\nAppears as \"cobblestoning,\" caused by interstitial edema separating adipose tissue.\n\n![Cellulitis](https://aliemteam.github.io/aliemcards_cards/images/skin-soft-tissue-ultrasound/image-2.png)\n\nFigure 2: Cellulitis\n\n## Foreign Body\n\n- Will vary in appearance based on composition\n- May exhibit the \"halo sign\" which appears as hypoechoic ring surrounding a hyperechoic foreign body (generally only present in foreign bodies of >24 hours)\n\n![A subcutaneous wooden foreign body (red arrows) is identified with deep shadowing](https://aliemteam.github.io/aliemcards_cards/images/skin-soft-tissue-ultrasound/image-3.png)\n\nFigure 3: A subcutaneous **wooden foreign body** (red arrows) is identified with **deep shadowing** (yellow arrows)\n\n## Struggling with the Exam?\n\n### Is your preset set correctly?\n\n- Make sure you are using a “superficial” preset. A vascular or vascular access preset has a very high contrast (low dynamic range) & can make it difficult to identify subtle skin and soft tissue findings.\n\n### Looking for abscess?\n\n- Other structures may be mistaken for abscess including lymph nodes, solid masses, hematoma, deep venous thrombosis, or cyst. Be sure to slide all the way through the structure in 2 planes to define its borders.\n\n### Looking for foreign body?\n\n- Other hyperechoic structures may be mistaken for a foreign body including tendons, fascia, etc.\n\n### Is the area is too painful to apply a probe?\n\n- Try a water bath or heap up a generous pile of ultrasound gel to improve image acquisition and decrease the discomfort of the exam.\n\n## Common Errors\n\nBe sure to familiarize yourself with normal anatomy when performing exams to avoid mistaking artifacts and normal structures for pathology.\n\nFine movements and control of probe is necessary for accuracy and to avoid slipping off the area of interest when performing with soft tissue ultrasound. Consider resting the ulnar aspect of your hand or your 5th digit on the patient adjacent to the area of interest in order to maintain appropriate transducer position.\n\n## References\n\n- Tayal VS, Hasan N, Norton HJ, Tomaszewski CA. The effect of soft-tissue ultrasound on the management of cellulitis in the emergency department. Acad Emerg Med. 2006;13(4):384-8. [[PubMed](http://www.ncbi.nlm.nih.gov/pubmed/16531602)]\n"
+}

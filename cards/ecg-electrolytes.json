@@ -1,0 +1,24 @@
+{
+	"slug": "ecg-electrolytes",
+	"title": "ECG Electrolyte Imbalance",
+	"authors": [
+		"Steve Field, MD"
+	],
+	"categories": [
+		{
+			"slug": "cardiovascular",
+			"name": "Cardiovascular"
+		},
+		{
+			"slug": "ecg",
+			"name": "ECG"
+		},
+		{
+			"slug": "endocrinology",
+			"name": "Endocrinology"
+		}
+	],
+	"created": "2012/09/21",
+	"updates": null,
+	"body": "\n# ECG: Electrolyte Imbalance\n\n![Normal ECG with overlay showing all the measurable intervals](https://aliemteam.github.io/aliemcards_cards/images/ecg-electrolytes/image-1.png)\n\nImage courtesy of [Life in the Fast Lane](https://lifeinthefastlane.com)\n\n**PR Interval**\n\n| Short                                      | Prolonged      |\n| ------------------------------------------ | -------------- |\n| Pre-excitation, e.g. Wolff-Parkinson-White | High K, Low Ca |\n\n**QRS Duration**\n\n| Narrow                | Wide            |\n| --------------------- | --------------- |\n| Low K, Low Ca, Normal | High K, High Ca |\n\n**QTc Interval**\n\n| Short   | Prolonged     |\n| ------- | ------------- |\n| High Ca | Low K, Low Ca |\n\n**ST Segment**\n\n| Depressed      | Elevated |\n| -------------- | -------- |\n| Low K, High Ca | High K   |\n\n**T Wave**   \n\n| Peak/Tall | Flattened |\n| --------- | --------- |\n| High K    | Low K     |\n\n**U Wave**   \n\n| Absent | Present       |\n| ------ | ------------- |\n| Normal | Low K, Low Ca |\n\n**Heart Rate**   \n\n| Slow            | Fast          |\n| --------------- | ------------- |\n| High K, High Ca | Low K, Low Ca |\n\n## Electrolyte Imbalances\n\n<table>\n<colgroup>\n<col width=\"33%\" />\n<col width=\"33%\" />\n<col width=\"33%\" />\n</colgroup>\n<thead>\n<tr class=\"header\">\n<th> </th>\n<th><strong>Low</strong></th>\n<th><strong>High</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr class=\"odd\">\n<td><br />\n<br />\n<strong>Ca</strong></td>\n<td><ul>\n<li>QTc prolonged</li>\n<li>U wave</li>\n<li>Heart blocks</li>\n<li>Dysrhythmias (heart block, torsades, ventricular)</li>\n</ul></td>\n<td><ul>\n<li>QTc shortened</li>\n<li>ST depression and shortening</li>\n<li>QRS widening</li>\n<li>Dysrhythmias (bradydysrhthmias, bundle branch block, high degree AV block)</li>\n</ul></td>\n</tr>\n<tr class=\"even\">\n<td><br />\n<br />\n<br />\n<strong>K</strong></td>\n<td><em>Early to late findings:</em>\n<ol>\n<li>T wave: decr. amplitude</li>\n<li>T wave: flat or inverted</li>\n<li>ST depression</li>\n<li>U wave</li>\n<li>QTc prolonged</li>\n</ol></td>\n<td><em>Early to late findings:</em>\n<ol>\n<li>T wave: tall, then &quot;peaked&quot;, symmetrical</li>\n<li>P wave flattening</li>\n<li>PR prolonged</li>\n<li>QRS widening</li>\n<li>Nodal blocks, escape beats</li>\n<li>Sine wave → VF or asystole</li>\n</ol></td>\n</tr>\n</tbody>\n</table>\n\n**Magnesium Derangements:**\n\n- Nonspecific ECG findings\n- Often co-exists with Ca derangements\n- Classic teaching: Low Mg level → QTc prolongation → Torsades de pointes\n\n## References\n\n- Goldberger A., Clinical Electrocardiography: A Simplified Approach, 8th Edition, 2006\n- Diercks DB, Shumaik GM, Harrigan RA, Brady WJ, Chan TC. Electrocardiographic manifestations: electrolyte abnormalities. J Emerg Med. 2004 Aug;27(2):153-60. [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=15261358)]\n- Marx J, Hockberger R., Walls R., Rosen’s Emergency Medicine: Concepts and Clinical Practice, 7th ed, 2010\n"
+}

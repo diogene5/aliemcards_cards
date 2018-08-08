@@ -1,0 +1,20 @@
+{
+	"slug": "croup",
+	"title": "Croup",
+	"authors": [
+		"Michelle Lin, MD"
+	],
+	"categories": [
+		{
+			"slug": "pediatrics",
+			"name": "Pediatrics"
+		},
+		{
+			"slug": "ent",
+			"name": "ENT"
+		}
+	],
+	"created": "2010/08/20",
+	"updates": null,
+	"body": "\n# Croup\n\n- Laryngotracheobronchitis\n- Viral inflammatory condition of the subglottic airway\n- **Typical age:** 6 months-5 years\n- **Cause:** Parainfluenza in 80% cases\n- **Presentation:** hoarse voice, “barky” cough, low-grade fever, stridor, resp distress \n- **Differential diagnosis:** epiglottitis (which does not usually have URI sx and usually more toxic)\n- [Video of child with croup](https://www.youtube.com/watch?v=0lepci-YheI)\n\n## Westley croup scoring system\n\n(Scoring systems not extensively evaluated)\n\n| Finding                             | Points |\n| ----------------------------------- | -----: |\n| **STRIDOR**                         |        |\n| • None                              |      0 |\n| • Only with agitation or excitement |      1 |\n| • At rest with stethoscope          |      2 |\n| • At rest without stethoscope       |      3 |\n| **RETRACTION**                      |        |\n| • None                              |      0 |\n| • Mild                              |      1 |\n| • Moderate                          |      2 |\n| • Severe                            |      3 |\n| **AIR ENTRY**                       |        |\n| • Normal                            |      0 |\n| • Decreased                         |      1 |\n| • Severely decreased                |      2 |\n| **CYANOSIS**                        |        |\n| • None                              |      0 |\n| • With agitation                    |      4 |\n| • At rest                           |      5 |\n| **LEVEL OF CONSCIOUSNESS**          |        |\n| • Normal                            |      0 |\n| • Altered mental status             |      5 |\n\n**Severity:**\n\n- Mild (0-2)\n- Moderate (3-6)\n- Severe (>6)\n\n**Pearl:**\nCheck for cutaneous hemangiomas, because may be subglottic hemangioma (esp in age &lt;6 mo)\n\n**CXR (AP view)**: \n\n- Not helpful to look for “steeple” sign. \n- Poor specificity and sensitivity\n\n## Treatment \n\n1. Keep child calm.\n2. Give supplemental oxygen\n3. <span class=\"drug\">**Racemic epinephrine:**</span> Reduces airway edema. Use for moderate-severe respiratory distress. Observe 3-4 hours for rebound symptoms. Dose: 0.5 mL/kg (onset &lt;30 minutes, duration 2 hours)\n4. <span class=\"drug\">**Dexamethasone:**</span> Reduces severity and duration of croup, even in mild cases ([Bjornson et al., NEJM, 2004](https://www.ncbi.nlm.nih.gov/pubmed/?term=15385657))\n\n- Dose 0.6 mg/kg po\n\n## NO longer part of treatment\n\n1. **Cool mist:** NO added benefit in moderate-severe croup ([Scholnik, JAMA 2006](https://www.ncbi.nlm.nih.gov/pubmed/?term=16537737))\n2. **Humidified air:** NO added benefit ([Moore et al., Cochrane, 2006](https://www.ncbi.nlm.nih.gov/pubmed/?term=16855994))\n\n## References\n\n- Sobol SE, Zapata S. Epiglottitis and Croup. Otolaryn Clin N Am. 2008, 41:551-66 [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=18435998)]\n- Scolnik D, Coates AL, Stephens D, Da Silva Z, Lavine E, Schuh S.Controlled delivery of high vs low humidity vs mist therapy for croup in emergency departments: a randomized controlled trial. JAMA. 2006 Mar 15;295(11):1274-80. [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=16537737)]\n- Moore M, Little P. Humidified air inhalation for treating croup. Cochrane Database Syst Rev. 2006 Jul 19;(3):CD002870. [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=16855994)]\n- Everard ML. Acute Bronchiolitis and Croup. Pediatr Clin N Am. 2009, 56:1 19-33 [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=19135584)]\n- Bjornson CL, Klassen TP, Williamson J, Brant R, Mitton C, Plint A, Bulloch B, Evered L, Johnson DW; Pediatric Emergency Research Canada Network.A randomized trial of a single dose of oral dexamethasone for mild croup.N Engl J Med. 2004 Sep 23;351(13):1306-13. [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=15385657)]\n"
+}

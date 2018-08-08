@@ -1,6 +1,7 @@
 import * as fs from 'fs';
 import * as path from 'path';
 
+import * as yaml from 'js-yaml';
 import * as rimraf from 'rimraf';
 
 import config from '../config';
@@ -14,7 +15,12 @@ function copyCards(src: string, dest: string): void {
   const cards = [];
   card_paths.forEach(slug => {
     const contents = fs.readFileSync(`${src}/${slug}/card.md`, 'utf8');
-    fs.writeFileSync(`${dest}/${slug}.md`, contents.replace(config.REGEX.image_url, `media/${slug}_$&`));
+    const { body, updates, categories, ...frontmatter } = extract_frontmatter(contents);
+    const new_body = body.replace(config.REGEX.image_url, `media/${slug}_$&`);
+    const new_updates = Array.isArray(updates) ? updates[0] : null;
+    const new_cats = categories.map(cat => cat.name);
+    const new_content = `---\n${yaml.safeDump({...frontmatter, updated: new_updates, categories: new_cats })}---\n${new_body}`;
+    fs.writeFileSync(`${dest}/${slug}.md`, new_content);
   });
 }
 

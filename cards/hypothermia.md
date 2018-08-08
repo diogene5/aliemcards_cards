@@ -1,11 +1,11 @@
 ---
-title: Hypothermia, Accidental
+title: 'Hypothermia, Accidental'
 authors:
-    - 'Michelle Lin, MD'
+  - 'Michelle Lin, MD'
 created: 2011/02/04
-updates:
+updated: null
 categories:
-    - Environmental
+  - Environmental
 ---
 
 # Hypothermia, Accidental

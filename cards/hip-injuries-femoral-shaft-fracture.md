@@ -1,13 +1,13 @@
 ---
 title: Hip Injuries - Femoral Shaft Fracture
 authors:
-    - Layla Abubshait, MD
-    - Michael Gottlieb, MD, RDMS
-    - Mary Haas, MD
+  - 'Layla Abubshait, MD'
+  - 'Michael Gottlieb, MD, RDMS'
+  - 'Mary Haas, MD'
 created: 2016/11/14
-updates:
+updated: null
 categories:
-    - Orthopedics
+  - Orthopedics
 ---
 
 # Hip Injuries: Femoral Shaft Fracture

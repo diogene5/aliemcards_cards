@@ -1,12 +1,12 @@
 ---
 title: Blunt Cerebrovascular Injuries
 authors:
-    - Michelle Lin, MD
+  - 'Michelle Lin, MD'
 created: 2011/07/01
-updates:
+updated: null
 categories:
-    - Trauma
-    - Neurology
+  - Trauma
+  - Neurology
 ---
 
 # Blunt Cerebrovascular Injuries (BCVI)

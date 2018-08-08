@@ -1,12 +1,12 @@
 ---
-title: Ottawa Knee, Ankle, and Foot Rules
+title: 'Ottawa Knee, Ankle, and Foot Rules'
 authors:
-    - Michelle Lin, MD
+  - 'Michelle Lin, MD'
 created: 2010/05/07
-updates:
+updated: null
 categories:
-    - Orthopedics
-    - EBM
+  - Orthopedics
+  - EBM
 ---
 
 # Ottawa Knee, Ankle, and Foot Rules

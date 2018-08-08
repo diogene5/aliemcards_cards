@@ -1,14 +1,12 @@
 ---
-
 title: Benzodiazepines Metabolism by the Liver
 authors:
-    - Bryan Hayes, PharmD
+  - 'Bryan Hayes, PharmD'
 created: 2013/11/13
-updates:
-    - 2017/05/10
+updated: 2017/05/10
 categories:
-    - Pharmacology
-    - Toxicology
+  - Pharmacology
+  - Toxicology
 ---
 
 # Benzodiazepine Metabolism by the Liver

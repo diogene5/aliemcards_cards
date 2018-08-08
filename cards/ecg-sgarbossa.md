@@ -1,12 +1,12 @@
 ---
 title: Sgarbossa Criteria for LBBB and AMI
 authors:
-    - Michelle Lin, MD
+  - 'Michelle Lin, MD'
 created: 2010/11/05
-updates:
+updated: null
 categories:
-    - Cardiovascular
-    - ECG
+  - Cardiovascular
+  - ECG
 ---
 
 # ECG: Sgarbossa Criteria for LBBB and AMI

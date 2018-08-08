@@ -1,13 +1,12 @@
 ---
-
 title: Left Ventricular Assist Device Complications
 authors:
-    - Nicolas Stadlberger, MD
+  - 'Nicolas Stadlberger, MD'
 created: 2016/11/23
-updates:
+updated: null
 categories:
-    - Cardiovascular
-    - Critical Care
+  - Cardiovascular
+  - Critical Care
 ---
 
 # Left Ventricular Assist Device Complications

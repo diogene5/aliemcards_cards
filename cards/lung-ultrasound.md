@@ -1,16 +1,15 @@
 ---
-
 title: 'Ultrasound: Focused Lung Assessment'
 authors:
-    - Anne Aspler, MD
-    - Clare Heslop, MD
-    - Mike Stone, MD
+  - 'Anne Aspler, MD'
+  - 'Clare Heslop, MD'
+  - 'Mike Stone, MD'
 created: 2015/02/04
-updates:
+updated: null
 categories:
-    - Ultrasound
-    - Radiology
-    - Pulmonology
+  - Ultrasound
+  - Radiology
+  - Pulmonology
 ---
 
 # Ultrasound: Focused Lung Assessment

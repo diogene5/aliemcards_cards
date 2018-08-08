@@ -1,16 +1,15 @@
 ---
-
 title: Ultrasound - Focused Assessment with Sonography in Trauma (FAST)
 authors:
-    - Wilma Chan, MD
-    - John Eicken, MD 
-    - Mike Stone, MD
+  - 'Wilma Chan, MD'
+  - 'John Eicken, MD'
+  - 'Mike Stone, MD'
 created: 2014/09/14
-updates:
+updated: null
 categories:
-    - Ultrasound
-    - Radiology
-    - Trauma
+  - Ultrasound
+  - Radiology
+  - Trauma
 ---
 
 # Ultrasound: Focused Assessment with Sonography in Trauma (FAST)

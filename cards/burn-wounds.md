@@ -1,14 +1,12 @@
 ---
-
 title: Burn Wounds
 authors:
-    - Michelle Lin, MD
-    - Christian Rose, MD
+  - 'Michelle Lin, MD'
+  - 'Christian Rose, MD'
 created: 2010/07/02
-updates:
-    - 2016/04/22
+updated: 2016/04/22
 categories:
-    - Trauma
+  - Trauma
 ---
 
 # Burn Wounds

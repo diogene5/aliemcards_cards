@@ -1,13 +1,13 @@
 ---
 title: Elbow Injuries  Epicondyle Fracture (Lateral)
 authors:
-    - Melody Glenn, MD
-    - Andrew Little, DO
-    - Mary Haas, MD
+  - 'Melody Glenn, MD'
+  - 'Andrew Little, DO'
+  - 'Mary Haas, MD'
 created: 2016/12/12
-updates: null
+updated: null
 categories:
-    - Orthopedics
+  - Orthopedics
 ---
 
 # Elbow Injuries: Epicondyle Fracture (Lateral)

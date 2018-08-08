@@ -1,14 +1,14 @@
 ---
 title: Head CT Before LP for Meningitis
 authors:
-    - Michelle Lin, MD
+  - 'Michelle Lin, MD'
 created: 2010/04/23
-updates:
+updated: null
 categories:
-    - Neurology
-    - Procedures
-    - EBM
-    - Radiology
+  - Neurology
+  - Procedures
+  - EBM
+  - Radiology
 ---
 
 # Head CT: When unnecessary before LP for meningitis

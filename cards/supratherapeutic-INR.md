@@ -1,11 +1,11 @@
 ---
 title: Supratherapeutic INR
 authors:
-    - Michelle Lin, MD
+  - 'Michelle Lin, MD'
 created: 2012/08/10
-updates:
+updated: null
 categories:
-    - Hematology and Oncology
+  - Hematology and Oncology
 ---
 
 # Overanticoagulation and Supratherapeutic INR from Warfarin

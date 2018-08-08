@@ -1,16 +1,15 @@
 ---
-
-title: Ultrasound - Focused 1st Trimester Pregnancy, Transvaginal Exam
+title: 'Ultrasound - Focused 1st Trimester Pregnancy, Transvaginal Exam'
 authors:
-    - Matt Lipton, MD
-    - Mike Mallin, MD
-    - Mike Stone, MD
+  - 'Matt Lipton, MD'
+  - 'Mike Mallin, MD'
+  - 'Mike Stone, MD'
 created: 2015/03/04
-updates:
+updated: null
 categories:
-    - Ultrasound
-    - Radiology
-    - OBGYN
+  - Ultrasound
+  - Radiology
+  - OBGYN
 ---
 
 # Ultrasound: Focused 1st Trimester Pregnancy (Transvaginal Assesment)

@@ -1,13 +1,11 @@
 ---
-
 title: Bell's Palsy Treatment
 authors:
-    - Michelle Lin, MD
+  - 'Michelle Lin, MD'
 created: 2013/02/21
-updates:
-    - 2017/02/13
+updated: 2017/02/13
 categories:
-    - Neurology
+  - Neurology
 ---
 
 # Bell's Palsy Treatment

@@ -1,14 +1,13 @@
 ---
-
 title: ECG Electrolyte Imbalance
 authors:
-    - Steve Field, MD
+  - 'Steve Field, MD'
 created: 2012/09/21
-updates:
+updated: null
 categories:
-    - Cardiovascular
-    - ECG
-    - Endocrinology
+  - Cardiovascular
+  - ECG
+  - Endocrinology
 ---
 
 # ECG: Electrolyte Imbalance

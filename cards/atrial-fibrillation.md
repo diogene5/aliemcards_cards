@@ -1,12 +1,11 @@
 ---
 title: Atrial Fibrillation and Anticoagulation
 authors:
-    - Michelle Lin, MD
+  - 'Michelle Lin, MD'
 created: 2010/04/09
-updates:
-    - 2017/02/13
+updated: 2017/02/13
 categories:
-    - Cardiovascular
+  - Cardiovascular
 ---
 
 # Atrial Fibrillation and Anticoagulation

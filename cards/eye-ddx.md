@@ -1,13 +1,11 @@
 ---
-
 title: Eye Anatomy and Key Diagnoses Rule of 2s
 authors:
-    - Puja Gopal, MD
+  - 'Puja Gopal, MD'
 created: 2017/04/14
-updates: 
+updated: null
 categories:
-    - Ophthalmology
- 
+  - Ophthalmology
 ---
 
 # Background

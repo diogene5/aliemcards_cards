@@ -1,14 +1,14 @@
 ---
 title: Emergency Drug Card - Adult
 authors:
-    - Rob Bryant, MD
-    - Amie Hatch, PharmD, BCPS
-    - Jeremy Bair, PharmD
+  - 'Rob Bryant, MD'
+  - 'Amie Hatch, PharmD, BCPS'
+  - 'Jeremy Bair, PharmD'
 created: 2013/09/11
-updates:
+updated: null
 categories:
-    - Pharmacology
-    - Critical Care
+  - Pharmacology
+  - Critical Care
 ---
 
 # Emergency Drug Card (Adult)

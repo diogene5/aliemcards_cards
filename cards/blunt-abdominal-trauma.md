@@ -1,13 +1,12 @@
 ---
-
 title: Blunt Intra-Abdominal Injury
 authors:
-    - Michelle Lin, MD
+  - 'Michelle Lin, MD'
 created: 2012/04/20
-updates:
+updated: null
 categories:
-    - Trauma
-    - EBM
+  - Trauma
+  - EBM
 ---
 
 # Blunt Intra-Abdominal Injury: Likelihood Ratios

@@ -1,13 +1,12 @@
 ---
-
 title: Cystitis and Pyelonephritis in Women
 authors:
-    - Michelle Lin, MD
+  - 'Michelle Lin, MD'
 created: 2011/09/02
-updates:
+updated: null
 categories:
-    - Infectious Disease
-    - Genitourinary
+  - Infectious Disease
+  - Genitourinary
 ---
 
 # Antibiotic Selection for Cystitis and Pyelonephritis in Women

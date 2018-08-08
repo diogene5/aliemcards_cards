@@ -1,15 +1,14 @@
 ---
-
 title: Focused Echocardiography
 authors:
-    - Jimmy Fair, MD
-    - Mike Mallon, MD
-    - Mike Stone, MD
+  - 'Jimmy Fair, MD'
+  - 'Mike Mallon, MD'
+  - 'Mike Stone, MD'
 created: 2015/02/11
-updates:
+updated: null
 categories:
-    - Cardiovascular
-    - Ultrasound
+  - Cardiovascular
+  - Ultrasound
 ---
 
 # Ultrasound: Focused Echocardiography

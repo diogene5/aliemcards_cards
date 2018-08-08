@@ -1,13 +1,12 @@
 ---
-
 title: Rapid Sequence Intubation
 authors:
-    - Demian Szyld, MD
+  - 'Demian Szyld, MD'
 created: 2010/07/16
-updates:
+updated: null
 categories:
-    - Critical Care
-    - Procedures
+  - Critical Care
+  - Procedures
 ---
 
 # Rapid Sequence Intubation (RSI)

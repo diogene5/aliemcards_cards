@@ -1,13 +1,13 @@
 ---
 title: Knee Injuries - Knee Dislocation
 authors:
-    - Layla Abubshait, MD
-    - Michael Gottlieb, MD, RDMS
-    - Mary Haas, MD
+  - 'Layla Abubshait, MD'
+  - 'Michael Gottlieb, MD, RDMS'
+  - 'Mary Haas, MD'
 created: 2016/11/21
-updates:
+updated: null
 categories:
-    - Orthopedics
+  - Orthopedics
 ---
 
 # Knee Injuries: Knee Dislocation

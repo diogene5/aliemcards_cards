@@ -1,13 +1,12 @@
 ---
-
 title: Continuous Medication Infusions
 authors:
-    - Michelle Lin, MD
+  - 'Michelle Lin, MD'
 created: 2012/03/09
-updates:
+updated: null
 categories:
-    - Pharmacology
-    - Critical Care
+  - Pharmacology
+  - Critical Care
 ---
 
 # Continuous Medication Infusions: Dosing Recommendations

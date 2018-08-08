@@ -1,14 +1,14 @@
 ---
 title: 'Ultrasound: Ocular Assessment'
 authors:
-    - Sarah Elisabeth Frasure, MD
-    - Mike Stone, MD
+  - 'Sarah Elisabeth Frasure, MD'
+  - 'Mike Stone, MD'
 created: 2015/01/28
-updates:
+updated: null
 categories:
-    - Ultrasound
-    - Radiology
-    - Ophthalmology
+  - Ultrasound
+  - Radiology
+  - Ophthalmology
 ---
 
 # Ultrasound: Ocular Assessment

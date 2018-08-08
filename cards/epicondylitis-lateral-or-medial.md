@@ -1,13 +1,13 @@
 ---
-title: Elbow Injuries - Epicondylitis, Lateral or Medial
+title: 'Elbow Injuries - Epicondylitis, Lateral or Medial'
 authors:
-    - Melody Glenn, MD
-    - Andrew Little, DO
-    - Mary Haas, MD
+  - 'Melody Glenn, MD'
+  - 'Andrew Little, DO'
+  - 'Mary Haas, MD'
 created: 2016/12/12
-updates:
+updated: null
 categories:
-    - Orthopedics
+  - Orthopedics
 ---
 
 # Elbow Injuries: Epicondylitis, Lateral or Medial

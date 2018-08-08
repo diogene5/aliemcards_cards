@@ -1,13 +1,12 @@
 ---
-
 title: ECG Right and Posterior Leads
 authors:
-    - Michelle Lin, MD
+  - 'Michelle Lin, MD'
 created: 2011/03/11
-updates:
+updated: null
 categories:
-    - Cardiovascular
-    - ECG
+  - Cardiovascular
+  - ECG
 ---
 
 # ECG: Right and Posterior Leads

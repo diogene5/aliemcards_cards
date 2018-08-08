@@ -1,12 +1,11 @@
 ---
 title: Neutropenic Fever and Cancer
 authors:
-    - Michelle Lin, MD
+  - 'Michelle Lin, MD'
 created: 2011/10/07
-updates: 
-    - 2017/05/10
+updated: 2017/05/10
 categories:
-    - Hematology and Oncology
+  - Hematology and Oncology
 ---
 
 # Neutropenic Fever and Cancer

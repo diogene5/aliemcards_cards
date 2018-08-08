@@ -1,13 +1,13 @@
 ---
 title: Elbow Injuries - Radial Head Subluxation (Nursemaids Elbow)
 authors:
-    - Melody Glenn, MD
-    - Andrew Little, DO
-    - Mary Haas, MD
+  - 'Melody Glenn, MD'
+  - 'Andrew Little, DO'
+  - 'Mary Haas, MD'
 created: 2016/12/12
-updates:
+updated: null
 categories:
-    - Orthopedics
+  - Orthopedics
 ---
 
 # Elbow Injuries: Radial Head Subluxation

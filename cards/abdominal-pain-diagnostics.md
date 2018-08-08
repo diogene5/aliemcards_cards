@@ -1,14 +1,13 @@
 ---
 title: Abdominal Pain - Diagnostic Studies
 authors:
-    - Michelle Lin, MD
+  - 'Michelle Lin, MD'
 created: 2011/07/22
-updates:
-    - 2017/02/21
+updated: 2017/02/21
 categories:
-    - Gastroenterology
-    - Surgery
-    - EBM
+  - Gastroenterology
+  - Surgery
+  - EBM
 ---
 
 # Abdominal Pain - Diagnostic Studies

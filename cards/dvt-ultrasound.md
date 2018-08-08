@@ -1,16 +1,15 @@
 ---
-
 title: Ultrasound DVT Assessment
 authors:
-    - Margaret Greenwood-Ericksen, MD
-    - Joshua Rempell, MD
-    - Mike Stone, MD
+  - 'Margaret Greenwood-Ericksen, MD'
+  - 'Joshua Rempell, MD'
+  - 'Mike Stone, MD'
 created: 2015/02/18
-updates:
+updated: null
 categories:
-    - Radiology
-    - Ultrasound
-    - Cardiovascular
+  - Radiology
+  - Ultrasound
+  - Cardiovascular
 ---
 
 # Ultrasound: Focused Deep Venous Thrombosis (DVT) Assessment

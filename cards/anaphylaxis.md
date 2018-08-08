@@ -1,13 +1,11 @@
 ---
-
 title: Anaphylaxis
 authors:
-    - 'Michelle Lin, MD'
+  - 'Michelle Lin, MD'
 created: 2012/02/24
-updates:
-    - 2017/02/13
+updated: 2017/02/13
 categories:
-    - Allergy-Immunology
+  - Allergy-Immunology
 ---
 
 # Anaphylaxis

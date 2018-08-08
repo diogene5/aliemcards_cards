@@ -1,13 +1,11 @@
 ---
 title: ABG Interpretation
 authors:
-    - Michelle Lin, MD
+  - 'Michelle Lin, MD'
 created: 2010/04/02
-
-updates:
-    - 2017/02/24
+updated: 2017/02/24
 categories:
-    - Pulmonology   
+  - Pulmonology
 ---
 
 # ABG Interpretation

@@ -1,13 +1,12 @@
 ---
-
 title: Vasopressors in Hypotension
 authors:
-    - Todd A. Seigel, MD
+  - 'Todd A. Seigel, MD'
 created: 2013/08/20
-updates:
+updated: null
 categories:
-    - Critical Care
-    - Cardiovascular
+  - Critical Care
+  - Cardiovascular
 ---
 
 # Choosing the Right Vasopressor Agent in Hypotension

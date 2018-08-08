@@ -1,12 +1,12 @@
 ---
 title: PESI Score for Pulmonary Embolism
 authors:
-    - Michelle Lin, MD
+  - 'Michelle Lin, MD'
 created: 2012/11/17
-updates:
+updated: null
 categories:
-    - Pulmonology
-    - Critical Care
+  - Pulmonology
+  - Critical Care
 ---
 
 # PESI Score for Pulmonary Embolism

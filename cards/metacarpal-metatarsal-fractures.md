@@ -1,11 +1,11 @@
 ---
 title: Metatarsal & Metacarpal Fractures
 authors:
-    - Michelle Lin, MD
+  - 'Michelle Lin, MD'
 created: 2013/12/13
-updates:
+updated: null
 categories:
-    - Orthopedics
+  - Orthopedics
 ---
 
 # Metatarsal and Metacarpal Fractures

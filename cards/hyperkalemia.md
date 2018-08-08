@@ -1,14 +1,13 @@
 ---
-
 title: Hyperkalemia
 authors:
-    - Michelle Lin, MD
+  - 'Michelle Lin, MD'
 created: 2010/03/12
-updates:
+updated: null
 categories:
-    - Endocrinology
-    - Metabolic
-    - Critical Care
+  - Endocrinology
+  - Metabolic
+  - Critical Care
 ---
 
 # Hyperkalemia

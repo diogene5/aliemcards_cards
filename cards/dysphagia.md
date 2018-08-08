@@ -1,12 +1,11 @@
 ---
-
 title: Dysphagia
 authors:
-    - Michelle Lin, MD
+  - 'Michelle Lin, MD'
 created: 2010/02/03
-updates:
+updated: null
 categories:
-    - Gastroenterology
+  - Gastroenterology
 ---
 
 # Dysphagia

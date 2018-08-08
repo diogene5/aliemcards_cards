@@ -1,12 +1,11 @@
 ---
 title: Angioedema
 authors:
-    - Michelle Lin, MD
+  - 'Michelle Lin, MD'
 created: 2010/03/26
-updates:
-    - 2017/2/24
+updated: 2017/2/24
 categories:
-    - Allergy-Immunology
+  - Allergy-Immunology
 ---
 
 # Angioedema

@@ -1,14 +1,13 @@
 ---
-
 title: Adenosine 6-12-12 Approach
 authors:
-    - Bryan Hayes, PharmD
+  - 'Bryan Hayes, PharmD'
 created: 2012/12/06
-updates:
+updated: null
 categories:
-    - Cardiovascular
-    - Pharmacology
-    - Critical Care
+  - Cardiovascular
+  - Pharmacology
+  - Critical Care
 ---
 
 # Adenosine: 6-12-12 adenosine approach

@@ -1,12 +1,12 @@
 ---
 title: Pertussis
 authors:
-    - Michelle Lin, MD
+  - 'Michelle Lin, MD'
 created: 2010/09/03
-updates:
+updated: null
 categories:
-    - Infectious Disease
-    - EBM
+  - Infectious Disease
+  - EBM
 ---
 
 # Pertussis

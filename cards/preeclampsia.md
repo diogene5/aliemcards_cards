@@ -1,14 +1,11 @@
 ---
-
 title: Preeclampsia
 authors:
-    - Sam Ashoo, MD
+  - 'Sam Ashoo, MD'
 created: 2018/03/01
-updates:
-    - 2018/05/14
+updated: 2018/05/14
 categories:
-    - OBGYN
-
+  - OBGYN
 ---
 
 # Preeclampsia

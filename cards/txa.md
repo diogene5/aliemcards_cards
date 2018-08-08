@@ -1,14 +1,14 @@
 ---
 title: Tranexamic Acid
 authors:
-    - Sam Ashoo, MD
+  - 'Sam Ashoo, MD'
 created: 2018/04/27
-updates:
+updated: null
 categories:
-    - Trauma
-    - OBGYN
-    - ENT
-    - Surgery
+  - Trauma
+  - OBGYN
+  - ENT
+  - Surgery
 ---
 
 # Tranexamic Acid (TXA)

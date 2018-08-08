@@ -1,12 +1,11 @@
 ---
-
 title: C3-C7 Spine Fractures
 authors:
-    - Michelle Lin, MD
+  - 'Michelle Lin, MD'
 created: 2010/10/01
-updates:
+updated: null
 categories:
-    - Orthopedics
+  - Orthopedics
 ---
 
 # Fractures, C3-C7 Spine

@@ -1,15 +1,15 @@
 ---
 title: Pediatric Fever Without a Source - Infant
 authors:
-    - Hemal Kanzaria, MD
-    - Christine Cho, MD
-    - Andi Marmor, MD
-    - Ellen Laves, MD
-    - Michelle Lin, MD
+  - 'Hemal Kanzaria, MD'
+  - 'Christine Cho, MD'
+  - 'Andi Marmor, MD'
+  - 'Ellen Laves, MD'
+  - 'Michelle Lin, MD'
 created: 2012/02/09
-updates:
+updated: null
 categories:
-    - Pediatrics
+  - Pediatrics
 ---
 
 # Pediatric Fever Without a Source: 29 Days - 3 Months

@@ -1,12 +1,11 @@
 ---
 title: Acute Limb Ischemia
 authors:
-    - Michelle Lin, MD
+  - 'Michelle Lin, MD'
 created: 2010/08/13
-updates: 
-    - 2017/02/13
+updated: 2017/02/13
 categories:
-    - Cardiovascular
+  - Cardiovascular
 ---
 
 # Acute Limb Ischemia

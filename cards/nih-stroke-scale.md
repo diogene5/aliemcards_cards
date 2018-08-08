@@ -1,13 +1,11 @@
 ---
-
 title: NIH Stroke Scale
 authors:
-    - Michelle Lin, MD
+  - 'Michelle Lin, MD'
 created: 2010/02/06
-updates: 
-    - 2017/02/24
+updated: 2017/02/24
 categories:
-    - Neurology
+  - Neurology
 ---
 
 # Stroke Score, NIH Scale

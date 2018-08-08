@@ -9,7 +9,7 @@
     "test:remark": "remark ./cards -q",
     "build": "ts-node ./api/build/index.ts",
     "build:snaps": "ts-node ./api/tests/build-snaps.ts",
-    "deploy": "yarn build && cp -a ./admin ./api/dist"
+    "deploy": "yarn build && cp -a ./static ./dist"
   },
   "dependencies": {
     "@types/js-yaml": "^3.10.1",

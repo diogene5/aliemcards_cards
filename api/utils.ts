@@ -13,7 +13,7 @@ export function extract_frontmatter(contents: string): Card {
       authors: frontmatter.authors,
       categories: frontmatter.categories.map(cat => ({ slug: slugify(cat), name: cat })),
       created: frontmatter.created,
-      updates: frontmatter.updates,
+      updated: frontmatter.updated,
       body: body 
     }
   }
@@ -32,7 +32,8 @@ export function slugify(string: string): string {
 }
 
 export function stringify(x: any): string {
-  return JSON.stringify(x, null, '\t');
+  //return JSON.stringify(x, null, '\t');
+  return JSON.stringify(x);
 }
 
 export function errorHandler(errorbin: Error[], successmsg: string, failmsg: string) {

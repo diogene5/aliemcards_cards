@@ -29,27 +29,19 @@ interface imageTree {
   [dir: string]: string[]
 }
 
-function buildTree(dir: string): imageTree {
-  const tree = {};
-  const slugs = readdirSync(dir);
-  slugs.forEach(slug => {
-    const images = readdirSync(`${dir}/${slug}`).filter(x => x.match(config.REGEX.image_file) !== null);
-    if (images.length > 0) tree[slug] = images;
-  });
-  return tree;
-}
-
 function checkImageDirs(dist_dir: string, snap_dir: string, errorbin: Error[]) {
-  const a = JSON.stringify(buildTree(`${snap_dir}/images`));
-  const b = JSON.stringify(buildTree(`${dist_dir}/images`));
+  const a = JSON.stringify(readdirSync(`${snap_dir}/media`));
+  const b = JSON.stringify(readdirSync(`${dist_dir}/media`));
   if (a !== b) errorbin.push(Error(`Error in builds: images`));
 }
 
 // full test
 export default function(card_dir: string, dist_dir: string, snap_dir: string): void {
   const errorbin= [];
-  buildEndpoints(card_dir, dist_dir);
-  checkEndpoints(dist_dir, snap_dir, errorbin);
-  checkImageDirs(dist_dir, snap_dir, errorbin);
+  buildEndpoints(card_dir, dist_dir, 'v1');
+  const dist_versioned = `${dist_dir}/v1`;
+  const snaps_versioned = `${snap_dir}/v1`;
+  checkEndpoints(dist_versioned, snaps_versioned, errorbin);
+  checkImageDirs(dist_versioned, snaps_versioned, errorbin);
   errorHandler(errorbin, 'API Build Tests passed', 'API Build Errors present');
 }

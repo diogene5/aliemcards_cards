@@ -2,7 +2,7 @@ interface RawFrontMatter {
   title: string,
   authors: string[],
   created: string,
-  updates: string[],
+  updated: string,
   categories: string[]
 }
 
@@ -11,7 +11,7 @@ interface CardSummary {
   title: string,
   authors: string[],
   created: string,
-  updates: string[],
+  updated: string,
   categories: Taxonomy[]
 }
 

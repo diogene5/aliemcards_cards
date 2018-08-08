@@ -5,11 +5,11 @@
   "author": "Jeremy Voros",
   "license": "CC-BY-NC-3.0",
   "scripts": {
-    "test": "remark ./cards -q && ts-node ./api/tests/index.ts",
+    "test": "ts-node ./api/tests/index.ts",
+    "test:remark": "remark ./cards -q",
     "build": "ts-node ./api/build/index.ts",
     "build:snaps": "ts-node ./api/tests/build-snaps.ts",
-    "deploy": "yarn build && cp -a ./admin ./api/dist",
-    "reshape": "ts-node ./api/build_old/reshape.ts"
+    "deploy": "yarn build && cp -a ./admin ./api/dist"
   },
   "dependencies": {
     "@types/js-yaml": "^3.10.1",

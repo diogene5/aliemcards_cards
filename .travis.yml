@@ -5,17 +5,3 @@ cache:
   directories:
     - node_modules
 script: yarn install && yarn test
-after_success:
-- yarn build
-deploy:
-  - provider: script
-    skip_cleanup: true
-    script: npm install -g serverless && cd api && serverless deploy
-    on:
-      branch: master
-  - provider: pages
-    skip_cleanup: true
-    local-dir: api/dist
-    github-token: $GITHUB_TOKEN
-    on:
-      branch: master

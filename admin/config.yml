@@ -1,9 +1,9 @@
 backend:
   name: github
   repo: aliemteam/aliemcards_cards
-  branch: master
+  branch: netlifycms
 publish_mode: editorial_workflow
-media_folder: "media"
+media_folder: "cards/media"
 slug:
   encoding: "ascii"
   clean_accents: true

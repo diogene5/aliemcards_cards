@@ -1,8 +1,8 @@
 Arguments: 
-  /usr/local/Cellar/node/9.8.0/bin/node /usr/local/Cellar/yarn/1.5.1_1/libexec/bin/yarn.js deploy
+  /usr/local/Cellar/node/9.8.0/bin/node /usr/local/Cellar/yarn/1.5.1_1/libexec/bin/yarn.js reshape
 
 PATH: 
-  /Users/jeremy/.rvm/gems/ruby-2.4.1/bin:/Users/jeremy/.rvm/gems/ruby-2.4.1@global/bin:/Users/jeremy/.rvm/rubies/ruby-2.4.1/bin:/usr/local/bin:/usr/local/bin:/Users/jeremy/.config/yarn/global/node_modules/.bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/jeremy/.rvm/bin
+  /Users/jeremy/.rvm/gems/ruby-2.4.1/bin:/Users/jeremy/.rvm/gems/ruby-2.4.1@global/bin:/Users/jeremy/.rvm/rubies/ruby-2.4.1/bin:/usr/local/bin:/usr/local/bin:/Users/jeremy/.config/yarn/global/node_modules/.bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/jeremy/.rvm/gems/ruby-2.4.1/bin:/Users/jeremy/.rvm/gems/ruby-2.4.1@global/bin:/Users/jeremy/.rvm/rubies/ruby-2.4.1/bin:/Users/jeremy/.config/yarn/global/node_modules/.bin:/Users/jeremy/.rvm/bin
 
 Yarn version: 
   1.5.1
@@ -24,7 +24,8 @@ npm manifest:
       "test": "remark ./cards -q && ts-node ./api/tests/index.ts",
       "build": "ts-node ./api/build/index.ts",
       "build:snaps": "ts-node ./api/tests/build-snaps.ts",
-      "deploy": "yarn build, cp -a ./admin ./api/dist"
+      "deploy": "yarn build && cp -a ./admin ./api/dist",
+      "reshape": "ts-node ./api/build/reshape.ts"
     },
     "dependencies": {
       "@types/js-yaml": "^3.10.1",
@@ -2245,7 +2246,7 @@ Trace:
   Error: Command failed.
   Exit code: 1
   Command: sh
-  Arguments: -c yarn build, cp -a ./admin ./api/dist
+  Arguments: -c ts-node ./api/build/reshape.ts
   Directory: /Users/jeremy/Sites/ALiEM/aliemcards_cards
   Output:
   

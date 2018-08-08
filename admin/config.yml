@@ -3,14 +3,14 @@ backend:
   repo: aliemteam/aliemcards_cards
   branch: netlifycms
 publish_mode: editorial_workflow
-media_folder: "cards/media"
+media_folder: "/cards/media"
 slug:
   encoding: "ascii"
   clean_accents: true
 collections:
   - name: "cards" # Used in routes, e.g., /admin/collections/blog
-    label: "Card" # Used in the UI
-    folder: "cards" # The path to the folder where the documents are stored
+    label: "Cards" # Used in the UI
+    folder: "/cards" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter

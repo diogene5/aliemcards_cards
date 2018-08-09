@@ -84,45 +84,41 @@ function buildRecent(sort_key: string, summaries: CardSummary[]): CardSummary[] 
     .map(x => summaries[x.index]);
 }
 
-export default function(src: string, dest: string, version: string): void {
+export default function(src: string, dest: string): void {
   // build cards and summaries
   const cards = buildCards(src);
   const summ = buildSummaries(cards);
   const hash = crypto.createHash('md5').update(JSON.stringify(cards)).digest('hex');
 
   //make or empty necessary sub directories
-  const dest_versioned = `${dest}/${version}`
-  if (!fs.existsSync(dest)) {
+  if (fs.existsSync(dest)) {
+    rimraf.sync(`${dest}/*`);
+  } else {
     fs.mkdirSync(dest);
   }
-  if (fs.existsSync(dest_versioned)) {
-    rimraf.sync(`${dest_versioned}/*`);
-  } else {
-    fs.mkdirSync(dest_versioned);
-  }
-  fs.mkdirSync(`${dest_versioned}/cards`);
-  fs.mkdirSync(`${dest_versioned}/media`);
+  fs.mkdirSync(`${dest}/cards`);
+  fs.mkdirSync(`${dest}/media`);
 
   // move images
-  copyImages(src, dest_versioned);
+  copyImages(src, dest);
 
   // master list
-  fs.writeFileSync(`${dest_versioned}/cards.json`, stringify({ hash: hash, cards: cards }));
+  fs.writeFileSync(`${dest}/cards.json`, stringify({ hash: hash, cards: cards }));
 
   // summary list
   fs.writeFileSync(
-    `${dest_versioned}/cardsummaries.json`,
+    `${dest}/cardsummaries.json`,
     stringify({ hash: hash, card_summaries: summ }),
   );
 
   // individual cards
   cards.forEach(card => {
-    fs.writeFileSync(`${dest_versioned}/cards/${card.slug}.json`, stringify(card));
+    fs.writeFileSync(`${dest}/cards/${card.slug}.json`, stringify(card));
   });
 
   // taxonomies
   ['categories', 'authors'].forEach(tax => {
-    fs.writeFileSync(`${dest_versioned}/${tax}.json`, stringify({ [tax]: buildTaxonomy(tax, summ) }));
+    fs.writeFileSync(`${dest}/${tax}.json`, stringify({ [tax]: buildTaxonomy(tax, summ) }));
   });
 
   // recent
@@ -130,5 +126,5 @@ export default function(src: string, dest: string, version: string): void {
     created: buildRecent('created', summ).slice(0,5),
     updates: buildRecent('updates', summ).slice(0,5),
   }
-  fs.writeFileSync(`${dest_versioned}/recent.json`, stringify(recent));
+  fs.writeFileSync(`${dest}/recent.json`, stringify(recent));
 }

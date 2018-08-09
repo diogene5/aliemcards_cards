@@ -38,10 +38,8 @@ function checkImageDirs(dist_dir: string, snap_dir: string, errorbin: Error[]) {
 // full test
 export default function(card_dir: string, dist_dir: string, snap_dir: string): void {
   const errorbin= [];
-  buildEndpoints(card_dir, dist_dir, 'v1');
-  const dist_versioned = `${dist_dir}/v1`;
-  const snaps_versioned = `${snap_dir}/v1`;
-  checkEndpoints(dist_versioned, snaps_versioned, errorbin);
-  checkImageDirs(dist_versioned, snaps_versioned, errorbin);
+  buildEndpoints(card_dir, dist_dir);
+  checkEndpoints(dist_dir, snap_dir, errorbin);
+  checkImageDirs(dist_dir, snap_dir, errorbin);
   errorHandler(errorbin, 'API Build Tests passed', 'API Build Errors present');
 }

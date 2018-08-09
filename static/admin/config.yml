@@ -4,7 +4,7 @@ backend:
   branch: netlifycms
 publish_mode: editorial_workflow
 media_folder: "cards/media"
-public_folder: "v1/media"
+public_folder: "media"
 slug:
   encoding: "ascii"
   clean_accents: true

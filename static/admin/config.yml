@@ -20,7 +20,7 @@ collections:
         name: "authors"
         widget: "list"
         field:
-        - { label: "Name", name: "name", widget: "string" }
+          - { label: "Name", name: "name", widget: "string" }
       - {label: "Created", name: "created", widget: "string"}
       - {label: "Updated", name: "updated", widget: "string", required: false}
       - {label: "Categories", name: "categories", widget: "list"}

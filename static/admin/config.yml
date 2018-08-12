@@ -19,9 +19,10 @@ collections:
       - {label: "Created", name: "created", widget: "string"}
       - {label: "Updated", name: "updated", widget: "string", required: false}
       - {label: "Categories", name: "categories", widget: "list"}
-      - {label: "Body", name: "body", widget: "markdown"}
       - label: "Card Authors"
-      name: "authors"
-      widget: "list"
-      field:
-        - { label: "Name", name: "name", widget: "string" }
+        name: "authors"
+        widget: "list"
+        field:
+          - { label: "Name", name: "name", widget: "string" }
+      - {label: "Body", name: "body", widget: "markdown"}
+      

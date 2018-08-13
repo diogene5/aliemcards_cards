@@ -22,7 +22,7 @@ collections:
       - label: "Card Authors"
         name: "authors"
         widget: "list"
-        field:
-          - { label: "Name", name: "name", widget: "string" }
+        # field:
+        #   - { label: "Name", name: "name", widget: "string" }
       - {label: "Body", name: "body", widget: "markdown"}
       

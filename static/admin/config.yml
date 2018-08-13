@@ -23,7 +23,6 @@ collections:
         name: "authors"
         widget: "list"
         fields:
-          - { label: "Name", name: "name", widget: "string" }
-          - { label: "Name2", name: "name2", widget: "string" }
+          - { label: "Name", widget: "string" }
       - {label: "Body", name: "body", widget: "markdown"}
       

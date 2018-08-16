@@ -19,7 +19,9 @@ collections:
       - label: "Card Authors"
         name: "authors"
         widget: "list"
-        field: {label: "Author", widget: "string"}
+        fields: 
+          - {label: "Author", name: "author", widget: "string"}
+          - {label: "Empty", name: "empty", widget: "string"}
       - {label: "Created", name: "created", widget: "string"}
       - {label: "Updated", name: "updated", widget: "string", required: false}
       - {label: "Categories", name: "categories", widget: "list"}

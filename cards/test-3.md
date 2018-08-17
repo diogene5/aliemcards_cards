@@ -4,7 +4,7 @@ authors:
   - author: 'Jeremy Voros, MD'
   - author: 'Michelle Lin, MD'
 created: 2018/08/17
-updated: Invalid date
+updated: 
 categories:
   - Trauma
   - Cardiology

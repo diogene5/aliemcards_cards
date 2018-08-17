@@ -3,7 +3,8 @@ interface RawFrontMatter {
   authors: string[],
   created: string,
   updated: string,
-  categories: string[]
+  categories: string[],
+  body: string
 }
 
 interface CardSummary {

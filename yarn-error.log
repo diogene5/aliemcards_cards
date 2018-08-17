@@ -1,5 +1,5 @@
 Arguments: 
-  /usr/local/Cellar/node/9.8.0/bin/node /usr/local/Cellar/yarn/1.5.1_1/libexec/bin/yarn.js test
+  /usr/local/Cellar/node/10.8.0/bin/node /usr/local/Cellar/yarn/1.5.1_1/libexec/bin/yarn.js authorfix
 
 PATH: 
   /Users/jeremy/.rvm/gems/ruby-2.4.1/bin:/Users/jeremy/.rvm/gems/ruby-2.4.1@global/bin:/Users/jeremy/.rvm/rubies/ruby-2.4.1/bin:/usr/local/bin:/usr/local/bin:/Users/jeremy/.config/yarn/global/node_modules/.bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/jeremy/.rvm/gems/ruby-2.4.1/bin:/Users/jeremy/.rvm/gems/ruby-2.4.1@global/bin:/Users/jeremy/.rvm/rubies/ruby-2.4.1/bin:/Users/jeremy/.config/yarn/global/node_modules/.bin:/Users/jeremy/.rvm/bin
@@ -8,7 +8,7 @@ Yarn version:
   1.5.1
 
 Node version: 
-  9.8.0
+  10.8.0
 
 Platform: 
   darwin x64
@@ -25,7 +25,8 @@ npm manifest:
       "test:remark": "remark ./cards -q",
       "build": "rm -rf ./dist && yarn build:api && cp -a ./static/* ./dist",
       "build:api": "ts-node ./api/build/index.ts",
-      "build:snaps": "ts-node ./api/tests/build-snaps.ts"
+      "build:snaps": "ts-node ./api/tests/build-snaps.ts",
+      "authorfix": "ts-node ./api/build/authorfix.ts"
     },
     "dependencies": {
       "@types/js-yaml": "^3.10.1",
@@ -2246,13 +2247,13 @@ Trace:
   Error: Command failed.
   Exit code: 1
   Command: sh
-  Arguments: -c ts-node ./api/tests/index.ts
+  Arguments: -c ts-node ./api/build/authorfix.ts
   Directory: /Users/jeremy/Sites/ALiEM/aliemcards_cards
   Output:
   
       at ProcessTermError.MessageError (/usr/local/Cellar/yarn/1.5.1_1/libexec/lib/cli.js:186:110)
       at new ProcessTermError (/usr/local/Cellar/yarn/1.5.1_1/libexec/lib/cli.js:226:113)
       at ChildProcess.<anonymous> (/usr/local/Cellar/yarn/1.5.1_1/libexec/lib/cli.js:30281:17)
-      at ChildProcess.emit (events.js:180:13)
-      at maybeClose (internal/child_process.js:936:16)
-      at Process.ChildProcess._handle.onexit (internal/child_process.js:220:5)
+      at ChildProcess.emit (events.js:182:13)
+      at maybeClose (internal/child_process.js:962:16)
+      at Process.ChildProcess._handle.onexit (internal/child_process.js:249:5)

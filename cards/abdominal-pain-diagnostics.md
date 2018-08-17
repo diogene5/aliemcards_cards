@@ -1,5 +1,5 @@
 ---
-title: Abdominal Pain - Diagnostic Studies
+title: 'Abdominal Pain - Diagnostic Studies'
 authors:
   - author: 'Michelle Lin, MD'
 categories:

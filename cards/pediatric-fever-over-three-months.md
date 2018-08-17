@@ -1,11 +1,11 @@
 ---
 title: Pediatric Fever Without a Source - 3 months to 3 years
 authors:
-  - 'Christine Cho, MD'
-created: 2012/02/09
-updated: null
+  - author: 'Christine Cho, MD'
 categories:
   - Pediatrics
+created: 2012/02/09
+updated: null
 ---
 
 # Pediatric Fever Without a Source: 3 months to 3 years

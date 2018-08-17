@@ -1,13 +1,13 @@
 ---
 title: ACLS 2015 Algorithm for Cardiac Arrest
 authors:
-  - 'Michelle Lin, MD'
-  - 'Jeremy Voros, MD'
-created: 2011/12/16
-updated: 2017/02/24
+  - author: 'Michelle Lin, MD'
+  - author: 'Jeremy Voros, MD'
 categories:
   - Cardiovascular
   - Critical Care
+created: 2011/12/16
+updated: 2017/02/24
 ---
 
 # ACLS 2015 Algorithm for Cardiac Arrest

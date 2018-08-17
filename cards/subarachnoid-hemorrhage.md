@@ -1,11 +1,11 @@
 ---
 title: Management of Aneurysmal Subarachnoid Hemorrhage
 authors:
-  - 'Michelle Lin, MD'
-created: 2010/12/17
-updated: null
+  - author: 'Michelle Lin, MD'
 categories:
   - Neurology
+created: 2010/12/17
+updated: null
 ---
 
 # Grading and Management of Aneurysmal Subarachnoid Hemorrhage (SAH)

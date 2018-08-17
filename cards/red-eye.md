@@ -1,11 +1,11 @@
 ---
 title: Red Eye
 authors:
-  - 'Michelle Lin, MD'
-created: 2010/01/22
-updated: null
+  - author: 'Michelle Lin, MD'
 categories:
   - Ophthalmology
+created: 2010/01/22
+updated: null
 ---
 
 # Red Eye

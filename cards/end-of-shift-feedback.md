@@ -1,11 +1,11 @@
 ---
 title: End-of-Shift Feedback
 authors:
-  - 'David Thompson, MD'
-created: 2011/12/09
-updated: null
+  - author: 'David Thompson, MD'
 categories:
   - Education and Policy
+created: 2011/12/09
+updated: null
 ---
 
 # End-of-Shift Feedback in the Emergency Department

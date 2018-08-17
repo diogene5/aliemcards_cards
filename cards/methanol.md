@@ -1,11 +1,11 @@
 ---
 title: Toxic Alcohol Ingestion - Methanol
 authors:
-  - 'Michelle Lin, MD'
-created: 2012/06/15
-updated: null
+  - author: 'Michelle Lin, MD'
 categories:
   - Toxicology
+created: 2012/06/15
+updated: null
 ---
 
 # Toxic Alcohol Ingestion: Methanol

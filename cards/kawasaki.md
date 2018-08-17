@@ -1,12 +1,12 @@
 ---
 title: Kawasaki Disease
 authors:
-  - 'Michelle Lin, MD'
-created: 2012/03/23
-updated: null
+  - author: 'Michelle Lin, MD'
 categories:
   - Pediatrics
   - Cardiovascular
+created: 2012/03/23
+updated: null
 ---
 
 # Kawasaki Disease

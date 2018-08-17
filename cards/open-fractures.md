@@ -1,12 +1,12 @@
 ---
 title: Open Fractures and Antibiotics
 authors:
-  - 'Michelle Lin, MD'
-created: 2012/01/20
-updated: null
+  - author: 'Michelle Lin, MD'
 categories:
   - Orthopedics
   - Infectious Disease
+created: 2012/01/20
+updated: null
 ---
 
 # Open Fractures and Antibiotics

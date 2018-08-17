@@ -1,13 +1,13 @@
 ---
 title: Pediatric Assessment Triangle
 authors:
-  - 'Michelle Reina, MD'
-  - 'Rob Bryant, MD'
-created: 2013/05/30
-updated: null
+  - author: 'Michelle Reina, MD'
+  - author: 'Rob Bryant, MD'
 categories:
   - Pediatrics
   - Critical Care
+created: 2013/05/30
+updated: null
 ---
 
 # Pediatric Assessment Triangle

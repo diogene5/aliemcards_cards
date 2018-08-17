@@ -1,13 +1,13 @@
 ---
 title: Streptococcal Pharyngitis
 authors:
-  - 'Michelle Lin, MD'
-created: 2010/07/30
-updated: null
+  - author: 'Michelle Lin, MD'
 categories:
   - ENT
   - Infectious Disease
   - EBM
+created: 2010/07/30
+updated: null
 ---
 
 # Streptococcal Pharyngitis

@@ -1,12 +1,12 @@
 ---
 title: Initial Pain Management Options
 authors:
-  - 'Nick Koch, MD'
-  - 'Sergey Motov, MD'
-created: 2015/10/23
-updated: null
+  - author: 'Nick Koch, MD'
+  - author: 'Sergey Motov, MD'
 categories:
   - Pharmacology
+created: 2015/10/23
+updated: null
 ---
 
 # Initial ED Pain Management Options in ED

@@ -1,15 +1,15 @@
 ---
 title: 'Ultrasound: Focused Abdominal Aorta Ultrasound'
 authors:
-  - 'Victoria Koskenoja, MD'
-  - 'Heidi Kimberly, MD'
-  - 'Mike Stone, MD'
-created: 2014/09/13
-updated: null
+  - author: 'Victoria Koskenoja, MD'
+  - author: 'Heidi Kimberly, MD'
+  - author: 'Mike Stone, MD'
 categories:
   - Ultrasound
   - Radiology
   - Cardiovascular
+created: 2014/09/13
+updated: null
 ---
 
 # Ultrasound: Focused Abdominal Aorta

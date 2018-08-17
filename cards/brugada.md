@@ -1,11 +1,11 @@
 ---
 title: Brugada Syndrome
 authors:
-  - 'Michelle Lin, MD'
-created: 2011/05/06
-updated: 2018/08/02
+  - author: 'Michelle Lin, MD'
 categories:
   - Cardiovascular
+created: 2011/05/06
+updated: 2018/08/02
 ---
 
 # Brugada Syndrome

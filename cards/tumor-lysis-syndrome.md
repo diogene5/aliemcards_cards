@@ -1,12 +1,12 @@
 ---
 title: Tumor Lysis Syndrome
 authors:
-  - 'Christopher Nash, MD'
-  - 'Derek Monette, MD'
-created: 2018/05/09
-updated: null
+  - author: 'Christopher Nash, MD'
+  - author: 'Derek Monette, MD'
 categories:
   - Oncolology
+created: 2018/05/09
+updated: null
 ---
 
 # Tumor Lysis Syndrome

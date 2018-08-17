@@ -1,12 +1,12 @@
 ---
 title: Knee Examination
 authors:
-  - 'Michelle Lin, MD'
-created: 2010/03/19
-updated: null
+  - author: 'Michelle Lin, MD'
 categories:
   - Orthopedics
   - EBM
+created: 2010/03/19
+updated: null
 ---
 
 # Knee Examination

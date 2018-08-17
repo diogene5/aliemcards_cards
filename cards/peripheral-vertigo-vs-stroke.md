@@ -1,13 +1,13 @@
 ---
 title: Acute Vestibular Syndrome vs Stroke
 authors:
-  - 'Michelle Lin, MD'
-created: 2011/12/02
-updated: null
+  - author: 'Michelle Lin, MD'
 categories:
   - Neurology
   - ENT
   - EBM
+created: 2011/12/02
+updated: null
 ---
 
 # Acute Vestibular Syndrome vs. Stroke

@@ -1,11 +1,11 @@
 ---
 title: Fagan Nomogram
 authors:
-  - 'Michelle Lin, MD'
-created: 2012/05/17
-updated: 2017/02/13
+  - author: 'Michelle Lin, MD'
 categories:
   - EBM
+created: 2012/05/17
+updated: 2017/02/13
 ---
 
 # Fagan Nomogram

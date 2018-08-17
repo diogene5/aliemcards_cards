@@ -1,11 +1,11 @@
 ---
 title: Painful Eye
 authors:
-  - 'Puja Gopal, MD'
-created: 2017/07/14
-updated: null
+  - author: 'Puja Gopal, MD'
 categories:
   - Ophthalmology
+created: 2017/07/14
+updated: null
 ---
 # The Painful Eye
 

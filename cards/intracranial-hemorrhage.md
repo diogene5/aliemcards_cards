@@ -1,13 +1,13 @@
 ---
 title: ED Management of Intracranial Hemorrhage
 authors:
-  - 'William Shyy, MD'
-  - 'Debbie Yi Madhok, MD'
-created: 2017/09/04
-updated: null
+  - author: 'William Shyy, MD'
+  - author: 'Debbie Yi Madhok, MD'
 categories:
   - Trauma
   - Neurology
+created: 2017/09/04
+updated: null
 ---
 
 # ED Management of Intracranial Hemorrhage

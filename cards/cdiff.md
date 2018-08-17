@@ -1,11 +1,11 @@
 ---
 title: Clostridium Difficile Infection
 authors:
-  - 'Michelle Lin, MD'
-created: 2011/06/24
-updated: null
+  - author: 'Michelle Lin, MD'
 categories:
   - Infectious Disease
+created: 2011/06/24
+updated: null
 ---
 
 # Clostridium Difficile Infection (CDI)

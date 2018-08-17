@@ -1,11 +1,11 @@
 ---
 title: Toxidromes by Vital Signs
 authors:
-  - 'Michelle Lin, MD'
-created: 2010/11/19
-updated: null
+  - author: 'Michelle Lin, MD'
 categories:
   - Toxicology
+created: 2010/11/19
+updated: null
 ---
 
 # Toxidromes by Vital Signs

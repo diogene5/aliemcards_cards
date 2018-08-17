@@ -1,14 +1,14 @@
 ---
 title: Maternal Cardiac Arrest
 authors:
-  - Jeffry Sakamoto MD
-  - Colin Michels MD
-  - Nikita Joshi MD
-  - Rebecca Bavolek MD (Editor)
-created: 2018/07/25
-updated: null
+  - author: Jeffry Sakamoto MD
+  - author: Colin Michels MD
+  - author: Nikita Joshi MD
+  - author: Rebecca Bavolek MD (Editor)
 categories:
   - OBGYN
+created: 2018/07/25
+updated: null
 ---
 
 # Maternal Cardiac Arrest

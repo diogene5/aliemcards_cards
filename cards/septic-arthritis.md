@@ -1,13 +1,13 @@
 ---
 title: Septic Arthritis
 authors:
-  - 'Michelle Lin, MD'
-created: 2010/06/11
-updated: null
+  - author: 'Michelle Lin, MD'
 categories:
   - Orthopedics
   - Infectious Disease
   - EBM
+created: 2010/06/11
+updated: null
 ---
 
 # Septic Arthritis

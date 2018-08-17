@@ -1,11 +1,11 @@
 ---
 title: Serotonin Syndrome
 authors:
-  - 'Michelle Lin, MD'
-created: 2012/01/06
-updated: null
+  - author: 'Michelle Lin, MD'
 categories:
   - Toxicology
+created: 2012/01/06
+updated: null
 ---
 
 # Serotonin Syndrome

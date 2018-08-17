@@ -1,11 +1,11 @@
 ---
 title: Suture Materials
 authors:
-  - 'Michelle Lin, MD'
-created: 2011/01/07
-updated: null
+  - author: 'Michelle Lin, MD'
 categories:
   - Surgery
+created: 2011/01/07
+updated: null
 ---
 
 # Suture Materials

@@ -1,12 +1,12 @@
 ---
 title: Does Your Patient have a Severe Upper GI Bleed (UGIB)?
 authors:
-  - 'Michelle Lin, MD'
-created: 2011/06/17
-updated: null
+  - author: 'Michelle Lin, MD'
 categories:
   - Gastroenterology
   - EBM
+created: 2011/06/17
+updated: null
 ---
 
 # Does Your Patient have a Severe Upper GI Bleed (UGIB)?

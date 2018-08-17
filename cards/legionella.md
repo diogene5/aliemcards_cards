@@ -1,12 +1,12 @@
 ---
 title: Legionnaire's Disease
 authors:
-  - 'Michelle Lin, MD'
-created: 2011/09/16
-updated: null
+  - author: 'Michelle Lin, MD'
 categories:
   - Infectious Disease
   - Pulmonology
+created: 2011/09/16
+updated: null
 ---
 
 # Legionnaire's Disease

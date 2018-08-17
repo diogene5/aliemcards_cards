@@ -1,12 +1,12 @@
 ---
 title: Croup
 authors:
-  - 'Michelle Lin, MD'
-created: 2010/08/20
-updated: null
+  - author: 'Michelle Lin, MD'
 categories:
   - Pediatrics
   - ENT
+created: 2010/08/20
+updated: null
 ---
 
 # Croup

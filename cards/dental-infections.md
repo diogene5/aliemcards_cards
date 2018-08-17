@@ -1,11 +1,11 @@
 ---
 title: Dental Infections
 authors:
-  - 'Hans Rosenberg, MD'
-created: 2011/04/22
-updated: null
+  - author: 'Hans Rosenberg, MD'
 categories:
   - ENT
+created: 2011/04/22
+updated: null
 ---
 
 # Dental Infections

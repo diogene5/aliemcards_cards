@@ -1,11 +1,11 @@
 ---
 title: Blood Culture Indications
 authors:
-  - 'Michelle Lin, MD'
-created: 2012/08/17
-updated: null
+  - author: 'Michelle Lin, MD'
 categories:
   - Infectious Disease
+created: 2012/08/17
+updated: null
 ---
 
 # Blood cultures indications: Does this adult patient with suspected bacteremia require blood cultures?

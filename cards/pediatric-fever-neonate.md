@@ -1,15 +1,15 @@
 ---
 title: Fever Without a Source - neonate
 authors:
-  - 'Hemal Kanzaria, MD'
-  - 'Christine Cho, MD'
-  - 'Andi Marmor, MD'
-  - 'Ellen Laves, MD'
-created: 2012/02/02
-updated: null
+  - author: 'Hemal Kanzaria, MD'
+  - author: 'Christine Cho, MD'
+  - author: 'Andi Marmor, MD'
+  - author: 'Ellen Laves, MD'
 categories:
   - Pediatrics
   - Infectious Disease
+created: 2012/02/02
+updated: null
 ---
 
 # Pediatric Fever Without a Source: Birth - 28 Days Old

@@ -1,12 +1,12 @@
 ---
 title: Cervical Spine Distracting Injuries
 authors:
-  - 'Michelle Lin, MD'
-created: 2011/09/11
-updated: null
+  - author: 'Michelle Lin, MD'
 categories:
   - Trauma
   - Orthopedics
+created: 2011/09/11
+updated: null
 ---
 
 # Cervical Spine Assessment: What are "distracting injuries"?

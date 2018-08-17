@@ -1,12 +1,12 @@
 ---
 title: Intimate Partner Violence
 authors:
-  - 'Trevor Wilson, MD'
-  - 'Beth Kaplan, MD'
-created: 2013/07/31
-updated: null
+  - author: 'Trevor Wilson, MD'
+  - author: 'Beth Kaplan, MD'
 categories:
   - Trauma
+created: 2013/07/31
+updated: null
 ---
 
 # Intimate Partner Violence (IPV)

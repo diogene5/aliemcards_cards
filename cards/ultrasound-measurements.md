@@ -1,14 +1,14 @@
 ---
 title: Ultrasound Measurement Cheat Sheet
 authors:
-  - 'Maria Beylin, MD'
-  - 'Scott Fischette, MD'
-  - 'Nate Teismann, MD'
-created: 2015/10/15
-updated: null
+  - author: 'Maria Beylin, MD'
+  - author: 'Scott Fischette, MD'
+  - author: 'Nate Teismann, MD'
 categories:
   - Radiology
   - Ultrasound
+created: 2015/10/15
+updated: null
 ---
 
 # Ultrasound Measurement Cheat Sheet

@@ -1,15 +1,15 @@
 ---
 title: Emergency Drug Card - Pediatric
 authors:
-  - 'Rob Bryant, MD'
-  - 'Amie Hatch, PharmD, BCPS'
-  - 'Jeremy Bair, PharmD'
-created: 2013/09/11
-updated: null
+  - author: 'Rob Bryant, MD'
+  - author: 'Amie Hatch, PharmD, BCPS'
+  - author: 'Jeremy Bair, PharmD'
 categories:
   - Pharmacology
   - Critical Care
   - Pediatrics
+created: 2013/09/11
+updated: null
 ---
 
 # Emergency Drug Card - Pediatric

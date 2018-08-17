@@ -1,12 +1,12 @@
 ---
 title: Spinal Epidural Abscess
 authors:
-  - 'Michelle Lin, MD'
-created: 2011/08/05
-updated: null
+  - author: 'Michelle Lin, MD'
 categories:
   - Infectious Disease
   - EBM
+created: 2011/08/05
+updated: null
 ---
 
 # Spinal Epidural Abscess (SEA)

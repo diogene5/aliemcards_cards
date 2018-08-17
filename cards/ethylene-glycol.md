@@ -1,11 +1,11 @@
 ---
 title: Toxic Alcohol Ingestion - Ethylene Glycol
 authors:
-  - 'Michelle Lin, MD'
-created: 2012/06/08
-updated: null
+  - author: 'Michelle Lin, MD'
 categories:
   - Toxicology
+created: 2012/06/08
+updated: null
 ---
 
 # Toxic Alcohol Ingestion: Ethylene Glycol

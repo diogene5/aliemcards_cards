@@ -1,12 +1,12 @@
 ---
 title: Cervical Spine Rules
 authors:
-  - 'Michelle Lin, MD'
-created: 2010/12/10
-updated: null
+  - author: 'Michelle Lin, MD'
 categories:
   - Trauma
   - Orthopedics
+created: 2010/12/10
+updated: null
 ---
 
 # Cervical Spine Rules

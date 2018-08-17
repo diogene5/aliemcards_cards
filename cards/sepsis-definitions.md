@@ -1,11 +1,11 @@
 ---
 title: Sepsis Definitions
 authors:
-  - 'Jeremy Voros, MD'
-created: 2017/12/01
-updated: null
+  - author: 'Jeremy Voros, MD'
 categories:
   - Critical Care
+created: 2017/12/01
+updated: null
 ---
 
 # Sepsis Definitions

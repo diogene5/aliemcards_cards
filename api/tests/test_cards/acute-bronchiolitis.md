@@ -1,13 +1,13 @@
 ---
 title: Acute Bronchiolitis Management
 authors:
-  - 'Michelle Lin, MD'
-created: 2016/11/07
-updated: null
+  - author: 'Michelle Lin, MD'
 categories:
   - Pediatrics
   - Pulmonology
   - Infectious Disease
+created: 2016/11/07
+updated: null
 ---
 
 # Acute Bronchiolitis Management

@@ -1,12 +1,12 @@
 ---
 title: Pediatric Ingestion Dose Thresholds for ED Referral
 authors:
-  - 'Bryan D. Hayes, PharmD'
-created: 2014/07/09
-updated: null
+  - author: 'Bryan D. Hayes, PharmD'
 categories:
   - Pediatrics
   - Toxicology
+created: 2014/07/09
+updated: null
 ---
 
 # Pediatric Ingestion Dose Thresholds for Emergency Department Referral

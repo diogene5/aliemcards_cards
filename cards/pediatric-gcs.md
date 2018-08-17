@@ -1,12 +1,12 @@
 ---
 title: Pediatric Glasgow Coma Scale
 authors:
-  - 'Sam Ashoo, MD'
-created: 2018/07/03
-updated: null
+  - author: 'Sam Ashoo, MD'
 categories:
   - Trauma
   - Pediatrics
+created: 2018/07/03
+updated: null
 ---
 
 # Pediatric Glasgow Coma Scale

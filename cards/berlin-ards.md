@@ -1,12 +1,12 @@
 ---
 title: Acute Respiratory Distress Syndrome (ARDS) - Berlin Definition
 authors:
-  - 'Michelle Lin, MD'
-created: 2018/05/30
-updated: null
+  - author: 'Michelle Lin, MD'
 categories:
   - Critical Care
   - Pulmonology
+created: 2018/05/30
+updated: null
 ---
 
 # Acute Respiratory Distress Syndrome (ARDS): Berlin Definition

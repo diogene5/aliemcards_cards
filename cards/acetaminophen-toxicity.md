@@ -1,12 +1,12 @@
 ---
 title: Acetaminophen toxicity
 authors:
-  - 'Michelle Lin, MD'
-created: 2011/11/04
-updated: null
+  - author: 'Michelle Lin, MD'
 categories:
   - Toxicology
   - Pharmacology
+created: 2011/11/04
+updated: null
 ---
 
 # Acetaminophen Toxicity

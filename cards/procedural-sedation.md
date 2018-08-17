@@ -1,12 +1,12 @@
 ---
 title: Procedural Sedation & Analgesia
 authors:
-  - 'Demian Szyld, MD'
-created: 2010/08/06
-updated: null
+  - author: 'Demian Szyld, MD'
 categories:
   - Pharmacology
   - Procedures
+created: 2010/08/06
+updated: null
 ---
 
 # Procedural Sedation and Analgesia

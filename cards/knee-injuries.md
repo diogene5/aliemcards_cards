@@ -1,13 +1,13 @@
 ---
 title: Knee Injuries
 authors:
-  - 'Layla Abubshait, MD'
-  - 'Michael Gottlieb, MD, RDMS'
-  - 'Mary Haas, MD'
-created: 2016/11/21
-updated: null
+  - author: 'Layla Abubshait, MD'
+  - author: 'Michael Gottlieb, MD, RDMS'
+  - author: 'Mary Haas, MD'
 categories:
   - Orthopedics
+created: 2016/11/21
+updated: null
 ---
 
 # Knee Injuries

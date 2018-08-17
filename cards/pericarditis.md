@@ -1,11 +1,11 @@
 ---
 title: Pericarditis
 authors:
-  - 'Chris Bond, MD'
-created: 2015/01/06
-updated: null
+  - author: 'Chris Bond, MD'
 categories:
   - Cardiology
+created: 2015/01/06
+updated: null
 ---
 
 # Pericarditis

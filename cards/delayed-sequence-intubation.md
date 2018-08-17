@@ -1,12 +1,12 @@
 ---
 title: Delayed Sequence Intubation
 authors:
-  - 'Michelle Lin, MD'
-created: 2012/08/31
-updated: 2017/03/02
+  - author: 'Michelle Lin, MD'
 categories:
   - Critical Care
   - Procedures
+created: 2012/08/31
+updated: 2017/03/02
 ---
 
 # Delayed Sequence Intubation (DSI)

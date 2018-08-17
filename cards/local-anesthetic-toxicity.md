@@ -1,11 +1,11 @@
 ---
 title: Local Anesthetic Toxicity
 authors:
-  - 'David Murphy, MD'
-created: 2014/06/13
-updated: null
+  - author: 'David Murphy, MD'
 categories:
   - Toxicology
+created: 2014/06/13
+updated: null
 ---
 
 # Local Anesthetic Toxicity: Calculating Maximum Safe Dose

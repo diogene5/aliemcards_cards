@@ -1,12 +1,12 @@
 ---
 title: Ventilator Setting for Obstructive Lung Disease
 authors:
-  - 'Jenny Wilson, MD'
-created: 2011/10/21
-updated: null
+  - author: 'Jenny Wilson, MD'
 categories:
   - Pulmonology
   - Critical Care
+created: 2011/10/21
+updated: null
 ---
 
 # Ventilator Setting for Obstructive Lung Disease

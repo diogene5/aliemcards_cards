@@ -1,11 +1,11 @@
 ---
 title: When to Avoid Tramadol
 authors:
-  - 'Jill Logan, PharmD'
-created: 2014/01/06
-updated: null
+  - author: 'Jill Logan, PharmD'
 categories:
   - Toxicology
+created: 2014/01/06
+updated: null
 ---
 
 # Tramadol: When to avoid it

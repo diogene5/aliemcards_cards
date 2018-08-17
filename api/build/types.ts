@@ -1,6 +1,10 @@
+interface Author {
+  author: string
+}
+
 interface RawFrontMatter {
   title: string,
-  authors: string[],
+  authors: Author[],
   created: string,
   updated: string,
   categories: string[],

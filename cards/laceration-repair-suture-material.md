@@ -1,12 +1,12 @@
 ---
 title: Laceration Repair and Sutures – A cheat sheet guide
 authors:
-  - 'Hyunjoo Lee, MD'
-  - 'Layla Abubshait, MD'
-created: 2017/03/06
-updated: null
+  - author: 'Hyunjoo Lee, MD'
+  - author: 'Layla Abubshait, MD'
 categories:
   - Trauma
+created: 2017/03/06
+updated: null
 ---
 
 # Laceration Repair and Sutures – A cheat sheet guide

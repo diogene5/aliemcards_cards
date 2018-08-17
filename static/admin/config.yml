@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: aliemteam/aliemcards_cards
-  branch: netlifycms
+  branch: master
 publish_mode: editorial_workflow
 media_folder: "cards/media"
 public_folder: "media"

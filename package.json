@@ -9,8 +9,7 @@
     "test:remark": "remark ./cards -q",
     "build": "rm -rf ./dist && yarn build:api && cp -a ./static/* ./dist",
     "build:api": "ts-node ./api/build/index.ts",
-    "build:snaps": "ts-node ./api/tests/build-snaps.ts",
-    "authorfix": "ts-node ./api/build/authorfix.ts"
+    "build:snaps": "ts-node ./api/tests/build-snaps.ts"
   },
   "dependencies": {
     "@types/js-yaml": "^3.10.1",

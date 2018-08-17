@@ -21,8 +21,8 @@ collections:
         widget: "list"
         fields: 
           - {label: "Author", name: "author", widget: "string"}
+      - {label: "Categories", name: "categories", widget: "list"}
       - {label: "Created", name: "created", widget: "date", format: "YYYY/MM/DD"}
       - {label: "Updated", name: "updated", widget: "date", format: "YYYY/MM/DD", defautl: '', required: false}
-      - {label: "Categories", name: "categories", widget: "list"}
       - {label: "Body", name: "body", widget: "markdown"}
       

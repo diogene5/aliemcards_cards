@@ -23,10 +23,10 @@ function respond(obj) {
   }
 }
 
-module.exports.search = (event, context, callback) => {
-  callback(null, respond({ message: 'here you are'}));
-  // if (queryStringParameters) {
-  //   const query = queryStringParameters;
+exports.handler = (event, context, callback) => {
+  callback(null, respond({ message: 'here you are', event }));
+  // if (event.queryStringParameters) {
+  //   const query = event.queryStringParameters;
   //   const result = fuse.search(decodeURIComponent(query)).slice(0,8);
   //   callback(null, respond({
   //     message: 'Search complete.',

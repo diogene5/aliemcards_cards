@@ -24,14 +24,15 @@ function respond(obj) {
 }
 
 module.exports.search = (event, context, callback) => {
-  if (queryStringParameters) {
-    const query = queryStringParameters;
-    const result = fuse.search(decodeURIComponent(query)).slice(0,8);
-    callback(null, respond({
-      message: 'Search complete.',
-      cards: result
-    }));
-  } else {
-    callback(null, respond({ message: 'You must provide a search term' }));
-  }
+  callback(null, respond({ message: 'here you are'}));
+  // if (queryStringParameters) {
+  //   const query = queryStringParameters;
+  //   const result = fuse.search(decodeURIComponent(query)).slice(0,8);
+  //   callback(null, respond({
+  //     message: 'Search complete.',
+  //     cards: result
+  //   }));
+  // } else {
+  //   callback(null, respond({ message: 'You must provide a search term' }));
+  // }
 };

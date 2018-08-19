@@ -1,6 +1,6 @@
 'use strict';
 
-const cards = require('../dist/v1/cards.json').cards;
+const cards = require('../dist/cards.json').cards;
 const Fuse = require('fuse.js');
 
 const fuse = new Fuse(cards, {
@@ -24,8 +24,8 @@ function respond(obj) {
 }
 
 module.exports.search = (event, context, callback) => {
-  if (event.pathParameters && event.pathParameters.query) {
-    const query = event.pathParameters.query;
+  if (queryStringParameters) {
+    const query = queryStringParameters;
     const result = fuse.search(decodeURIComponent(query)).slice(0,8);
     callback(null, respond({
       message: 'Search complete.',

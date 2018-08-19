@@ -23,16 +23,23 @@ function respond(obj) {
   }
 }
 
-exports.handler = (event, context, callback) => {
-  callback(null, respond({ message: 'here you are', event }));
-  // if (event.queryStringParameters) {
-  //   const query = event.queryStringParameters;
-  //   const result = fuse.search(decodeURIComponent(query)).slice(0,8);
-  //   callback(null, respond({
-  //     message: 'Search complete.',
-  //     cards: result
-  //   }));
-  // } else {
-  //   callback(null, respond({ message: 'You must provide a search term' }));
-  // }
-};
+// exports.handler = (event, context, callback) => {
+//   callback(null, respond({ message: 'here you are', event }));
+//   // if (event.queryStringParameters) {
+//   //   const query = event.queryStringParameters;
+//   //   const result = fuse.search(decodeURIComponent(query)).slice(0,8);
+//   //   callback(null, respond({
+//   //     message: 'Search complete.',
+//   //     cards: result
+//   //   }));
+//   // } else {
+//   //   callback(null, respond({ message: 'You must provide a search term' }));
+//   // }
+// };
+
+exports.handler = function(event, context, callback) {
+  callback(null, {
+  statusCode: 200,
+  body: "Hello, World"
+  });
+}

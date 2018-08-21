@@ -1,7 +1,6 @@
 'use strict';
 
-import * as path from 'path';
-
+const path = require('path');
 const cards = require(path.resolve(__dirname, '../../dist/cards.json')).cards;
 const Fuse = require('fuse.js');
 

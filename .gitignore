@@ -2,4 +2,5 @@
 .serverless/
 node_modules/
 api/dist/
+api/lambda/cards.json
 dist/

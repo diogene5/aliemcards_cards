@@ -1,6 +1,6 @@
 'use strict';
 
-const cards = require('dist/cards.json').cards;
+const cards = require('cards.json').cards;
 const Fuse = require('fuse.js');
 
 const fuse = new Fuse(cards, {

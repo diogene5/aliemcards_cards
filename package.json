@@ -7,7 +7,7 @@
   "scripts": {
     "test": "ts-node ./api/tests/index.ts",
     "test:remark": "remark ./cards -q",
-    "build": "rm -rf ./dist && yarn build:api && cp -a ./static/* ./dist",
+    "build": "rm -rf ./dist && yarn build:api && cp ./dist/cards.json ./api/lambda/dist && cp -a ./static/* ./dist",
     "build:api": "ts-node ./api/build/index.ts",
     "build:snaps": "ts-node ./api/tests/build-snaps.ts"
   },

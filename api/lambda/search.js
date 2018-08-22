@@ -1,7 +1,8 @@
 'use strict';
 
 const path = require('path');
-const cards = require(path.resolve(__dirname, '../../dist/cards.json')).cards;
+//'dist' is deployed, so path relative to 'dist'
+const cards = require('cards.json').cards;
 const Fuse = require('fuse.js');
 
 const fuse = new Fuse(cards, {

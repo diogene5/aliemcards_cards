@@ -7,9 +7,11 @@
   "scripts": {
     "test": "ts-node ./api/tests/index.ts",
     "test:remark": "remark ./cards -q",
-    "build": "rm -rf ./dist && yarn build:api && cp ./dist/cards.json ./api/lambda && cp -a ./static/* ./dist",
+    "test:buildsnaps": "ts-node ./api/tests/build-snaps.ts",
+    "build": "yarn build:clean && yarn build:api && yarn build:copies",
     "build:api": "ts-node ./api/build/index.ts",
-    "build:snaps": "ts-node ./api/tests/build-snaps.ts"
+    "build:clean": "rm -rf ./dist",
+    "build:copies": "cp ./dist/cards.json ./api/lambda && cp -a ./static/* ./dist"
   },
   "dependencies": {
     "@types/js-yaml": "^3.10.1",

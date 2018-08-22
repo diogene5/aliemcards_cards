@@ -1,5 +1,6 @@
 'use strict';
 
+// cards is copied to the lambda directory via the build script
 const cards = require('./cards.json').cards;
 const Fuse = require('fuse.js');
 

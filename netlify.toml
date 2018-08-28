@@ -2,6 +2,7 @@
   publish="dist"
   command="yarn build"
   functions="functions"
+
 [[headers]]
   for="/*"
   [headers.values]

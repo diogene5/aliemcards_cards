@@ -4,7 +4,7 @@ export default {
   DIST_DIR: path.resolve(__dirname, '../dist'),
   CARDS_DIR: path.resolve(__dirname, '../cards'),
   IGNORED_FILES: ['.DS_Store', 'announcements.yml', 'media'],
-  IMG_URL_PREFIX: 'https://aliemcardsapi.netlify.com',
+  IMG_URL_PREFIX: 'https://aliemcards.netlify.com',
   REGEX: {
     image_url: new RegExp(/media\/[\w-]+\.(?:png|jpg|jpeg|gif)/, 'gi'),
     image_file: new RegExp(/\.(gif|jpg|jpeg|tiff|png)$/, 'i'),

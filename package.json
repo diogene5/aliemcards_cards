@@ -1,7 +1,7 @@
 {
   "name": "aliemcards_cards",
   "version": "0.1.0",
-  "main": "api/build/index.ts",
+  "main": "api/index.ts",
   "author": "Jeremy Voros",
   "license": "CC-BY-NC-3.0",
   "scripts": {
@@ -51,7 +51,6 @@
     "remark-lint-table-pipe-alignment": "^1.0.1",
     "remark-lint-unordered-list-marker-style": "^1.0.1",
     "rimraf": "^2.6.2",
-    "serverless-offline": "^3.24.3",
     "ts-node": "^5.0.1",
     "tslint": "^5.9.1",
     "typescript": "^2.7.2"

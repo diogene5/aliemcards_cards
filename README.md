@@ -14,23 +14,28 @@ See the [wiki](https://github.com/aliemteam/aliemcards_cards/wiki) for details o
 
 ## ALiEM Cards API
 
-All of the JSON files that make up the API are static and served via GitHub Pages. The JSON files are built by the scripts in the `/api/build` directory. JSON files acting as api endpoints are built in an untracked `/api/dist` directory.
+All of the JSON files that make up the API are static and served via [Netlify](https://www.netlify.com). The JSON files are built by the scripts in the `/api` directory. JSON files acting as api endpoints are built in an untracked `/dist` directory.
 
-An AWS Lambda service handles the search endpoint. The AWS script is located in the `/api/lambda` directory. AWS provisioning is handled using the [Serverless framework](https://serverless.com/).
+An AWS Lambda service handles the search endpoint. The AWS script is located in the `/api/lambda` directory. AWS provisioning is handled using the [Netlify](https://www.netlify.com) and their [netlifly-lambda utility](https://github.com/netlify/netlify-lambda).
 
-The site is automatically deployed by the [Travis CI](https://travis-ci.org/aliemteam/aliemcards_cards) service with every `push` to the `master` branch. 
+The site is automatically deployed with every `push` to the `master` branch. 
 
 ### API GitHub Pages Endpoints
 
-**Base URL: https://aliemteam.github.io/aliemcards_cards/**
+**Base URL: https://aliemcards.netlify.com**
 
-See the [gh-pages branch](https://github.com/aliemteam/aliemcards_cards/tree/gh-pages) for JSON endpoints.
+| Endpoint | Content |
+|---|---|
+| `/cards.json` | All the cards |
+| `/cardsummaries.json` | All the cards' metadata, no content |
+| `/categories.json` | Each categories with their cards |
+| `/cards/:slug.json` | The card for the corresponding slug |
 
 If you want to build the endpoints locally, run: `yarn build`.
 
 ### API Search Endpoint
 
-**GET - https://mexv6u9ex2.execute-api.us-east-1.amazonaws.com/dev/search/:query**
+**GET - https://aliemcards.netlify.com/.netlify/functions/search?query=:query**
 
 Replace `:query` with a URL encoded search term/phrase. Returns JSON response:
 
@@ -67,4 +72,3 @@ Replace `:query` with a URL encoded search term/phrase. Returns JSON response:
   ]
 }
 ```
-

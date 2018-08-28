@@ -34,24 +34,11 @@ function buildSummaries(cards: Card[]): CardSummary[] {
 
 // images
 function copyImages(src: string, dest: string): void {
-  // const card_paths = fs.readdirSync(src).filter(x => config.IGNORED_FILES.indexOf(x) === -1);
-  // card_paths.forEach(slug => {
-  //   const images = fs.readdirSync(`${src}/${slug}`).filter(x => x.match(config.REGEX.image_file) !== null);
-  //   if (images.length > 0) moveImages(slug, images, src, dest);
-  // });
   const media_paths = fs.readdirSync(`${src}/media`);
   media_paths.forEach(media => {
     fs.writeFileSync(`${dest}/media/${media}`, fs.readFileSync(`${src}/media/${media}`));
   });
 }
-
-// function moveImages(slug: string, images: string[], src: string, dest: string): void {
-//   fs.mkdirSync(`${dest}/images/${slug}`);
-//   images.forEach(image => {
-//     fs.writeFileSync(`${dest}/images/${slug}/${image}`, fs.readFileSync(`${src}/${slug}/${image}`));
-//   });
-// }
-
 
 // categories, authors taxonomies
 function unpackCardProp(card: CardSummary, property: string, container: {}): void {
@@ -124,7 +111,7 @@ export default function(src: string, dest: string): void {
   // recent
   const recent = {
     created: buildRecent('created', summ).slice(0,5),
-    updates: buildRecent('updates', summ).slice(0,5),
+    updates: buildRecent('updated', summ).slice(0,5),
   }
   fs.writeFileSync(`${dest}/recent.json`, stringify(recent));
 }

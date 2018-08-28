@@ -20,7 +20,7 @@ An AWS Lambda service handles the search endpoint. The AWS script is located in 
 
 The site is automatically deployed with every `push` to the `master` branch. 
 
-### API GitHub Pages Endpoints
+### API Endpoints
 
 **Base URL: https://aliemcards.netlify.com**
 
@@ -29,6 +29,7 @@ The site is automatically deployed with every `push` to the `master` branch.
 | `/cards.json` | All the cards |
 | `/cardsummaries.json` | All the cards' metadata, no content |
 | `/categories.json` | Each categories with their cards |
+| `/recent.json` | Summaries for newly created and newly updated cards |
 | `/cards/:slug.json` | The card for the corresponding slug |
 
 If you want to build the endpoints locally, run: `yarn build`.

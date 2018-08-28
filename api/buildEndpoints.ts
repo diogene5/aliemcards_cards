@@ -3,8 +3,8 @@ import * as fs from 'fs';
 
 import * as rimraf from 'rimraf';
 
-import config from '../config';
-import { extract_frontmatter, slugify, stringify } from '../utils'
+import config from './config';
+import { extract_frontmatter, slugify, stringify } from './utils'
 
 // cards
 function parseCard(slug: string, contents: string): Card {

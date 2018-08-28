@@ -1,7 +1,6 @@
 'use strict';
 
-// cards is copied to the lambda directory via the build script
-const cards = require('./cards.json').cards;
+const cards = require('../../dist/cards.json').cards;
 const Fuse = require('fuse.js');
 
 const fuse = new Fuse(cards, {
@@ -19,21 +18,24 @@ const fuse = new Fuse(cards, {
 function respond(obj) {
   return {
     statusCode: 200,
-    headers: { 'Access-Control-Allow-Origin' : '*' },
+    headers: { 
+      'Access-Control-Allow-Origin': '*',
+      'Content-Type': 'application/json'
+    },
     body: JSON.stringify(obj)
   }
 }
 
 exports.handler = (event, context, callback) => {
-  callback(null, respond({ x: event.queryStringParameters }));
-  // if (event.queryStringParameters) {
-  //   const query = event.queryStringParameters;
-  //   const result = fuse.search(decodeURIComponent(query)).slice(0,8);
-  //   callback(null, respond({
-  //     message: 'Search complete.',
-  //     cards: result
-  //   }));
-  // } else {
-  //   callback(null, respond({ message: 'You must provide a search term' }));
-  // }
+  //callback(null, respond(event.queryStringParameters.query ));
+  if (event.queryStringParameters.query) {
+    const { query } = event.queryStringParameters;
+    const result = fuse.search(decodeURIComponent(query)).slice(0,8);
+    callback(null, respond({
+      message: 'Search complete.',
+      cards: result
+    }));
+  } else {
+    callback(null, respond({ message: 'You must provide a search term' }));
+  }
 };

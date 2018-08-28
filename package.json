@@ -5,18 +5,21 @@
   "author": "Jeremy Voros",
   "license": "CC-BY-NC-3.0",
   "scripts": {
+    "serve-functions": "yarn build && netlify-lambda serve api/lambda",
     "test": "ts-node ./api/tests/index.ts",
     "test:remark": "remark ./cards -q",
     "test:buildsnaps": "ts-node ./api/tests/build-snaps.ts",
-    "build": "yarn build:clean && yarn build:api && yarn build:copies",
-    "build:api": "ts-node ./api/build/index.ts",
+    "build": "yarn build:clean && yarn build:api && yarn build:copies && yarn build:functions",
+    "build:api": "ts-node ./api/index.ts",
     "build:clean": "rm -rf ./dist",
-    "build:copies": "cp ./dist/cards.json ./api/lambda && cp -a ./static/* ./dist"
+    "build:copies": "cp -a ./static/* ./dist",
+    "build:functions": "netlify-lambda build api/lambda"
   },
   "dependencies": {
     "@types/js-yaml": "^3.10.1",
     "@types/node": "^9.4.7",
     "fuse.js": "^3.2.0",
+    "netlify-lambda": "^0.4.0",
     "remark": "^9.0.0",
     "remark-cli": "^5.0.0",
     "remark-lint-blockquote-indentation": "^1.0.1",

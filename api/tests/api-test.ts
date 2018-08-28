@@ -1,7 +1,6 @@
 import { readdirSync, readFileSync } from 'fs';
 
-import config from '../config';
-import buildEndpoints from '../build/buildEndpoints';
+import buildEndpoints from '../buildEndpoints';
 import { errorHandler } from '../utils';
 
 // compare built endpoints to snapshots

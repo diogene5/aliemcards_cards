@@ -1,6 +1,6 @@
 .DS_Store
 .serverless/
 node_modules/
-api/dist/
-api/lambda/cards.json
-dist/
+/api/dist/
+/dist/
+/functions/

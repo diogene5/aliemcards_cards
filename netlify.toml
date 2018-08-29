@@ -6,4 +6,4 @@
 [[headers]]
   for="/*"
   [headers.values]
-    Access-Control-Allow-Origin = "http://localhost:1234"
+    Access-Control-Allow-Origin = "http://localhost:1234, https://aliemteam.github.io, https://aliemcards.com"

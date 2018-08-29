@@ -26,7 +26,7 @@ updated: 2018/08/02
 
 ## Differential diagnosis
 
-|                                       |                                       |
+| _                                     | _                                     |
 | ------------------------------------- | ------------------------------------- |
 | After electrical cardioversion        | Friedreich ataxia                     |
 | Arrhythmogenic RV dysplasia           | Early repolarization, esp in athletes |

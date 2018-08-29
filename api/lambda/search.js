@@ -19,6 +19,8 @@ function respond(obj) {
   return {
     statusCode: 200,
     headers: { 
+      'Access-Control-Allow-Origin': 'http://localhost:1234, http://aliemteam.github.io, http://aliemcards.com',
+      'Vary': 'Origin',
       'Content-Type': 'application/json'
     },
     body: JSON.stringify(obj)

@@ -7,22 +7,21 @@
 
   <!-- Netlify Identity Widget-->
   <script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-  
+
 </head>
 <body>
 
     <div data-netlify-identity-button>Login with Netlify Identity</div> 
 
-    
     <script>
         if (window.netlifyIdentity) {
-        window.netlifyIdentity.on("init", user => {
+            window.netlifyIdentity.on("init", user => {
             if (!user) {
-            window.netlifyIdentity.on("login", () => {
-                document.location.href = "/admin/";
-            });
+                window.netlifyIdentity.on("login", () => {
+                    document.location.href = "/admin/";
+                });
             }
-        });
+            });
         }
     </script>
 </body>

@@ -6,7 +6,7 @@
     <title>ALIEM Cards CMS</title>
 
     <!-- Netlify Identity Widget-->
-    <script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
     <style>
         body {
@@ -17,8 +17,12 @@
             color: rgb(121, 130, 145);
         }
 
+        div {
+            margin-bottom: 20px;
+        }
+
         img {
-            width: 25%;
+            width: 300px;
         }
 
         h1 {
@@ -42,6 +46,20 @@
         #loginbutton a:hover {
             background-color: rgb(121, 130, 145);
         }
+
+        #cmslink {
+            margin-top: 40px;
+        }
+
+        #cmslink a{
+            text-decoration: none;
+            font-weight: bold;
+            color: #00b092;
+        }
+
+        #cmslink a:hover {
+            color: rgb(121, 130, 145);
+        }
         
     </style>
 
@@ -49,8 +67,9 @@
 <body>
 
     <div><img src="logo.svg" /></div>
-    <h1>ALiEM Cards Backend</h1>
-    <div data-netlify-identity-button id="loginbutton"></div> 
+    <h1>ALiEM Cards API</h1>
+    <div data-netlify-identity-button id="loginbutton"></div>
+    <div id="cmslink"><a href="/admin/">Go to Content Management System</a></div>
 
     <script>
         if (window.netlifyIdentity) {

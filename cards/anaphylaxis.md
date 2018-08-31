@@ -5,7 +5,7 @@ authors:
 categories:
   - Allergy-Immunology
 created: 2012/02/24
-updated: 2017/02/13
+updated: 2018/08/31
 ---
 # Anaphylaxis
 

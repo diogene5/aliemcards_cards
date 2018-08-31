@@ -7,18 +7,16 @@ categories:
 created: 2018/08/31
 updated: ''
 ---
-# HIV 
+## HIV
 
 * <span class="drug">Emtricitabine/tenofovir (Truvada)</span>: 200mg/300mg (1 tablet) PO daily
 * <span class="drug">Raltegravir (Isentress)</span>: 400 mg PO twice daily
 
-# Gonorrhea, chlamydia
+## Gonorrhea, chlamydia
 
 * Ceftriaxone
 * Azithromycin
 
-# Trichomonas
+## Trichomonas
 
-
-
-# Plan B
+## Plan B

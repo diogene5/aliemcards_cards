@@ -9,11 +9,12 @@
     "test": "ts-node ./api/tests/index.ts",
     "test:remark": "remark ./cards -q",
     "test:buildsnaps": "ts-node ./api/tests/build-snaps.ts",
-    "build": "yarn build:clean && yarn build:api && yarn build:copies && yarn build:functions",
+    "build": "yarn build:clean && yarn build:api && yarn build:copies && yarn deploy:serverless",
     "build:api": "ts-node ./api/index.ts",
     "build:clean": "rm -rf ./dist",
     "build:copies": "cp -a ./static/* ./dist",
-    "build:functions": "netlify-lambda build api/lambda"
+    "build:functions": "netlify-lambda build api/lambda",
+    "deploy:serverless": "cd api && serverless deploy -v"
   },
   "dependencies": {
     "@types/js-yaml": "^3.10.1",
@@ -51,6 +52,8 @@
     "remark-lint-table-pipe-alignment": "^1.0.1",
     "remark-lint-unordered-list-marker-style": "^1.0.1",
     "rimraf": "^2.6.2",
+    "serverless": "^1.31.0",
+    "serverless-offline": "^3.25.11",
     "ts-node": "^5.0.1",
     "tslint": "^5.9.1",
     "typescript": "^2.7.2"

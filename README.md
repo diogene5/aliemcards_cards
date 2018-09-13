@@ -16,9 +16,13 @@ See the [wiki](https://github.com/aliemteam/aliemcards_cards/wiki) for details o
 
 All of the JSON files that make up the API are static and served via [Netlify](https://www.netlify.com). The JSON files are built by the scripts in the `/api` directory. JSON files acting as api endpoints are built in an untracked `/dist` directory.
 
-An AWS Lambda service handles the search endpoint. The AWS script is located in the `/api/lambda` directory. AWS provisioning is handled using the [Netlify](https://www.netlify.com) and their [netlifly-lambda utility](https://github.com/netlify/netlify-lambda).
+An AWS Lambda service handles the search endpoint. The AWS script is located in the `/api/lambda` directory. AWS provisioning is handled using [Serverless](https://serverless.com/). Netlify offers AWS lambda management but RAM size cannot be easily configured. To optimize search, Serverless was used for more configurability.
 
-The site is automatically deployed with every `push` to the `master` branch. 
+The site is automatically deployed with every `push` to the `master` branch.
+
+### ALiEM Cards CMS
+
+Content management can be handled via [Netlify CMS](https://www.netlifycms.org/), a single-page app that interfaces with GitHub to managed content edits. The files for this are in the [static](https://github.com/aliemteam/aliemcards_cards/tree/master/static) directory.
 
 ### API Endpoints
 
@@ -36,7 +40,7 @@ If you want to build the endpoints locally, run: `yarn build`.
 
 ### API Search Endpoint
 
-**GET - https://aliemcards.netlify.com/.netlify/functions/search?query=:query**
+**GET - https://mexv6u9ex2.execute-api.us-east-1.amazonaws.com/dev/search/:query**
 
 Replace `:query` with a URL encoded search term/phrase. Returns JSON response:
 

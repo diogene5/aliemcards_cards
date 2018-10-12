@@ -90,7 +90,7 @@ export default function(src: string, dest: string): void {
   copyImages(src, dest);
 
   // master list
-  fs.writeFileSync(`${dest}/cards.json`, stringify({ hash: hash, cards: cards }));
+  fs.writeFileSync(`${dest}/cards.json`, JSON.stringify({ hash: hash, cards: cards }, null, '\t'));
 
   // summary list
   fs.writeFileSync(

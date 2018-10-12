@@ -24,7 +24,7 @@ _2010 Infectious Disease Society of America (IDSA) and European Society for Micr
 2. **<span class="drug">Trimethoprim</span>-sulfamethoxazole** (1 DS tab PO BID x 3 days)
    - Rising resistance rates
    - Only give if local antibiogram shows &lt;20% resistance
-3. <span class="drug">Fosfomycin</span>(3 gm PO x 1) 
+3. <span class="drug">Fosfomycin</span>(3 gm PO x 1)
    - Slightly less efficiacy compared to standard short-course regimens 
 4. <span class="drug">Pivmecillinam</span> (400 mg PO BID x 3-7 days) 
    - Only available in Europe

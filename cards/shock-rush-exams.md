@@ -3,8 +3,7 @@ title: Causes of Elevated Lactate
 authors:
   - author: 'Michelle Lin, MD'
 categories:
-  - Toxicology
-  - Infectious Diseases
+  - Infectious Disease
 created: 2009/12/22
 ---
 

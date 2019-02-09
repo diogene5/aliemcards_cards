@@ -18,116 +18,73 @@ updated: null
 
 ## Metatarsal Neck
 
-- Most are nonoperative
+Most are nonoperative. 
 
-<table>
-<colgroup>
-<col width="50%" />
-<col width="50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td>Urgent closed reduction needed if:<br />
-</td>
-<td><ul>
-<li>&gt; 10°, 20°, 30°, 40° angulation for 2nd-5th MCs, respectively, OR<br />
-</li>
-<li>ANY rotational deformity (note scissoring with composite flexion) <br />
-</li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+Urgent closed reduction needed if:
+
+- \> 10°, 20°, 30°, 40° angulation for 2nd-5th MCs, respectively, OR
+- ANY rotational deformity (note scissoring with composite flexion) 
 
 ## Metacarpal Shaft
 
-Most are nonoperative, especially 3rd and 4th MC because of inter-MC ligaments
+Most are nonoperative, especially 3rd and 4th MC because of inter-MC ligaments.
 
-<table>
-<colgroup>
-<col width="50%" />
-<col width="50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td>Urgent closed reduction needed if<br />
-</td>
-<td><ul>
-<li>&gt; 10°, 10°, 20°, 20° angulation for 2nd-5th MCs, respectively, OR<br />
-</li>
-<li>&ge; 5 mm shortening, OR</li>
-<li>ANY rotational deformity<br />
-</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td>PEARL</td>
-<td><ul>
-<li>Short oblique fractures (length of fx &lt; 2x bone diameter) and displaced transverse fractures typically unstable and may need fixation. <br />
-</li>
-<li>Splint with dorsal pressure over the dorsally angulated fracture site.<br />
-</li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+Urgent closed reduction needed if
+
+- \> 10°, 10°, 20°, 20° angulation for 2nd-5th MCs, respectively, OR
+- ≥ 5 mm shortening, OR
+- ANY rotational deformity
+
+*Pearl*: 
+
+- Short oblique fractures (length of fx < 2x bone diameter) and displaced transverse fractures typically unstable and may need fixation.
+- Splint with dorsal pressure over the dorsally angulated fracture site.
 
 ## Metacarpal Base
 
-<table>
-<colgroup>
-<col width="50%" />
-<col width="50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td>1st MC (thumb)<br />
-</td>
-<td><em>Intraarticular:</em><br />
+### First Metacarpal (thumb)
 
-<ul>
-<li><strong>Bennett</strong> (fx fragment on ulnar side of 1st MC) <br />
-</li>
-<li><strong>Rolando</strong> (fx fragment on ulnar &amp; radial side of 1st MC): Typically unstable and require operative repair<br />
-</li>
-</ul>
-<em>Extraarticular:</em><br />
+Intraarticular:
 
-<ul>
-<li>Allow up to 30° of apex-dorsal angulation and 4 mm shortening before operative repair<br />
-</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td>2-4th MC<br />
-</td>
-<td>Operative repair if &ge; 2 mm articular surface displacement or significant angulation<br />
-</td>
-</tr>
-<tr class="odd">
-<td>5th MC<br />
-</td>
-<td><em>Extraarticular:</em> Typically stable because of inter-MC ligaments<br />
-<em>Intraarticular</em> (high-energy injury): Unstable<br />
+- Bennett (fx fragment on ulnar side of 1st MC)
+- Rolando (fx fragment on ulnar & radial side of 1st MC): Typically unstable and require operative repair
 
-<ul>
-<li>Fracture line between inter-MC ligaments and insertion of extensor carpi ulnaris tendon, causing base to displace proximal and dorsal</li>
-<li>Typically will need fixation<br />
-</li>
-</ul>
-<em>PEARL:</em> 4th and 5th MC base fractures are frequently fx-dislocations. Check lateral xray to ensure the carpo-MC joint is reduced.<br />
-</td>
-</tr>
-</tbody>
-</table>
+Extraarticular:
+
+- Allow up to 30° of apex-dorsal angulation and 4 mm shortening before operative repair
+
+### Second through Fourth Metacarpals
+
+Operative repair if ≥ 2 mm articular surface displacement or significant angulation
+
+### Fifth Metacarpal
+
+Extraarticular: Typically stable because of inter-MC ligaments
+
+Intraarticular (high-energy injury): Unstable
+
+- Fracture line between inter-MC ligaments and insertion of extensor carpi ulnaris tendon, causing base to displace proximal and dorsal
+- Typically will need fixation
+
+*Pearl*: 4th and 5th MC base fractures are frequently fx-dislocations. Check lateral xray to ensure the carpo-MC joint is reduced.
+
 
 ## Splinting
 
-| **Digit**            |  **Splint**            | **Position**                                              |
-| -------------------- | ---------------------- | --------------------------------------------------------- |
-| Thumb                | Thumb splica           | Wrist extension 20°, thumb Abduction                      |
-| Index, middle finger | Radial gutter or volar | Wrist extension in 20°, MCP flexion in 90°, keep IPs free |
-| Ring, small finger   | Ulnar gutter           | Wrist extension in 20°, MCP flexion in 90°, keep IPs free |
+### Thumb
+
+- Thumb spica
+- Wrist extension 20°, thumb abduction
+
+### Second or Third Fingers
+
+- Radial gutter or volar
+- Wrist extension in 20°, MCP flexion in 90°, keep IPs free
+
+### Fourth or Fifth Fingers
+
+- Ulnar gutter
+- Wrist extension in 20°, MCP flexion in 90°, keep IPs free
 
 ## References
 

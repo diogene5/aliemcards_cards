@@ -44,12 +44,44 @@ updated: 2017/02/13
   - **Thrombotic occlusions** usually class I or IIA because of presence of collateral vasculature
   - **Embolic occlusions** usually class IIB or III
 
-| Class   | Category                                   | Prognosis                       | Sensory Loss        | Muscle Weakness  | Arterial Dopper Signal | Venous Doppler Signal |
-| ------- | ------------------------------------------ | ------------------------------- | ------------------- | ---------------- | ---------------------- | --------------------- |
-| **I**   | Viable, No immediate limb threat           | None                            | None                | Audible          | Audible                |                       |
-| **IIA** | Threatened: Marginal                       | Salvageable if treated promptly | Min-none            | None             | +/- Audible            | Audible               |
-| **IIB** | Threatened: Immediate                      | Salvageable if treated immed.   | More than just toes | Mild-mod         | Rarely audible         | Audible               |
-| **III** | Irreversible Limb loss or permanent damage | Profound                        | Profound            | None             | None                   |                       |
+
+### Class I
+
+- **Category**: viable, no limb threat
+- **Prognosis**: none
+- **Sensory Loss**: none
+- **Muscle Weakness**: none
+- **Arterial Doppler Signal**: audible
+- **Venous Doppler Signal**: audible
+
+### Class IIA
+
+- **Category**: threatened, marginal
+- **Prognosis**: salvageable if treated properly
+- **Sensory Loss**: minimal or none
+- **Muscle Weakness**: none
+- **Arterial Doppler Signal**: +/- audible
+- **Venous Doppler Signal**: audible
+
+### Class IIB
+
+- **Category**: threatened, immediate
+- **Prognosis**: salvageable if treated immediately
+- **Sensory Loss**: more than just toes
+- **Muscle Weakness**: mild to moderate
+- **Arterial Doppler Signal**: rarely audible
+- **Venous Doppler Signal**: audible
+
+### Class III
+
+- **Category**: irreversible limb loss or permanent damage
+- **Prognosis**: limb loss or permanent damage
+- **Sensory Loss**: profound
+- **Muscle Weakness**: profound
+- **Arterial Doppler Signal**: none
+- **Venous Doppler Signal**: none
+
+## Workup
 
 - Ankle brachial index (ABI)
 - Electrocardiogram

@@ -17,20 +17,20 @@ updated: null
 
 If **ZERO** of the following high risk features, it is safe to do LP without a Head CT.
 
-| **High Risk Features Associated With An Abnormal CT**      |
-|------------------------------------------------------------|
-| Age &ge;60 yr                                              |
-| Immunocompromise (HIV, transplant, immunosuppression)      |
-| History of CNS disease (mass lesion, CVA, focal infection) |
-| Seizure &lt; 1 week prior to arrival                       |
-| Altered level of consciousness                             |
-| Unable to answer 2 questions correctly                     |
-| Unable to follow 2 commands correctly                      |
-| Gaze palsy                                                 |
-| Abnormal visual fields                                     |
-| Facial palsy                                               |
-| Arm or leg drift                                           |
-| Abnormal language / speech                                 |
+### High Risk Features Associated with an Abnormal CT
+
+- Age &ge;60 yr 
+- Immunocompromise (HIV, transplant, immunosuppression)
+- History of CNS disease (mass lesion, CVA, focal infection)
+- Seizure &lt; 1 week prior to arrival 
+- Altered level of consciousness                     
+- Unable to answer 2 questions correctly
+- Unable to follow 2 commands correctly
+- Gaze palsy
+- Abnormal visual fields
+- Facial palsy
+- Arm or leg drift
+- Abnormal language / speech
 
 ## Study: [Hasbun et al. NEMJ, 2001](https://www.ncbi.nlm.nih.gov/pubmed/?term=11742046)
 

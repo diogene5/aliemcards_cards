@@ -39,32 +39,22 @@ updated: null
 - Parent unmetabolized alcohols --> Contributes to osmolal gap
 - Metabolites of alcohols --> Contributes to toxic effects (except isopropanol)
 
-<table>
-<colgroup>
-<col width="100%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th> <b>Causes for High anion gap metabolic acidosis + High osmolal gap</b></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Acute kidney injury<br />
-Intoxication, salicylates<br />
-Intoxication, toxic alcohol<br />
-<ul>
-<li>Methanol</li>
-<li>Ethylene glycol</li>
-<li>Diethylene glycol</li>
-<li>Propylene glycol</li>
-<li>Isopropanol glycol</li></ul>
-Ketoacidosis, alcoholic or diabetic<br />
-Lactic acidosis<br />
-</td>
-</tr>
-</tbody>
-</table>
+## Causes for High anion gap metabolic acidosis + High osmolal gap
+
+- Acute kidney injury
+
+- Intoxication, salicylates
+
+- Intoxication, toxic alcohol
+  - Methanol
+  - Ethylene glycol
+  - Diethylene glycol
+  - Propylene glycol
+  - Isopropanol glycol
+
+- Ketoacidosis, alcoholic or diabetic
+
+- Lactic acidosis
 
 ## Caution
 

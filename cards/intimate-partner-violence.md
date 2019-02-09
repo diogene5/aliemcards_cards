@@ -27,14 +27,15 @@ updated: null
 - Interview patient alone. Frame: “_Because violence is so common, we’re routinely asking our patients about their safety in their relationships_.”
 - Increase suspicion of abuse when overly protective partner, history inconsistent with injury, vague complaints, or pregnancy.
 
-**SAFE Questions**
+### SAFE Questions 
 
-| Topic              |    Question                                                                        |
-| ------------------ | ---------------------------------------------------------------------------------- |
-| **S**tress/Safety  | _Do you feel safe in your relationship?_                                           |
-| **A**fraid/Abused  | _Have you ever been in a relationship where you were threatened, hurt, or afraid?_ |
-| **F**riend/Family  | _Are your friends aware you have been hurt?_                                       |
-| **E**mergency Plan | _Do you have a safe place to go and the resources you need in an emergency?_       |
+**S**tress/Safety: *Do you feel safe in your relationship?*
+
+**A**fraid/Abused: *Have you ever been in a relationship where you were threatened, hurt, or afraid?*
+
+**F**riend/Family: *Are your friends aware you have been hurt?*
+
+**E**mergency Plan: *Do you have a safe place to go and the resources you need in an emergency?*
 
 ## Document
 

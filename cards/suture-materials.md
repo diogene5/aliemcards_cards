@@ -18,21 +18,71 @@ Undesired tissue reactivity is greater with:
 
 ## Absorbable Sutures
 
-| **Type**           | **Effective Support** | **Complete Absorption** | **Comments**                                                                |
-| ------------------ | :-------------------: | :---------------------: | --------------------------------------------------------------------------- |
-| Surgical Gut       |        8-9 days       |         30 days         | Rarely used; high tissue reactivity                                         |
-| Chromic Gut        |       10-21 days      |        > 90 days        | Gut treated with chromium to decrease tissue reactivity and slow absorption |
-| Fast Absorbing Gut |        5-7 days       |        14-28 days       | Gut treated with heat to speed absorption                                   |
-| Polyglac (Vicryl)  |        21 days        |         90 days         | Less reactive than gut; synthetic                                           |
-| Vicryl Rapide      |        10 days        |         42 days         | Gamma-irradiated to speed absorption                                        |
+### Surgical Gut
+
+**Effective Support**: 8-9 days
+
+**Complete Absorption**: 30 days
+
+Rarely used. High tissue reactivity.
+
+### Chromic Gut
+
+**Effective Support**: 10-21 days
+
+**Complete Absorption**: \>90 days
+
+Gut treated with chromium to decrease tissue reactivity and slow absorption.
+
+### Fast Absorbing Gut
+
+**Effective Support**: 5-7 days
+
+**Complete Absorption**: 14-28 days
+
+Gut treated with heat to speed absorption.
+
+### Polyglac (Vicryl)
+
+**Effective Support**: 21 days
+
+**Complete Absorption**: 90 days
+
+Less reactive than gut. Synthetic.
+
+### Vicryl Rapide
+
+**Effective Support**: 10 days
+
+**Complete Absorption**: 42 days
+
+Gamma-irradiated to speed absorption.
 
 ## Non-Absorbable Sutures
 
-| **Type**                | **Tensile Strength** | **Tissue Reactivity** | **Comments**                                                                      |
-| ----------------------- | :------------------: | :-------------------: | --------------------------------------------------------------------------------- |
-| Silk                    |          Low         |          High         | Multifilament, pliable                                                            |
-| Nylon (Ethilon)         |         High         |          Low          | Monofilament, stiff                                                               |
-| Polypropylene (Prolene) |       Moderate       |        Very low       | Monofilament, less knot security because slippery (may need  extra throw in knot) |
+### Silk
+
+**Tensile Strength**: Low
+
+**Tissue Reactivity**: High
+
+Multifilament, pliable.
+
+### Nylon (Ethilon)
+
+**Tensile Strength**: High
+
+**Tissue Reactivity**: Low
+
+Monofilament, stiff.
+
+### Polypropylene (Prolene)
+
+**Tensile Strength**: Moderate
+
+**Tissue Reactivity**: Very low
+
+Monofilament, less knot security because slippery (may need extra throw in knot).
 
 ## Suture Removal Timeframes
 

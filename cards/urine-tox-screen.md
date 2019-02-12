@@ -10,16 +10,95 @@ updated: 2017/02/14
 
 # Urine Toxicology Screen
 
-| Drug                             | Causes False (+) Test                                                                                                                                                                                                                                               | Duration of detectability                                                                                                       |
-| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| Amphetamines                     | Amantadine, Buproprion, Chlorpromazine, Desipramine, Fluoxetine, L-methamphetamine in nasal decongestant, Labetalol, Methylphenidate (Ritalin), Phentermine, Phenylephrine, Phenylpropanolamine, Promethazine, Pseudoephedrine, Ranitidine, Thioridazine, Trazodone | **2-3 days**                                                                                                                    |
-| Benzodiazepines                  | Oxaprozin, Sertraline                                                                                                                                                                                                                                               | **3 days** for short acting (e.g. lorazepam) and up to **30 days** for long acting (e.g. diazepam)                              |
-| Cocaine                          | Topical anesthetics which have cocaine                                                                                                                                                                                                                              | **2-3 days** (occasional user), up to **8 days** (heavy user)                                                                   |
-| Opiates                          | Dextromethorphan, Diphenhydramine, Fluoroquinolones, Poppy seed, Quinine, Rifampin, Verapamil                                                                                                                                                                       | **1-3 days**                                                                                                                    |
-| Phenycyclidine                   | Dextromethorphan, Diphenhydramine, Ibuprofen, Imipramine, Ketamine, Lamotrigine, Meperidine, Thioridazine, Tramadol, Venlafaxine                                                                                                                                    | **7-14 days**                                                                                                                   |
-| Marijuana (tetrahydrocannabinol) | Dronabinol, NSAID, Pantoprazole and other proton pump inhibitors                                                                                                                                                                                                    | **3-5 days** with 1x use, **5-7 days** with 4x/wk use, **10-15 days** with daily use, **>30 days** with long term and heavy use |
+### Amphetamines
 
-**Pearl**:  MDMA (Ecstacy) may not be positive on amphetamine drug screen, unless specifically screen for MDMA. 
+**Duration of Detectability**: 2-3 days
+
+**Causes of False Positives:**
+
+- Amantadine
+- Buproprion
+- Chlorpromazine
+- Desipramine
+- Fluoxetine
+- L-methamphetamine in nasal decongestant
+- Labetalol
+- Methylphenidate (Ritalin)
+- Phentermine
+- Phenylephrine
+- Phenylpropanolamine
+- Promethazine
+- Pseudoephedrine
+- Ranitidine
+- Thioridazine
+- Trazodone
+
+### Benzodiazepines
+
+**Duration of Detectability**: 3 days for short acting (e.g. lorazepam) and up to 30 days for long acting (e.g. diazepam)
+
+**Causes of False Positives:**
+
+- Oxaprozin
+- Sertraline
+
+### Cocaine
+
+**Duration of Detectability**: 2-3 days (occasional user), up to 8 days (heavy user)
+
+**Causes of False Positives:**
+
+- Topical anesthetics which have cocaine
+
+### Opiates
+
+**Duration of Detectability**: 1-3 days
+
+**Causes of False Positives:**
+
+- Dextromethorphan
+- Diphenhydramine
+- Fluoroquinolones
+- Poppy seed
+- Quinine
+- Rifampin
+- Verapamil
+
+### Phenycyclidine
+
+**Duration of Detectability**: 7-14 days
+
+**Causes of False Positives:**
+
+- Dextromethorphan
+- Diphenhydramine
+- Ibuprofen
+- Imipramine
+- Ketamine
+- Lamotrigine
+- Meperidine
+- Thioridazine
+- Tramadol
+- Venlafaxine
+
+### Marijuana (THC)
+
+**Duration of Detectability**: 
+
+- 3-5 days with 1x use
+- 5-7 days with 4x/wk use
+- 10-15 days with daily use
+- \>30 days with long term and heavy us
+
+**Causes of False Positives:**
+
+- Dronabinol
+- NSAID
+- Pantoprazole and other proton pump inhibitors
+
+### Pearl
+
+MDMA (Ecstacy) may not be positive on amphetamine drug screen, unless specifically screen for MDMA. 
 
 ## Benzodiazepines
 

@@ -23,27 +23,34 @@ Normal pericardial fluid volume: 15-30 mL
 
 ## Systematic review of 8 studies with a total of 300 patients
 
-| Finding                   | Sensitivity | Specificity | (+) Likelihood Ratio | (-) Likelihood Ratio |
-| ------------------------- | ----------: | ----------: | -------------------: | -------------------: |
-| **Clinical history**      |             |             |                      |                      |
-| - Dyspnea                 |      87-88% |             |                      |                      |
-| **Physical exam**         |             |             |                      |                      |
-| - Tachycardia             |         77% |             |                      |                      |
-| - Hypotension             |         26% |             |                      |                      |
-| - Diminished heart sounds |         28% |             |                      |                      |
-| - Elevated JVP            |         76% |             |                      |                      |
-| **ECG**                   |             |             |                      |                      |
-| - Low voltage             |         42% |             |                      |                      |
-| - Electrical alternans    |      16-21% |             |                      |                      |
-| - ST elevation            |      18-30% |             |                      |                      |
-| - PR depression           |         18% |             |                      |                      |
-| **Chest xray**            |             |             |                      |                      |
-| - Cardiomegaly            |         89% |             |                      |                      |
-| **Pulsus paradoxus**      |             |             |                      |                      |
-| - >12 mmHg                |         98% |         83% |                  5.9 |                 0.03 |
-| - >10 mmHg                |         98% |         70% |                  3.3 |                 0.03 |
+| Finding                   | Sensitivity | Specificity |
+| ------------------------- | ----------- | ----------- | 
+| **Clinical history**      |             |             | 
+| Dyspnea                 |      87-88% |             |   
+| **Physical exam**         |             |             | 
+| Tachycardia             |         77% |             |   
+| Hypotension             |         26% |             |   
+| Diminished heart sounds |         28% |             |   
+| Elevated JVP            |         76% |             |   
+| **ECG**                   |             |             | 
+| Low voltage             |         42% |             |   
+| Electrical alternans    |      16-21% |             |   
+| ST elevation            |      18-30% |             |   
+| PR depression           |         18% |             |   
+| **Chest xray**            |             |             | 
+| Cardiomegaly            |         89% |             | 
+| **Pulsus paradoxus**      |             |             | 
+| > 12 mmHg                |         98% |         83% |  
+| > 10 mmHg                |         98% |         70% |  
 
-Use below Fagan nomogram
+**Pulsus paradoxus Likelihood Ratios**
+
+| Measurement | Positive LR | Negative LR |
+|------------ | ----------- | ----------- |
+| > 12 mmHg | 5.9 | 0.03 |
+| > 10 mmHg | 3.3 | 0.03 |
+
+Use below Fagan nomogram.
 
 ## Fagan Nomogram
 

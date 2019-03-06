@@ -23,10 +23,20 @@ What single agent best manages violent, agitated patients in the ED, as measured
 
 ## Results
 
-|                        | Haloperidol (n=42) | Lorazepam (n=27) | Midazolam (n=42) |
-| ---------------------- | :----------------: | :--------------: | :--------------: |
-| Time to sedation (min) |      28.3 ± 25     |     32.3 ± 20    |     18.3 ± 14    |
-| Time to arousal (min)  |     126.5 ± 85     |    217.2 ± 107   |     81.9 ± 66    |
+### Haloperidol (n=42)
+
+- **Minutes to sedation**: 28.3 ± 25 
+- **Minutes to arousal**: 126.5 ± 85
+
+### Lorazepam (n=27)
+
+- **Minutes to sedation**: 32.3 ± 20
+- **Minutes to arousal**: 217.2 ± 107
+
+### Midazolam (n=42)
+
+- **Minutes to sedation**: 18.3 ± 14
+- **Minutes to arousal**: 81.9 ± 66
 
 There were **no significant differences in vital signs** between groups.
 

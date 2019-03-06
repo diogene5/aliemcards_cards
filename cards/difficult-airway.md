@@ -32,22 +32,18 @@ updated: null
 
 ## Difficult extraglottic device (RODS)
 
-| Finding | 
-\|---\|
-\| **R**estricted mouth opening          |
-\| **O**bstruction                       |
-\| **D**isrupted or **D**istorted airway |
-\| **S**tiff lung, cervical **S**pine    |
+- **R**estricted mouth opening          
+- **O**bstruction                       
+- **D**isrupted or **D**istorted airway 
+- **S**tiff lung, cervical **S**pine    
 
 ## Difficult cricothyrotomy (SHORT)
 
-| Finding |
-\| --- \| 
-\| **S**urgery or other airway obstruction        |
-\| **H**ematoma (includes infection & abscess)    |
-\| **O**besity                                    |
-\| **R**adiation distortion (and other deformity) |
-\| **T**umor                                      |
+- **S**urgery or other airway obstruction        
+- **H**ematoma (includes infection & abscess)    
+- **O**besity                                    
+- **R**adiation distortion (and other deformity) 
+- **T**umor                                      
 
 ## References
 

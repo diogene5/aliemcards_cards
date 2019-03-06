@@ -12,13 +12,27 @@ updated: null
 
 ## Treatment
 
-| Clinical Category                   | Presentation                                 | Treatment                                                                                                                                             |
-| ----------------------------------- | -------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1st episode, mild-moderate severity |                                              | <span class="drug">Metronidazole</span> 500 mg PO TID x 10-14 days                                                                                    |
-| 1st episode, severe                 | Serum WBC ≥15k or creatinine > 1.5x baseline | <span class="drug">Vancomycin</span> 125 mg PO QID x 10-14 days                                                                                       |
-| 1st episode, severe,complicated     | Hypotension, shock ileus, or megacolon       | <span class="drug">Vancomycin</span> 500 mg QID PO/NG (PR if ileus) PLUS <span class="drug">Metronidazole</span> 500 mg IV q8h</span>                 |
-| First recurrence                    |                                              | Same as for 1st episode (because minimal resistance)                                                                                                  |
-| Second and more recurrences         |                                              | <span class="drug">Vancomycin</span> PO in tapered or pulsed regimen. Avoid <span class="drug">metronidazole</span> overuse because of neurotoxicity. |
+### 1st episode, mild-moderate severity
+
+- **Treatment**: <span class="drug">Metronidazole</span> 500 mg PO TID x 10-14 days
+
+### 1st episode, severe
+
+- Serum WBC ≥15k or creatinine > 1.5x baseline
+- **Treatment**: <span class="drug">Vancomycin</span> 125 mg PO QID x 10-14 days
+
+### 1st episode, severe,complicated
+
+- Hypotension, shock ileus, or megacolon
+- **Treatment**: <span class="drug">Vancomycin</span> 500 mg QID PO/NG (PR if ileus) PLUS <span class="drug">Metronidazole</span> 500 mg IV q8h</span>
+
+### First recurrence
+
+- Same as for 1st episode (because minimal resistance)
+
+### Second and more recurrences
+
+- **Treatment**: <span class="drug">Vancomycin</span> PO in tapered or pulsed regimen. Avoid <span class="drug">metronidazole</span> overuse because of neurotoxicity.
 
 ## Background
 

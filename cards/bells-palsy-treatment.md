@@ -27,14 +27,47 @@ Controversial benefit of antivirals (at most risk difference of 7%):
 
 ## House-Brackmann grading for severity of facial nerve weakness
 
-|  Grade |    Dysfunction    | Gross weakness                                                                                                     | At rest                  |  Motion                                                                                 |
-| :----: | :---------------: | ------------------------------------------------------------------------------------------------------------------ | ------------------------ | --------------------------------------------------------------------------------------- |
-|    I   |        None       | No weakness                                                                                                        | No weakness              | Normal function all groups                                                              |
-|   II   |        Mild       | Slight weakness noticeable on close inspection. May have very slight synkinesis                                    | Normal symmetry and tone | **Forehead**: Moderate-to-good function  **Mouth**: Slight asymmetry                    |
-|   III  |      Moderate     | Obvious but not disfiguring difference; noticeable but not severe synkinesis, contracture, and/or hemifacial spasm | Normal symmetry and tone | **Forehead**: Slight-to-moderate movement  **Mouth**: Slightly weak with maximum effort |
-|   IV   | Moderately severe | Obvious weakness and/or disfiguring asymmetry                                                                      | Normal symmetry and tone | **Forehead**: None  **Mouth**: Asymmetric with maximum effort                           |
-|    V   |       Severe      | Only barely perceptible motion                                                                                     | Asymmetry                | **Forehead**: None      **Mouth**: Slight movement                                      |
-|   VI   |  Total paralysis  | No movement                                                                                                        | Asymmetry                | None for all groups                                                                     |
+### Grade I
+
+- **Dysfunction**: none
+- **Gross weakness**: no weakness
+- **At rest**: no weakness
+- **Motion**: normal function all groups
+
+### Grade II
+
+- **Dysfunction**: mild
+- **Gross weakness**: slight weakness noticeable on close inspection. May have very slight synkinesis
+- **At rest**: normal symmetry and tone
+- **Motion**: forehead - moderate to good function; mouth - slight asymmetry
+
+### Grade III
+
+- **Dysfunction**: moderate
+- **Gross weakness**: obvious but not disfiguring difference; noticeable but not severe synkinesis, contracture, and/or hemifacial spasm
+- **At rest**: normal symmetry and tone 
+- **Motion**: forehead - slight to moderate movement; mouth - slightly weak with maximum effort
+
+### Grade IV
+
+- **Dysfunction**: moderately severe
+- **Gross weakness**: obvious weakness and/or disfiguring asymmetry
+- **At rest**: normal symmetry and tone
+- **Motion**: forehead - none; mouth - asymmetric with maximum effort
+
+### Grade V
+
+- **Dysfunction**: severe
+- **Gross weakness**: only barely perceptible motion
+- **At rest**: asymmetry
+- **Motion**: forehead - none; mouth - slight movement
+
+### Grade VI
+
+- **Dysfunction**: total paralysis
+- **Gross weakness**: no movement
+- **At rest**: asymmetry
+- **Motion**: none for all groups
 
 ## References
 

@@ -17,52 +17,52 @@ Side effects of vasoactive medications are related both to the direct mechanism 
 
 ### Phenylepherine
 
-**Primary Receptor:** α<sub>1</sub>
-**Primary Impact:** Increased SVR
-**Potentional Side Effects:** Reflexive decreased HR
-**Protypical Clinical Scenario:** Neurogenic shock
+- **Primary Receptor:** α<sub>1</sub>
+- **Primary Impact:** Increased SVR
+- **Potentional Side Effects:** Reflexive decreased HR
+- **Protypical Clinical Scenario:** Neurogenic shock
 
 ### Vasopressin
 
-**Primary Receptor:** V
-**Primary Impact:** Increased SVR
-**Potentional Side Effects:** Decreased splanchnic flow
-**Protypical Clinical Scenario:** Adjunct for septic shock
+- **Primary Receptor:** V
+- **Primary Impact:** Increased SVR
+- **Potentional Side Effects:** Decreased splanchnic flow
+- **Protypical Clinical Scenario:** Adjunct for septic shock
 
 ### Dobutamine
 
-**Primary Receptor:** β<sub>1</sub>, β<sub>2 </sub>
-**Primary Impact:** Increased inotropy
-**Potentional Side Effects:** Transient decreases in SVR (β<sub>2 agonism)
-**Protypical Clinical Scenario:** Cardiogenic shock from late-stage heart failure
+- **Primary Receptor:** β<sub>1</sub>, β<sub>2 </sub>
+- **Primary Impact:** Increased inotropy
+- **Potentional Side Effects:** Transient decreases in SVR (β<sub>2 agonism)
+- **Protypical Clinical Scenario:** Cardiogenic shock from late-stage heart failure
 
 ### Dopamine (low-dose)
 
-**Primary Receptor:** D, β<sub>1</sub>
-**Primary Impact:** Increased inotropy and heart rate
-**Potentional Side Effects:** Tachydysrhythmias
-**Protypical Clinical Scenario:** Cardiogenic shock, particularly if bradycardic
+- **Primary Receptor:** D, β<sub>1</sub>
+- **Primary Impact:** Increased inotropy and heart rate
+- **Potentional Side Effects:** Tachydysrhythmias
+- **Protypical Clinical Scenario:** Cardiogenic shock, particularly if bradycardic
 
 ### Dopamine (high-dose)
 
-**Primary Receptor:** D, α<sub>1</sub>, β<sub>1</sub>>> β<sub>2</sub>
-**Primary Impact:** Increased SVR and inotropy
-**Potentional Side Effects:** Tachydysrhythmias and decreased splanchnic/renal flow
-**Protypical Clinical Scenario:** Bradycardic cardiovascular collapse
+- **Primary Receptor:** D, α<sub>1</sub>, β<sub>1</sub>>> β<sub>2</sub>
+- **Primary Impact:** Increased SVR and inotropy
+- **Potentional Side Effects:** Tachydysrhythmias and decreased splanchnic/renal flow
+- **Protypical Clinical Scenario:** Bradycardic cardiovascular collapse
 
 ### Epinephrine
 
-**Primary Receptor:** α<sub>1</sub>, α<sub>2, </sub>β<sub>1</sub>, β<sub>2 </sub>
-**Primary Impact:** Increased SVR and inotropy
-**Potentional Side Effects:** Tachydysrhythmias and decreased splanchnic flow
-**Protypical Clinical Scenario:** Anaphylaxis
+- **Primary Receptor:** α<sub>1</sub>, α<sub>2, </sub>β<sub>1</sub>, β<sub>2 </sub>
+- **Primary Impact:** Increased SVR and inotropy
+- **Potentional Side Effects:** Tachydysrhythmias and decreased splanchnic flow
+- **Protypical Clinical Scenario:** Anaphylaxis
 
 ### Norepinephrine
 
-**Primary Receptor:** α<sub>1</sub>, α<sub>2</sub>, β<sub>1</sub>>> β<sub>2 </sub>
-**Primary Impact:** Increased SVR and inotropy  
-**Potentional Side Effects:** Decreased splanchnic and renal flow
-**Protypical Clinical Scenario:** Septic shock
+- **Primary Receptor:** α<sub>1</sub>, α<sub>2</sub>, β<sub>1</sub>>> β<sub>2 </sub>
+- **Primary Impact:** Increased SVR and inotropy  
+- **Potentional Side Effects:** Decreased splanchnic and renal flow
+- **Protypical Clinical Scenario:** Septic shock
 
 ## References
 

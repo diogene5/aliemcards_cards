@@ -15,53 +15,53 @@ updated: null
 
 | Medication    | Dose                       |
 | ------------- | -------------------------- |
-| Acetaminophen | 500-1000 mg PO             |
-|               | 1000 mg IV over 15 minutes |
-|               | 650 mg PR                  |
-| Ibuprofen     | 400-600 mg PO              |
-| Naproxen      | 250-500 mg PO              |
-| Ketorolac     | 10 mg PO or 10-15 mg IV    |
-| Indomethacin  | 25-50 mg PO                |
+| <span class="drug">Acetaminophen</span> | 500-1000 mg PO             |
+| &nbsp;              | 1000 mg IV over 15 minutes |
+| &nbsp;              | 650 mg PR                  |
+| <span class="drug">Ibuprofen</span>     | 400-600 mg PO              |
+| <span class="drug">Naproxen</span>      | 250-500 mg PO              |
+| <span class="drug">Ketorolac</span>     | 10 mg PO or 10-15 mg IV    |
+| <span class="drug">Indomethacin</span>  | 25-50 mg PO                |
 
 ## Non-Opioids
 
-| Medication                        | Dose                                                                           |
-| --------------------------------- | ------------------------------------------------------------------------------ |
-| Lidocaine 1%                      | **Local/regional anesthetic**<br>Max: 4 mg/kg; 7 mg/kg with epinephrine        |
-|                                   | **Intra-articular**<br>5-20 mL                                                 |
-| Lidocaine 2%                      | **Local/regional anesthetic**<br>Max: 4 mg/kg; 7 mg/kg with epinephrine        |
-| Lidoderm 5% patch                 | Apply on skin                                                                  |
-| Bupivacaine 0.25-0.5%             | **Local/regional anesthetic**<br>Max dose: 2.5 mg/kg; 3 mg/kg with epinephrine |
-| Triamcinolone                     | **Intra-articular**<br>2.5-40 mg                                               |
-| Gabapentin                        | 100-300 mg PO                                                                  |
-| Pregabalin                        | 25 mg PO                                                                       |
-| Ketamine - _Subdissociative dose_ | 0.3 mg/kg IV in 100 mL NS over 10 min                                          |
-|                                   | **Continuous infusion**: 0.15 mg/kg/hr IV (100 mg in 100 mL NS)                |
-|                                   | 1 mg/kg IN (no more than 1 mL per nostril)                                     |
+| Medication | Dose |
+| ---- | ---------------------- |
+| <span class="drug">Lidocaine</span> 1% | **Local/regional anesthetic**<br>Max: 4 mg/kg; 7 mg/kg with epinephrine |
+|  &nbsp;                     | **Intra-articular**<br>5-20 mL                                                 |
+| <span class="drug">Lidocaine</span> 2% | **Local/regional anesthetic**<br>Max: 4 mg/kg; 7 mg/kg with epinephrine |
+| <span class="drug">Lidoderm</span> 5% p| Apply on skin                                                           |
+| <span class="drug">Bupivacaine</span> 0.25-0.5% | **Local/regional anesthetic**<br>Max dose: 2.5 mg/kg; 3 mg/kg with epinephrine |
+| <span class="drug">Triamcinolone</span>| **Intra-articular**<br>2.5-40 mg                                        |
+| <span class="drug">Gabapentin</span>   | 100-300 mg PO                                                           |
+| <span class="drug">Pregabalin</span>   | 25 mg PO                                                                |
+| <span class="drug">Ketamine</span><br>_Subdissociative dose_| 0.3 mg/kg IV in 100 mL NS over 10 min    |
+|  &nbsp;                     | **Continuous infusion**: 0.15 mg/kg/hr IV (100 mg in 100 mL NS)                |
+|  &nbsp;                     | 1 mg/kg IN (no more than 1 mL per nostril)                                     |
 
 ## Opioids
 
 | Medication                                  | Dose                                                                              |
 | ------------------------------------------- | --------------------------------------------------------------------------------- |
-| Oxycodone (5 mg tablet)                     | 1-2 tabs PO                                                                       |
-| Hydrocodone (5 mg tablet)                   | 1-2 tabs PO                                                                       |
-| Oxycodone/acetaminophen (5/325 mg tablet)   | 1-2 tabs PO                                                                       |
-| Hydrocodone/acetaminophen (5/325 mg tablet) | 1-2 tabs PO                                                                       |
-| Hydrocodone/ibuprofen (2.5/200 mg tablet)   | 1-2 tabs PO                                                                       |
-| Morphine IR (15 mg tablet)                  | 1-2 tabs PO                                                                       |
-| Hydromorphone                               | **Weight-based:** 0.015 mg/kg IV titrate Q 15 min                                 |
-|                                             | **Fixed dose:** 1 mg IV titrate Q 10-15 min                                       |
-|                                             | 2-4 mg IM                                                                         |
-|                                             | 2-4 mg PO                                                                         |
-| Morphine                                    | **Weight-based:** 0.1 mg/kg IV titrate Q 20 min                                   |
-|                                             | **Fixed dose:** 5 mg IV titrate Q 10-15 min                                       |
-|                                             | **Fixed dose infusion:** 10 mg IV in 100 mL NS over 10 min titrate Q 20-30 min    |
-|                                             | 10-20 mg nebulized with 3 mL NS                                                   |
-| Fentanyl                                    | **Weight-based:** 1-1.5 mcg/kg IV in 100 mL NS over 5-10 min                      |
-|                                             | **Fixed dose:** 50-100 mcg IV in 100 mL NS over 10 min                            |
-|                                             | 1-2 mcg/kg IN (no more than 1 mL per nostril)                                     |
-|                                             | 2-4 mcg/kg nebulized                                                              |
-| Naloxone                                    | (for opioid-induced pruritus) 0.25-0.5 mcg/kg/hr IV (2 mg naloxone in 100 mL  NS) |
+| <span class="drug">Oxycodone</span> (5 mg tablet)                     | 1-2 tabs PO                                                                       |
+| <span class="drug">Hydrocodone</span> (5 mg tablet)                   | 1-2 tabs PO                                                                       |
+| <span class="drug">Oxycodone/acetaminophen</span> (5/325 mg tablet)   | 1-2 tabs PO                                                                       |
+| <span class="drug">Hydrocodone/acetaminophen</span> (5/325 mg tablet) | 1-2 tabs PO                                                                       |
+| <span class="drug">Hydrocodone/ibuprofen</span> (2.5/200 mg tablet)   | 1-2 tabs PO                                                                       |
+| <span class="drug">Morphine</span> IR (15 mg tablet)                  | 1-2 tabs PO                                                                       |
+| <span class="drug">Hydromorphone</span>                               | **Weight-based:** 0.015 mg/kg IV titrate Q 15 min                                 |
+| &nbsp;                                                                | **Fixed dose:** 1 mg IV titrate Q 10-15 min                                       |
+| &nbsp;                                                                | 2-4 mg IM                                                                         |
+| &nbsp;                                                                | 2-4 mg PO                                                                         |
+| <span class="drug">Morphine</span>                                    | **Weight-based:** 0.1 mg/kg IV titrate Q 20 min                                   |
+| &nbsp;                                                                | **Fixed dose:** 5 mg IV titrate Q 10-15 min                                       |
+| &nbsp;                                                                | **Fixed dose infusion:** 10 mg IV in 100 mL NS over 10 min titrate Q 20-30 min    |
+| &nbsp;                                                                | 10-20 mg nebulized with 3 mL NS                                                   |
+| <span class="drug">Fentanyl</span>                                    | **Weight-based:** 1-1.5 mcg/kg IV in 100 mL NS over 5-10 min                      |
+| &nbsp;                                                                | **Fixed dose:** 50-100 mcg IV in 100 mL NS over 10 min                            |
+| &nbsp;                                                                | 1-2 mcg/kg IN (no more than 1 mL per nostril)                                     |
+| &nbsp;                                                                | 2-4 mcg/kg nebulized                                                              |
+| <span class="drug">Naloxone</span>                                    | (for opioid-induced pruritus) 0.25-0.5 mcg/kg/hr IV (2 mg naloxone in 100 mL  NS) |
 
 # Pain Syndromes
 
@@ -69,38 +69,38 @@ updated: null
 
 | Medication     | Dose                     |
 | -------------- | ------------------------ |
-| Ketorolac      | 10-15 mg IV              |
-| Rescue Opioids | Morphine or Fentanyl IV  |
+| <span class="drug">Ketorolac</span>      | 10-15 mg IV              |
+| Rescue Opioids | <span class="drug">Morphine</span> or <span class="drug">Fentanyl</span> IV  |
 
 ## Abdominal Pain (traumatic)
 
 | Medication     | Dose                                      |
 | -------------- | ----------------------------------------- |
-| Opioids        | Morphine or Fentanyl IV                   |
-| Acetaminophen  | 1 g IV over 15 min (adjunct to opioids)   |
+| Opioids        | <span class="drug">Morphine</span> or <span class="drug">Fentanyl</span> IV                   |
+| <span class="drug">Acetaminophen</span>  | 1 g IV over 15 min (adjunct to opioids)   |
 
 ## Back Pain (acute)
 
 | Medication    | Dose                      |
 | ------------- | ------------------------- |
-| NSAID         | Ibuprofen or naproxen     |
-| Methocarbamol | 1500 mg PO                |
-| Diazepam      | 5 mg PO                   |
+| NSAID         | <span class="drug">Ibuprofen</span> or <span class="drug">naproxen</span>     |
+| <span class="drug">Methocarbamol</span> | 1500 mg PO                |
+| <span class="drug">Diazepam</span>      | 5 mg PO                   |
 
 ## Back Pain (chronic)
 
 | Medication        | Dose                            |
 | ----------------- | ------------------------------- |
-| Gabapentin        | 100-300 mg PO                   |
-| Pregabalin        | 25 mg PO                        |
-| Lidoderm 5% Patch | No more than 4 patches in 24 hr |
+| <span class="drug">Gabapentin</span>        | 100-300 mg PO                   |
+| <span class="drug">Pregabalin</span>        | 25 mg PO                        |
+| <span class="drug">Lidoderm</span> 5% Patch | No more than 4 patches in 24 hr |
 
 ## Dental Pain
 
 | Medication     | Dose                                                                |
 | -------------- | ------------------------------------------------------------------- |
-| NSAID          | Ibuprofen or naproxen                                               |
-| Dental Blocks  | 5 mL of Lidocaine (1-2%) **or**<br> 2 mL of Bupivacaine (0.25-0.5%) |
+| NSAID          | <span class="drug">Ibuprofen</span> or <span class="drug">naproxen</span>                                               |
+| Dental Blocks  | 5 mL of <span class="drug">Lidocaine</span> (1-2%) **or**<br> 2 mL of <span class="drug">Bupivacaine</span> (0.25-0.5%) |
 
 ## Headache
 
@@ -108,48 +108,48 @@ updated: null
 
 | Medication                                            | Dose                     |
 | ----------------------------------------------------- | ------------------------ |
-| NSAID                                                 | Ibuprofen or naproxen    |
+| NSAID                                                 | <span class="drug">Ibuprofen</span> or <span class="drug">naproxen</span>    |
 | Butalbital/ acetaminophen/caffeine<br>(50/325/40 mg)  | 1-2 tabs PO              |
-| Metoclopramide                                        | 10 mg PO                 |
+| <span class="drug">Metoclopramide</span>                                        | 10 mg PO                 |
 
 ### Parenteral (in preferred order)
 
 | Medication        | Dose                                      |
 | ----------------- | ----------------------------------------- |
-| Metoclopramide    | 10 mg IV (Slow drip over 10-15 min)       |
-| Diphenhydramine   | 25-50 mg IV                               |
-| Prochlorperazine  | 10 mg IV                                  |
-| Chlorpromazine    | 0.1 mg/kg IV                              |
-| Sumatriptan       | 6 mg SQ, repeat with 12 mg SQ (after 1 h) |
-| Dihydroergotamine | 0.25 mg IV, repeat with 1 mg (after 1 h)  |
-| Valproate         | 300-1000 mg IV (over 30 min)              |
-| Magnesium         | 2 gm IV (30-60 min)                       |
-| Droperidol        | 1-2.5 mg IV <br>2.5-8 mg IM               |
-| Haloperidol       | 2.5-5 mg IV                               |
+| <span class="drug">Metoclopramide</span>    | 10 mg IV (Slow drip over 10-15 min)       |
+| <span class="drug">Diphenhydramine</span>   | 25-50 mg IV                               |
+| <span class="drug">Prochlorperazine</span>  | 10 mg IV                                  |
+| <span class="drug">Chlorpromazine</span>    | 0.1 mg/kg IV                              |
+| <span class="drug">Sumatriptan</span>       | 6 mg SQ, repeat with 12 mg SQ (after 1 h) |
+| <span class="drug">Dihydroergotamine</span> | 0.25 mg IV, repeat with 1 mg (after 1 h)  |
+| <span class="drug">Valproate</span>         | 300-1000 mg IV (over 30 min)              |
+| <span class="drug">Magnesium</span>         | 2 gm IV (30-60 min)                       |
+| <span class="drug">Droperidol</span>        | 1-2.5 mg IV <br>2.5-8 mg IM               |
+| <span class="drug">Haloperidol</span>       | 2.5-5 mg IV                               |
 
 ## Regional Nerve Blocks
 
 | Medication            | Dose                                                                 |
 | --------------------- | -------------------------------------------------------------------- |
-| Paracervical block    | 5 mL of Lidocaine (1-2%) **or**<br>2-3 mL of Bupivacaine (0.25-0.5%) |
-| Occipital nerve block | 5 mL of Lidocaine (1-2%) **or**<br>2-3 mL of Bupivacaine (0.25-0.5%) |
+| Paracervical block    | 5 mL of <span class="drug">Lidocaine</span> (1-2%) **or**<br>2-3 mL of <span class="drug">Bupivacaine</span> (0.25-0.5%) |
+| Occipital nerve block | 5 mL of <span class="drug">Lidocaine</span> (1-2%) **or**<br>2-3 mL of <span class="drug">Bupivacaine</span> (0.25-0.5%) |
 
 ## Musculoskeletal Pain (non-traumatic)
 
 | Medication            | Dose                                          |
 | --------------------- | --------------------------------------------- |
-| NSAID                 | Ibuprofen, naproxen, or indomethacin          |
-| Local/Regional Blocks | Lidocaine or bupivacaine ± epinephrine        |
-| Neuropathic Pain      | Gabapentin 100 mg PO<br>Pregabalin 25 mg PO   |
-| NSAID                 | Ibuprofen, naproxen, or indomethacin          |
+| NSAID                 | <span class="drug">Ibuprofen</span>, <span class="drug">naproxen</span>, or <span class="drug">indomethacin</span>          |
+| Local/Regional Blocks | <span class="drug">Lidocaine</span> or <span class="drug">bupivacaine</span> ± <span class="drug">epinephrine</span>        |
+| Neuropathic Pain      | <span class="drug">Gabapentin</span> 100 mg PO<br><span class="drug">Pregabalin</span> 25 mg PO   |
+| NSAID                 | <span class="drug">Ibuprofen</span>, <span class="drug">naproxen</span>, or <span class="drug">indomethacin</span>          |
 | Lidoderm 5% patch     | Apply on skin                                 |
 
 ## Renal Colic
 
 | Medication     | Dose                     |
 | -------------- | ------------------------ |
-| Ketorolac      | 10-15 mg IV              |
-| Rescue Opioids | Morphine or Fentanyl IV  |
+| <span class="drug">Ketorolac</span>      | 10-15 mg IV              |
+| Rescue Opioids | <span class="drug">Morphine</span> or <span class="drug">Fentanyl</span> IV  |
 
 ## Sickle Cell Pain Crisis
 
@@ -157,22 +157,22 @@ updated: null
 
 | Medication     | Dose                                 |
 | -------------- | ------------------------------------ |
-| Opioids        | Morphine, fentanyl, or hydromorphone |
-| Ketorolac      | 10-15 mg IV                          |
+| Opioids        | <span class="drug">Morphine</span>, <span class="drug">fentanyl</span>, or <span class="drug">hydromorphone</span> |
+| <span class="drug">Ketorolac</span>      | 10-15 mg IV                          |
 
 ### Subcutaneous (SQ)
 
 | Medication     | Dose                                                       |
 | -------------- | ---------------------------------------------------------- |
-| Morphine       | 0.1 mg/kg or 5 mg SQ fixed dose with titration Q 10-15 min |
-| Hydromorphone  | 1-1.5 mg SQ with titration Q 15 min                        |
+| <span class="drug">Morphine</span>       | 0.1 mg/kg or 5 mg SQ fixed dose with titration Q 10-15 min |
+| <span class="drug">Hydromorphone</span>  | 1-1.5 mg SQ with titration Q 15 min                        |
 
 ### Intranasal (IN) / Nebulized
 
 | Medication     | Dose                             |
 | -------------- | -------------------------------- |
-| Fentanyl       | 1-2 mcg/kg IN titrate Q 5-10 min |
-| Fentanyl       | 2-4 mcg/kg nebulized single dose |
+| <span class="drug">Fentanyl</span>       | 1-2 mcg/kg IN titrate Q 5-10 min |
+| <span class="drug">Fentanyl</span>       | 2-4 mcg/kg nebulized single dose |
 
 _Intramuscular (IM) route is DISCOURAGED!_
 
@@ -180,15 +180,15 @@ _Intramuscular (IM) route is DISCOURAGED!_
 
 | Medication                         | Dose                                                                                                                                                              |
 | ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Local/Regional Blocks              | Lidocaine or bupivacaine ± epinephrine                                                                                                                            |
-| Opioids                            | Morphine or Fentanyl                                                                                                                                              |
-| Ketorolac                          | 10-15 mg IV                                                                                                                                                       |
-| Acetaminophen                      | 1 g IV over 15 min (adjunct to opioids/NSAIDS/ketamine)                                                                                                           |
-| Ketamine<br>_Subdissociative dose_ | 0.3 mg/kg IV in 100 mL NS over 10 min<br>**Continuous infusion**: 0.15 mg/kg/hr IV (100 mg in 100 mL NS)<br>**Intrnasal** 1 mg/kg (no more than 1 mL per nostril) |
+| Local/Regional Blocks              | <span class="drug">Lidocaine</span> or <span class="drug">bupivacaine</span> ± <span class="drug">epinephrine</span>                                                                                                                            |
+| Opioids                            | <span class="drug">Morphine</span> or <span class="drug">Fentanyl</span>                                                                                                                                              |
+| <span class="drug">Ketorolac</span>                          | 10-15 mg IV                                                                                                                                                       |
+| <span class="drug">Acetaminophen</span>                      | 1 g IV over 15 min (adjunct to opioids/NSAIDS/ketamine)                                                                                                           |
+| <span class="drug">Ketamine</span><br>_Subdissociative dose_ | 0.3 mg/kg IV in 100 mL NS over 10 min<br>**Continuous infusion**: 0.15 mg/kg/hr IV (100 mg in 100 mL NS)<br>**Intrnasal** 1 mg/kg (no more than 1 mL per nostril) |
 
 ## Opiate-Tolerant Patient or Refractory/Intractable Pain
 
-Consider subdissociative dosing of ketamine.
+Consider subdissociative dosing of <span class="drug">ketamine</span>.
 
 ## References
 - Andolfatto G, Willman E, Joo D. Intranasal ketamine for analgesia in the emergency department: a prospective observational series. Acad Emerg Med. 2013; 20(10):1050-4. [[Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/24127709)]

@@ -16,133 +16,109 @@ updated: null
 
 ## Differential diagnosis of genital ulcers
 
-| **Infectious (more common)**      | **Non-infectious (less common)** |
-| --------------------------------- | -------------------------------- |
-| Genital herpes simple virus (HSV) | Behcet syndrome                  |
-| Syphilis                          | Fixed drug eruption              |
-| Chancroid                         | Psoriasis                        |
-| Lymphogranuloma venereum          | Sexual trauma                    |
-| Granuloma inguinale (donovanosis) | Wegener granulomatosis           |
-| Fungal infection (eg. candida)    |                                  |
-| Secondary bacterial infection     |                                  |
+### Infectious (more common)
+
+- Genital herpes simple virus (HSV) 
+- Syphilis                          
+- Chancroid                         
+- Lymphogranuloma venereum          
+- Granuloma inguinale (donovanosis) 
+- Fungal infection (eg. candida)    
+- Secondary bacterial infection     
+
+### Non-infectious (less common)
+
+- Behcet syndrome                 
+- Fixed drug eruption
+- Psoriasis                       
+- Sexual trauma                   
+- Wegener granulomatosis          
+
+## Primary HSV
+
+- **Primary Lesion**: Vesicle, papule,ulcers, typically bilateral
+- **Border**: Erythematous,"punched out"
+- **Depth**: Superficial
+- **Base**: Red and smooth
+- **Secretion**: Serous
+- **Number of Lesions**: Bilateral, multiple, extensive lesion may coalesce
+- **Induration**: None
+- **Pain**: Common 
+- **Itching**: Common
+- **Lymph Nodes**: Tender, firm, bilateral inguinal adenopathy
+- **Incubation Period**: 2-14 days
+- **Time Course**: 21 days
+- **Diagnostic Test**: Viral culture
+
+## Recurrent HSV
+
+- **Primary Lesion**: Grouped vesicles, papules, ulcers, typically unilateral 
+- **Border**: Erythematous,"punched out"
+- **Depth**: Superficial
+- **Base**: Red and smooth
+- **Secretion**: Serous
+- **Number of Lesions**: Usually unilateral; labia, penis, scrotum, buttocks, perianal
+- **Induration**: None
+- **Pain**: Common, less severe
+- **Itching**: Common
+- **Lymph Nodes**: Lymphadenopathy, uncommon, unilateral
+- **Incubation Period**: Recurrence within 6-9 months of primary infection 
+- **Time Course**: 7-10 days
+- **Diagnostic Test**: Viral culture is most sensitive, especially once vesicles rupture and ulcerate. If lesions are granulating, HSV cultures may be negative and HSV serology is useful to confirm etiology.
+
+## Syphilis
+
+- **Primary Lesion**: Ulcer, papule
+- **Border**: Sharply demarcated 
+- **Depth**: Superficial
+- **Base**: Red and smooth
+- **Secretion**: Serous
+- **Number of Lesions**: Vulva, penis, anal perianal, oral
+- **Induration**: Firm
+- **Pain**: Rare
+- **Itching**: Rare
+- **Lymph Nodes**: Nontender, firm, enlarged
+- **Incubation Period**: 10-90 days
+- **Time Course**: 2-3 weeks
+- **Diagnostic Test**: Darkfield microscopy, FTA-ABS, VDRL, RPR and DFA-TP
+
+## Chancroid
+
+- **Primary Lesion**: Ulcer, papule
+- **Border**: Violaceous, undermined
+- **Depth**: Excavated
+- **Base**: Yellow to gray exudate
+- **Secretion**: Purulent to hemorrhagic
+- **Number of Lesions**: Penis, vulva
+- **Induration**: Rare, usually soft
+- **Pain**: Often
+- **Itching**: Rare
+- **Lymph Nodes**: Tender, enlarged, may suppurate
+- **Incubation Period**: 1-14 days
+- **Time Course**: 2-3 weeks
+- **Diagnostic Test**: Culture of *Haemophilus ducreyi*; Gram stain of pus aspirate from lymph node
+
+## LGV
+
+- **Primary Lesion**: Papule, pustule, ulcer
+- **Border**: Variable
+- **Depth**: Superficial
+- **Base**: Variable
+- **Secretion**: Variable
+- **Number of Lesions**: Urethra, cervix, rectum
+- **Induration**: None
+- **Pain**: Variable
+- **Itching**: Rare
+- **Lymph Nodes**: Inguinal and femoral lymphadenopathy: tender, may suppurate
+- **Incubation Period**: 3-21 days
+- **Time Course**: 1-2 weeks
+- **Diagnostic Test**: Isolation of *Chlamydia trachomatis* from urethra, cervix, rectum or lymph node aspirate; complement fixation serology ≥ 1/64
+
 
 [National Coalition of STD Director Fact Sheets](http://www.ncsddc.org/publications)
 From “The Practitioner’s Handbook for the Management of STDs” (4th ed, 2007):
 
-<table>
-  <tr>
-    <th></th>
-    <th>Primary HSV</th>
-    <th>Recurrent HSV</th>
-    <th>Syphilis</th>
-    <th>Chancroid</th>
-    <th>LGV</th>
-  </tr>
-  <tr>
-    <td><b>Primary lesion</b></td>
-    <td>Vesicle, papule,ulcers, typically bilateral</td>
-    <td>Grouped vesicles, papules, ulcers, typically unilateral  </td>
-    <td>Ulcer, papule</td>
-    <td>Ulcer, papule</td>
-    <td>Papule, pustule, ulcer</td>
-  </tr>
-  <tr>
-    <td><b>Border</b></td>
-    <td>Erythematous,"punched out"  </td>
-    <td>Erythematous,"punched out"</td>
-    <td>Sharply demarcated </td>
-    <td>Violaceous, undermined</td>
-    <td>Variable</td>
-  </tr>
-  <tr>
-    <td><b>Depth</b></td>
-    <td>Superficial</td>
-    <td>Superficial</td>
-    <td>Superficial</td>
-    <td>Excavated</td>
-    <td>Superficial</td>
-  </tr>
-  <tr>
-    <td><b>Base</b></td>
-    <td>Red and smooth</td>
-    <td>Red and smooth</td>
-    <td>Red and smooth</td>
-    <td>Yellow to gray exudate</td>
-    <td>Variable</td>
-  </tr>
-  <tr>
-    <td><b>Secretion</b></td>
-    <td>Serous</td>
-    <td>Serous</td>
-    <td>Serous</td>
-    <td>Purulent to hemorrhagic</td>
-    <td>Variable</td>
-  </tr>
-  <tr>
-    <td><b>Number of Lesions</b></td>
-    <td>Bilateral, multiple, extensive lesion may coalesce</td>
-    <td>Usually unilateral; labia, penis, scrotum, buttocks, perianal</td>
-    <td>Vulva, penis, anal perianal, oral</td>
-    <td>Penis, vulva</td>
-    <td>Urethra, cervix, rectum</td>
-  </tr>
-  <tr>
-    <td><b>Induration</b></td>
-    <td>None</td>
-    <td>None</td>
-    <td>Firm</td>
-    <td>Rare, usually soft</td>
-    <td>None</td>
-  </tr>
-  <tr>
-    <td><b>Pain</b></td>
-    <td>Common</td>
-    <td>Common, less severe</td>
-    <td>Rare</td>
-    <td>Often</td>
-    <td>Variable</td>
-  </tr>
-  <tr>
-    <td><b>Itching</b></td>
-    <td>Common</td>
-    <td>Common</td>
-    <td>Rare</td>
-    <td>Rare</td>
-    <td>Rare</td>
-  </tr>
-  <tr>
-    <td><b>Lymph Nodes</b></td>
-    <td>Tender, firm, bilateral inguinal adenopathy</td>
-    <td>Lymphadenopathy, uncommon, unilateral</td>
-    <td>Nontender, firm, enlarged</td>
-    <td>Tender, enlarged, may suppurate</td>
-    <td>Inguinal and femoral lymphadenopathy: tender, may suppurate</td>
-  </tr>
-  <tr>
-    <td><b>Incubation Period</b></td>
-    <td>2-14 days</td>
-    <td>Recurrence within 6-9 months of primary infection </td>
-    <td>10-90 days</td>
-    <td>1-14 days</td>
-    <td>3-21 days</td>
-  </tr>
-  <tr>
-    <td><b>Time Course</b></td>
-    <td>21 days</td>
-    <td>7-10 days</td>
-    <td>2-3 weeks</td>
-    <td>2-3 weeks</td>
-    <td>1-2 weeks</td>
-  </tr>
-  <tr>
-    <td><b>Diagnostic Test</b></td>
-    <td>Viral culture</td>
-    <td>Viral culture is most sensitive, especially once vesicles rupture and ulcerate. If lesions are granulating, HSV cultures may be negative and HSV serology is useful to confirm etiology.</td>
-    <td>Darkfield microscopy, FTA-ABS, VDRL, RPR and DFA-TP</td>
-    <td>Culture of <i>Haemophilus ducreyi</i>; Gram stain of pus aspirate from lymph node</td>
-    <td>Isolation of <i>Chlamydia trachomatis</i> from urethra, cervix, rectum or lymph node aspirate; complement fixation serology &ge; 1/64</td>
-  </tr>
-</table>
+
 
 ## References
 

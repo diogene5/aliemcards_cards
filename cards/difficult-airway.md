@@ -32,18 +32,18 @@ updated: null
 
 ## Difficult extraglottic device (RODS)
 
-- **R**estricted mouth opening          
-- **O**bstruction                       
-- **D**isrupted or **D**istorted airway 
-- **S**tiff lung, cervical **S**pine    
+- Restricted mouth opening          
+- Obstruction                       
+- Disrupted or Distorted airway 
+- Stiff lung, cervical Spine    
 
 ## Difficult cricothyrotomy (SHORT)
 
-- **S**urgery or other airway obstruction        
-- **H**ematoma (includes infection & abscess)    
-- **O**besity                                    
-- **R**adiation distortion (and other deformity) 
-- **T**umor                                      
+- Surgery or other airway obstruction       
+- Hematoma (includes infection & abscess)   
+- Obesity                                   
+- Radiation distortion (and other deformity)
+- Tumor                                      
 
 ## References
 

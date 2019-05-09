@@ -15,7 +15,7 @@ updated: null
 ## Testing Motor Function by Level
 
 | Nerve Level |  Motor Function |
-| ----- | --- |
+|-------|-----|
 | C1-C4 | Spontaneous breathing |
 | C5 | Shoulder abduction (deltoid) |
 | C6 | Wrist extension (carpi radialis longus and brevis) |

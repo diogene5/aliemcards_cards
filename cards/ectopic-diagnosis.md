@@ -51,7 +51,7 @@ Systematic review based on 14 studies (n=12,101) with a summary prevalence of ec
 - The "discriminatory zone" continues to be debated - no consensus on the number
 - A one-time hCG level does not rule out ectopic pregnancy
 
-**CONCLUSIONS: **
+**CONCLUSIONS:**
 
 1. **Transvaginal ultrasound** is the single-best test to assess for ectopic pregnancy.
 2. Patient symptoms have limited risk-stratification value.

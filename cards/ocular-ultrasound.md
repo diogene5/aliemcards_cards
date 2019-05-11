@@ -1,5 +1,5 @@
 ---
-title: 'Ultrasound: Ocular Assessment'
+title: 'Ultrasound - Ocular Assessment'
 authors:
   - author: 'Sarah Elisabeth Frasure, MD'
   - author: 'Mike Stone, MD'

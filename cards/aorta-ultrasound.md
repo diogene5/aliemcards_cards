@@ -1,5 +1,5 @@
 ---
-title: 'Ultrasound: Focused Abdominal Aorta Ultrasound'
+title: 'Ultrasound - Focused Abdominal Aorta Ultrasound'
 authors:
   - author: 'Victoria Koskenoja, MD'
   - author: 'Heidi Kimberly, MD'

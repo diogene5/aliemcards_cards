@@ -37,7 +37,7 @@ The basic approach in the flowchart: 
 3. If there are no high-risk findings, check to see if the patient qualifies as a low-risk candidate where you might be able to clinically clear the c-spine without imaging.
 4. If the patient is neither high or low risk, then the patient is moderate risk and requires imaging.
 
-![Canadian C-spine Rule flowchart](media/cspine-rules_image-2.png)
+![Canadian C-spine Rule flowchart](media/cspine-rules_image-1.png)
 
 ## References
 

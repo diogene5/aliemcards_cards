@@ -63,7 +63,8 @@ Systematic review based on 14 studies (n=12,101) with a summary prevalence of ec
 
 ## Fagan Nomogram
 
-![Fagan nomogram](media/ectopic-diagnosis_image-2.png)
+![Fagan nomogram](media/ectopic-diagnosis_image-1.png)
+
 
 ## References
 

@@ -18,9 +18,9 @@ _**[Bolded effects** are of clinical significance in the ED, but not necessarily
 
 ## Examples of Clinical Differences Related to Receptor Profiles
 
-1. <span style="color:blue">**Haloperidol**</span> and <span style="color:blue">**risperidone**</span> are associated with extrapyramidal symptoms (EPS) related to their high potency at the D2 dopamine receptor.
-2. <span style="color:blue">**Olanzapine**</span> is more sedating than <span style="color:blue">**haloperidol**</span> because of tighter affinity at the H1 histamine receptor. It is also associated with significantly greater oxygen desaturation in the presence of alcohol intoxication likely related to this action.\[2]
-3. <span style="color:blue">**Quetiapine**</span> is a relatively weak antipsychotic at the D2 receptor, but does cause sedation related to relatively potent antihistamine activity. It is also associated with more orthostatic hypotension when taken at higher doses without titrating up.
+1. <span class="drug">**Haloperidol**</span> and <span class="drug">**risperidone**</span> are associated with extrapyramidal symptoms (EPS) related to their high potency at the D2 dopamine receptor.
+2. <span class="drug">**Olanzapine**</span> is more sedating than <span class="drug">**haloperidol**</span> because of tighter affinity at the H1 histamine receptor. It is also associated with significantly greater oxygen desaturation in the presence of alcohol intoxication likely related to this action.\[2]
+3. <span class="drug">**Quetiapine**</span> is a relatively weak antipsychotic at the D2 receptor, but does cause sedation related to relatively potent antihistamine activity. It is also associated with more orthostatic hypotension when taken at higher doses without titrating up.
 
 ## Receptor Binding Affinities (Ki) of Selected Antipsychotics \[1]
 

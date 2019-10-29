@@ -10,7 +10,10 @@ import { extract_frontmatter, slugify, stringify } from './utils'
 function parseCard(slug: string, contents: string): Card {
   const { body, ...frontmatter } = extract_frontmatter(contents);
   const formatted_body = body
-    .replace(config.REGEX.image_url, `${config.IMG_URL_PREFIX}/$&`);
+    .replace(config.REGEX.image_url, (match, p1) => {
+      if (p1 == '/') return config.IMG_URL_PREFIX + match;
+      return config.IMG_URL_PREFIX + '/' + match;
+    });
   return { slug, ...frontmatter, body: formatted_body }
 }
 

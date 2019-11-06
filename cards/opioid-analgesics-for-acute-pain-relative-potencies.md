@@ -12,7 +12,9 @@ updated: ''
 
 Many opioid conversion tables exist to transition, or rotate, between existing chronic pain regimens. The data used in these tables are derived from both single-dose and chronic, steady-state opioid regimens that may not be applicable in the Emergency Department. The information below is taken when possible from published evidence using single dose or acute pain as encountered in the ED.
 
-![](/media/opioid-conversation-table.png)
+![Opioid Conversation Table](/media/opioid-conversation-table.png "Opioid Conversation Table")
+
+_\* Not half-life time_
 
 ## Not recommended for opioid-equivalent conversion in the acute setting
 

@@ -20,7 +20,7 @@ Corticosteroids are a group of hormones that can be classified by 2 primary mech
 | ------------------ | -------------------------- | ----------------------------- | ------------------------------------------ | --------------------- |
 | Hydrocortisone     | 1                          | 1                             | 20                                         | 8-12                  |
 | Prednisone         | 4                          | 0.8                           | 5                                          | 12-36                 |
-| Methylpredisolone  | 5                          | 0.5                           | 4                                          | 12-36                 |
+| Methylprednisolone | 5                          | 0.5                           | 4                                          | 12-36                 |
 | Dexamethasone      | 5                          | 0                             | 0.75                                       | 36-72                 |
 
 #### Table: Potency and pharmacokinetics of common systemic corticosteroids

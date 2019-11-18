@@ -16,14 +16,14 @@ Corticosteroids are a group of hormones that can be classified by 2 primary mech
 
 ## Clinical Implications \[1-7]
 
-| Corticosteroid | Glucocorticoid Potency | Mineralocorticoid Potency | Equivalent Anti-Inflammatory Dose (mg) | Half Life (hours) |
-| :------------------ | :--------------------------: | :-----------------------------: | :------------------------------------------: | :---------------------: |
-| Hydrocortisone     | 1                          | 1                             | 20                                         | 8-12                  |
-| Prednisone         | 4                          | 0.8                           | 5                                          | 12-36                 |
-| Methylprednisolone | 5                          | 0.5                           | 4                                          | 12-36                 |
-| Dexamethasone      | 5                          | 0                             | 0.75                                       | 36-72                 |
+| Corticosteroid     | Glucocorticoid Potency | Mineralocorticoid Potency | Equivalent Anti-Inflammatory Dose (mg) | Half Life (hours) |
+| ------------------ | ---------------------- | ------------------------- | -------------------------------------- | ----------------- |
+| Hydrocortisone     | 1                      | 1                         | 20                                     | 8-12              |
+| Prednisone         | 4                      | 0.8                       | 5                                      | 12-36             |
+| Methylprednisolone | 5                      | 0.5                       | 4                                      | 12-36             |
+| Dexamethasone      | 5                      | 0                         | 0.75                                   | 36-72             |
 
-#### Table: Potency and pharmacokinetics of common systemic corticosteroids
+#### Table: Relative potency and pharmacokinetics of common systemic corticosteroids
 
 * The anti-inflammatory effect of corticosteroids stems from the regulation of gene expression and subsequent changes in protein production. Because of this delayed clinical effect, for most indications intravenous (IV) and oral administration have a similar onset of action and efficacy.
 * For most asthma and COPD exacerbations requiring systemic steroids, the equivalent of <span class="drug">prednisone</span> 40-60 mg is recommended. If administered IV, the equivalent dose of <span class="drug">methylprednisolone</span> is 40 mg \[4]. 

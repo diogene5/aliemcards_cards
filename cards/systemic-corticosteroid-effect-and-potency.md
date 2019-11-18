@@ -15,7 +15,7 @@ Corticosteroids are a group of hormones that can be classified by 2 primary mech
 2. **Glucocorticoid activity** results in gluconeogenesis, lipolysis, and hyperglycemia. The glucocorticoid potency of a steroid is directly proportional to its anti-inflammatory potency. Anti-inflammatory effects from corticosteroids are related to reductions in pro-inflammatory cytokine levels as well as reductions in circulating lymphocytes, eosinophils, monocytes, and basophils. 
 
 | **Corticosteroid** | **Glucocorticoid Potency** | **Mineralocorticoid** | **Equivalent Anti-Inflammatory Dose (mg)** | **Half Life (hours)** |
-| ------------------ | -------------------------- | --------------------- | ------------------------------------------ | --------------------- |
+| :------------------ | :--------------------------: | :---------------------: | :------------------------------------------: | :---------------------: |
 | Hydrocortisone     | 1                          | 1                     | 20                                         | 8-12                  |
 | Prednisone         | 4                          | 0.8                   | 5                                          | 12-36                 |
 | Methylpredisolone  | 5                          | 0.5                   | 4                                          | 12-36                 |

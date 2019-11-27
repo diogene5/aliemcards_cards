@@ -17,7 +17,7 @@ Corticosteroids are a group of hormones that can be classified by 2 primary mech
 ## Clinical Implications \[1-7]
 
 | Corticosteroid     | Equivalent Anti-Inflammatory Dose (mg) | Half Life (hours) | Glucocorticoid Potency | Mineralocorticoid Potency |
-| ------------------ | -------------------------------------- | ----------------- | ---------------------- | ------------------------- |
+| :----------------- | :--------------------------------------: | :-----------------: | :----------------------: | :-------------------------: |
 | Hydrocortisone     | **20**                                 | 8-12              | 1                      | 1                         |
 | Prednisone         | **5**                                  | 12-36             | 4                      | 0.8                       |
 | Methylprednisolone | **4**                                  | 12-36             | 5                      | 0.5                       |

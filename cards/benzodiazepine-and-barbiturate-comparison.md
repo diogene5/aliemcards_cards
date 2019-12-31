@@ -8,7 +8,7 @@ categories:
 created: 2019/12/31
 updated: ''
 ---
-![Benzodiazepine Barbiturate Comparison Table](/media/Benzodiazepine-Barbiturate-Comparison-Table.png "Benzodiazepine Barbiturate Comparison Table")
+![Benzodiazepine Barbiturate Comparison Table](/media/Benzodiazepine-Barbiturate-Comparison-Tabl.png "Benzodiazepine Barbiturate Comparison Table")
 
 ## Clinical Implications [2,10]
 * All benzodiazepines and barbiturates are **metabolized by the liver**.

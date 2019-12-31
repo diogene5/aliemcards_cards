@@ -1,5 +1,5 @@
 ---
-title: Benzodiazepine and Barbiturate Comparison
+title: Benzodiazepine (and Barbiturate) Comparison
 authors:
   - author: 'Curtis Geier, PharmD'
 categories:
@@ -8,14 +8,15 @@ categories:
 created: 2019/12/31
 updated: ''
 ---
-# Benzodiazepine and Barbiturate Comparison
+[image]
 
 ## Clinical Implications [2,10]
-* All benzodiazepines and barbiturates are metabolized by the liver.
-  * Chlordiazepoxide, diazepam, midazolam, phenobarbital from the list above all undergo phase I metabolism (CYP450 system) and will have prolonged half-lives, and durations of effect with hepatic dysfunction. 
-  * Lorazepam is primarily metabolized via phase II metabolic pathways (glucuronidation) and will have less change in effect from hepatic disease.
+* All benzodiazepines and barbiturates are **metabolized by the liver**.
+  * Chlordiazepoxide, diazepam, midazolam, phenobarbital undergo phase I metabolism (CYP450 system) therefore will have prolonged half-lives and durations of effect with hepatic dysfunction.
 
-* Benzodiazepines exert their primary action in the central nervous system and drug permeability across the blood brain barrier is enhanced by the lipophilicity of the molecule. A more lipophilic benzodiazepine will have a quicker onset of action once in systemic circulation. 
+  * Lorazepam is primarily metabolized via phase II metabolic pathways (glucuronidation) therefore will have less change in effect from hepatic disease.
+
+* Benzodiazepines exert their primary action in the central nervous system and drug permeability across the blood brain barrier is enhanced by the lipophilicity of the molecule. *A more lipophilic benzodiazepine will have a quicker onset of action once in systemic circulation. *
   * Diazepam has the fastest onset when administered IV directly into systemic circulation. Lorazepam has a slightly slower onset, and midazolam slower yet when administered IV.
 
 * Lipophilicity also affects the rate of absorption via other routes of administration. A more lipophilic benzodiazepine is more slowly absorbed following intramuscular administration affecting the onset of action.

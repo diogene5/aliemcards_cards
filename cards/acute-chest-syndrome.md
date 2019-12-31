@@ -12,19 +12,19 @@ updated: ''
 ## Background
 
 * A leading cause of hospitalization and mortality in sickle cell patients
-* Upwards of half of sickle cell patients will develop
-* More common in HbSS but can develop in any phenotype
+* Up to half of sickle cell patients will develop
+* More common in HbSS but can occur in any phenotype
 * Higher incidence in children but *more severe and worse outcomes in adults*
 * Defined as combination of **fever and/or respiratory symptoms and a radiodensity on chest x-ray**
 
 ## Causes
 
-* Children: most commonly associated with infection or reactive airway disease/asthma
-  * Atypical bacteria and RSV
-  * Results in vaso-occlusion
-* Adults- bone marrow/fat emboli 
-  * Vaso-occlusion in bone marrow leads to ischemia and release of bone marrow/fat emboli into circulation
-  * Mechanical obstruction can occur in small vessels of lungs (and brain)
+* Children: most commonly associated with infection or reactive airway disease
+  * Atypical bacteria or RSV
+  * Inflammation results in pulmonary vaso-occlusion
+* Adults- bone marrow/fat emboli
+  * Vaso-occlusion in bone marrow leads to release of bone marrow/fat emboli into circulation
+  * Mechanical obstruction occurs in small vessels of lungs
 
 ## Pathophysiology
 
@@ -41,12 +41,12 @@ updated: ''
   * Fluoroquinolone
 * Blood transfusion 
   * Exchange transfusion has potential advantage- higher volume of pRBC to lower Hgb S percentage.
-  * Simple transfusion- should be used, regardless of severity, achieve goal of Hgb > 10 g/dL if anemia present
+  * Simple transfusion- should be used, regardless of severity, to achieve goal of Hgb > 10 g/dL if anemia present
 * Pain control
-  * Caution over-sedation that will worsen respiratory drive
+  * Caution over-sedation that can worsen respiratory drive
 * *Adjuncts*:
   * Bronchodilators can be considered for patients with reactive airway disease
-  * Glucocorticoids have been shown to decrease hospital stay, but are associated with re-admission
+  * Glucocorticoids shown to decrease hospital stay, but associated with re-admission
 
 >**All patients with suspected ACS should receive VTE prophylaxis unless contraindicated**
 

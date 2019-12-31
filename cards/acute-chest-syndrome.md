@@ -57,3 +57,10 @@ updated: ''
 * Treatment focuses on minimizing vaso-occlusion in pulmonary vasculature: O2, IVF, abx, pRBC
 
 * Although pulmonary infection is less common in adults, give antibiotics since cannot distinguish from embolic cause
+
+## References
+
+* Simon E, Long B, Koyfman A. Emergency Medicine Management of Sickle Cell Disease Complications: An Evidence-Based Update. *J Em Med*. 2016; 51(4):370-381. [[PubMed](http://www.ncbi.nlm.nih.gov/pubmed/?term=27553919)]
+* Porter M. Rapid Fire: Sickle Cell Disease. *Emerg Med Clin N Am*. 2018; 36: 567-576. [[PubMed] (http://www.ncbi.nlm.nih.gov/pubmed/?term=30037443)]
+* Farooq S, Omar MA, Salzman GA. Acute chest syndrome in sickle cell disease. *Hosp Prac*. Apr, 2018; 46(3): 144-151. [[PubMed] (http://www.ncbi.nlm.nih.gov/pubmed/?term=29648482)]
+* Lovett PB, Sule HP, Lopez BL. Sickle Cell Disease in the Emergency Department. *Hematol Oncol Clin N Am*. 2017; 31: 1061-1079. [[PubMed] (http://www.ncbi.nlm.nih.gov/pubmed/?term=29078924)]

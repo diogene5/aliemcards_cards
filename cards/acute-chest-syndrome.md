@@ -48,7 +48,7 @@ updated: ''
   * Bronchodilators can be considered for patients with reactive airway disease
   * Glucocorticoids shown to decrease hospital stay, but associated with re-admission
 
->**All patients with suspected ACS should receive VTE prophylaxis unless contraindicated**
+>*All patients with suspected ACS should receive VTE prophylaxis unless contraindicated*
 
 ## Bottom Line
 

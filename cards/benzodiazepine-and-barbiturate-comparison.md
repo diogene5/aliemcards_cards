@@ -14,10 +14,11 @@ updated: ''
 
 * All benzodiazepines and barbiturates are **metabolized by the liver**.
 
-  * Chlordiazepoxide, diazepam, midazolam, phenobarbital:
+  * <span class="drug">Chlordiazepoxide</span>, <span class="drug">diazepam</span>, <span class="drug">midazolam</span>, <span class ="drug">phenobarbital</span>:
 
     > Phase I metabolism (CYP450 system): Prolonged half-lives and durations of effect with hepatic dysfunction
-  * Lorazepam:
+
+  * <span class="drug">Lorazepam</span>:
 
     > Phase II metabolism (glucuronidation): Less effect on pharmacokinetics with hepatic dysfunction.
 
@@ -28,7 +29,7 @@ updated: ''
 
   * A more lipophilic benzodiazepine will have a quicker onset once in **systemic circulation**.
 
-    * IV speed of onset: Diazepam (fastest) > lorazepam (medium speed) > midazolam (slowest onset)
+    * IV speed of onset: <span class="drug">Diazepam</span> (fastest) > <span class="drug">lorazepam</span> (medium speed) > midazolam (slowest onset)
 
   * A more lipophilic benzodiazepine is more slowly absorbed following **intramuscular administration**, affecting the onset of action.
 

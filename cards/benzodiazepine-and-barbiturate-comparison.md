@@ -5,7 +5,7 @@ authors:
 categories:
   - Pharmacology
   - Toxicology
-created: 2019/12/31
+created: 2020/01/03
 updated: ''
 ---
 ![Benzodiazepine Barbiturate Comparison Table](/media/Benzodiazepine-Barbiturate-Comparison-Table.png "Benzodiazepine Barbiturate Comparison Table")
@@ -33,13 +33,13 @@ updated: ''
 
   * A more lipophilic benzodiazepine is more slowly absorbed following **intramuscular administration**, affecting the onset of action.
 
-    * IM speed of onset: Midazolam (fastest) > lorazepam  (medium speed)
+    * IM speed of onset: <span class="drug">Midazolam</span> (fastest) > <span class="drug">lorazepam</span>  (medium speed)
  
-    * Diazepam onset is variable because of unreliable IM absorption
+    * <span class="drug">Diazepam</span> onset is variable because of unreliable IM absorption
 
   * A more lipophilic compound quickly diffuses out of the CNS and into lipid tissue, leading to short duration of action
 
-    * Diazepam has a short duration of action with a single dose despite its long T<sub>1/2</sub>. 
+    * <span class="drug">Diazepam</span> has a short duration of action with a single dose despite its long T<sub>1/2</sub>. 
 
     * With repeated dosing the concentration will accumulate saturating the lipid tissue and protein binding, resulting in a longer effect duration approaching the T<sub>1/2</sub>.
 

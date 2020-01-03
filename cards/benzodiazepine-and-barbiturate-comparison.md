@@ -10,7 +10,7 @@ updated: ''
 ---
 ![Benzodiazepine Barbiturate Comparison Table](/media/Benzodiazepine-Barbiturate-Comparison-Table.png "Benzodiazepine Barbiturate Comparison Table")
 
-## Clinical Implications \[2,10]
+## Clinical Implications [2, 10]
 
 * All benzodiazepines and barbiturates are **metabolized by the liver**.
 
@@ -22,7 +22,7 @@ updated: ''
 
     > Phase II metabolism (glucuronidation): Less effect on pharmacokinetics with hepatic dysfunction.
 
-## Pharmacokinetics
+## Pharmacokinetics [1, 3-5, 10]
 
 * Benzodiazepines exert primary action in central nervous system
 * Drug permeability across the blood brain barrier influenced by the lipophilicity of molecule

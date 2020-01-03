@@ -7,11 +7,10 @@ categories:
 created: 2019/12/30
 updated: ''
 ---
-# Acute Chest Syndrome
-
 ## Background
 
 * A leading cause of hospitalization and mortality in sickle cell patients
+
 * Up to half of sickle cell patients will develop
 * More common in HbSS but can occur in any phenotype
 * Higher incidence in children but *more severe and worse outcomes in adults*
@@ -22,6 +21,7 @@ updated: ''
 * Children: most commonly associated with infection or reactive airway disease
   * Atypical bacteria or RSV
   * Inflammation results in pulmonary vaso-occlusion
+
 * Adults- bone marrow/fat emboli
   * Vaso-occlusion in bone marrow leads to release of bone marrow/fat emboli into circulation
   * Mechanical obstruction occurs in small vessels of lungs
@@ -33,7 +33,9 @@ updated: ''
 ## Management
 
 * Supplemental oxygen and incentive spirometry
-  * Consider NIPPV if unable to maintain oxygen saturation > 92% with NC or NRB
+  * Consider NIPPV if unable to maintain oxygen 
+saturation > 92% with NC or NRB
+
 * IVF to avoid hypovolemia
   * D5 1/2 NS (resuscitate to euvolemia)
 * Antibiotics

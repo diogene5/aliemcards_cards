@@ -5,10 +5,10 @@ authors:
 categories:
   - Pharmacology
   - Toxicology
-created: 2020/01/03
+created: 2020/01/15
 updated: ''
 ---
-![Benzodiazepine Barbiturate Comparison Table](/media/Benzodiazepine-Barbiturate-Comparison-Table.png "Benzodiazepine Barbiturate Comparison Table")
+![BenzodiazepineBarbiturateComparisonTable] (/media/Benzodiazepine-Barbiturate-Comparison-Table.png "Benzodiazepine Barbiturate Comparison Table")
 
 ## Clinical Implications \[2, 10]
 

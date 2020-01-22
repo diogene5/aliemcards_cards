@@ -23,4 +23,14 @@ The referral-consultation process is of utmost importance in the emergency depar
 
 ## CONSULT (3):
 
+![CONSULT Model](/media/CONSULT-Model-Table.png "CONSULT")
 
+
+These models are similar in content but have important differences.
+ - 5C model has the largest evidence basis behind improving quality of consultation requests and communication. Most studies involve medical students.
+- PIQUED was derived using residents from various specialties. Includes educational modifications and debriefing to allow learning from each interaction.
+- CONSULT is the newest model. Also studied with residents and found to be beneficial after just one hour educational session.
+
+For more information on this topic: [Conquering Consultations: A Guide to Advances in the Science of Referral-Consultation Interactions for Residency Education](https://pubmed.ncbi.nlm.nih.gov/30661857)
+
+### References

@@ -34,3 +34,7 @@ These models are similar in content but have important differences.
 For more information on this topic: [Conquering Consultations: A Guide to Advances in the Science of Referral-Consultation Interactions for Residency Education](https://pubmed.ncbi.nlm.nih.gov/30661857)
 
 ### References
+1. Kessler CS, Afshar Y, Sardar G, Yudkowsky R, Ankel F, Schwartz A. A prospective, randomized, controlled study demonstrating a novel, effective model of transfer of care between physicians: the 5 Cs of consultation. Acad Emerg Med. 2012;1998):968-974 [[PubMed]](https://pubmed.ncbi.nlm.nih.gov/22905961)
+2. Chan T, Orlich D, Kulasegaram K, Sherbino J. Understanding communication between emergency and consulting physicians: a qualitative study that describes and defines the essential elements of the emergency department consultation-referral process for the junior learner. CJEM. 2013;15(1):42-51. [[PubMed]](https://pubmed.ncbi.nlm.nih.gov/23283122)
+3. Podolsky A, Stern DT, Peccoralo L. The Courteous Consult: A CONSULT Card and Training to Improve Resident Consults. j Grad Med Educ. 2015;7(10:113-117. [[PubMed]](https://pubmed.ncbi.nlm.nih.gov/26217436)
+Kessler CS, Kalapurayil PS, Yudkowsky R, Schwartz A. Validity evidence for a new checklist evaluating consultations, the 5Cs model. Acad Med. 2012;87(10):1408-1412. [[PubMed]](https://pubmed.ncbi.nlm.nih.gov/22914527)

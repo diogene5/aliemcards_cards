@@ -7,6 +7,8 @@ categories:
 created: 2020/01/23
 updated: ''
 ---
+# Acute Chest Syndrome
+
 ## Background [1, 2]
 
 * A leading cause of hospitalization and mortality in sickle cell patients

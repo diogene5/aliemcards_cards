@@ -8,7 +8,7 @@ categories:
 created: 2020/01/15
 updated: ''
 ---
-![BenzodiazepineBarbiturateComparisonTable] (/media/Benzodiazepine-Barbiturate-Comparison-Table.png)
+![BenzodiazepineBarbiturateComparisonTable](/media/Benzodiazepine-Barbiturate-Comparison-Table.png)
 
 ## Clinical Implications \[2, 10]
 

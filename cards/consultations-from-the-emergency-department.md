@@ -13,7 +13,7 @@ updated: ''
 
 The referral-consultation process is of utmost importance in the emergency department (ED). Here are three easy, evidence-based mnemonics to hep you navigate these situations: 5Cs, PIQUED, and CONSULT [1-3].
 
-## 5Cs model [1,4,5]:
+## 5Cs model [1, 4, 5]:
 
 ![5Cs Model](/media/5Cs-Model-Table.png "5Cs Model")
 
